@@ -1,0 +1,353 @@
+{
+  "decisions": null,
+  "href": "https://api.oyez.org/cases/2016/16-309",
+  "second_party": "United States",
+  "first_party": "Divna Maslenjak",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22264",
+      "advocate_description": "for petitioner",
+      "advocate": {
+        "href": "https://api.oyez.org/people/christopher_landau",
+        "ID": 19410,
+        "last_name": "Landau",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "christopher_landau",
+        "roles": null,
+        "name": "Christopher Landau"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22265",
+      "advocate_description": "for respondent",
+      "advocate": {
+        "href": "https://api.oyez.org/people/robert_a_parker",
+        "ID": 62835,
+        "last_name": "Parker",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "robert_a_parker",
+        "roles": null,
+        "name": "Robert A. Parker"
+      }
+    }
+  ],
+  "description": " A case in which the Court will decide whether a naturalized American citizen can be stripped of her citizenship in a criminal proceeding based on an immaterial false statement.\r\n",
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": null,
+  "facts_of_the_case": "<p dir=\"ltr\">In April 1998, Divna Maslenjak, an ethnic Serb from modern-day Bosnia, met with a U.S. immigration official to seek refugee status for her and her family at the close of the Bosnian civil war. Through a translator, Maslenjak told the immigration official that the family feared persecution in their home region of Bosnia based on their Serbian ethnicity. Maslenjak also told the immigration official that the family feared reprisal because her husband had evaded conscription into the Bosnian Serb militia during the war. Maslenjak and her family were granted refugee status in 1999 and immigrated to the United States in September 2000. Maslenjak was naturalized as a U.S. citizen on August 3, 2007. During the naturalization process, Maslenjak denied ever having given false or misleading information to a U.S. official in order to gain entry to the United states or to avoid removal. </p>\n<p>On October 7, 2007 Maslenjak’s husband, Ratko, was convicted on two counts of making false statements on a government document for his failure to disclose that he had in fact served as an officer in a Serbian military unit. To avoid deportation, Ratko applied for asylum. Testifying on his behalf at the asylum hearing, Maslenjak admitted that Ratko had served in the Serbian militia and that she had lied to the immigration officer during the refugee application interview in 1998. Maslenjak was subsequently charged with two counts of naturalization fraud for denying having ever given false or misleading information to a U.S. official. At trial, the jury was instructed that, in order to find Maslenjak guilty of fraudulently obtaining her naturalization, it need not find that her false statements were material to the decision to approve her naturalization, merely that she made them knowing their falsehood. Maslenjak was convicted on both counts, sentenced to two years probation, and stripped of her citizenship. The U.S. Court of Appeals for the Sixth Circuit affirmed her conviction and held that proof of a material false statement was not a required element of naturalization fraud.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53959",
+      "dates": [
+        1484287200
+      ],
+      "event": "Granted"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54026",
+      "dates": [
+        1493182800
+      ],
+      "event": "Argued"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/roberts8",
+      "ID": 62838,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/john_g_roberts_jr",
+          "ID": 15086,
+          "last_name": "Roberts",
+          "thumbnail": {
+            "size": 52305,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png",
+            "id": 32683,
+            "mime": "image/png"
+          },
+          "length_of_service": 3842,
+          "view_count": 110,
+          "identifier": "john_g_roberts_jr",
+          "roles": [
+            {
+              "appointing_president": "George W. Bush",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2730",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2730,
+              "date_start": 1127970000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "John G. Roberts, Jr."
+        },
+        {
+          "href": "https://api.oyez.org/people/anthony_m_kennedy",
+          "ID": 15113,
+          "last_name": "Kennedy",
+          "thumbnail": {
+            "size": 47100,
+            "href": "https://api.oyez.org/sites/default/files/images/people/anthony_m_kennedy/anthony_m_kennedy.thumb.png",
+            "id": 32679,
+            "mime": "image/png"
+          },
+          "length_of_service": 10275,
+          "view_count": 158,
+          "identifier": "anthony_m_kennedy",
+          "roles": [
+            {
+              "appointing_president": "Ronald Reagan",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2757",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2757,
+              "date_start": 572162400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Anthony M. Kennedy"
+        },
+        {
+          "href": "https://api.oyez.org/people/clarence_thomas",
+          "ID": 15100,
+          "last_name": "Thomas",
+          "thumbnail": {
+            "size": 49064,
+            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png",
+            "id": 32680,
+            "mime": "image/png"
+          },
+          "length_of_service": 9347,
+          "view_count": 197,
+          "identifier": "clarence_thomas",
+          "roles": [
+            {
+              "appointing_president": "George H. W. Bush",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2744",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2744,
+              "date_start": 688194000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Clarence Thomas"
+        },
+        {
+          "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
+          "ID": 15084,
+          "last_name": "Ginsburg",
+          "thumbnail": {
+            "size": 45030,
+            "href": "https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png",
+            "id": 32681,
+            "mime": "image/png"
+          },
+          "length_of_service": 8275,
+          "view_count": 158,
+          "identifier": "ruth_bader_ginsburg",
+          "roles": [
+            {
+              "appointing_president": "Bill Clinton",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2728",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2728,
+              "date_start": 744958800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Ruth Bader Ginsburg"
+        },
+        {
+          "href": "https://api.oyez.org/people/stephen_g_breyer",
+          "ID": 15139,
+          "last_name": "Breyer",
+          "thumbnail": {
+            "size": 49908,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png",
+            "id": 32682,
+            "mime": "image/png"
+          },
+          "length_of_service": 7917,
+          "view_count": 117,
+          "identifier": "stephen_g_breyer",
+          "roles": [
+            {
+              "appointing_president": "Bill Clinton",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2785",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2785,
+              "date_start": 775890000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Stephen G. Breyer"
+        },
+        {
+          "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+          "ID": 15068,
+          "last_name": "Alito",
+          "thumbnail": {
+            "size": 44799,
+            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png",
+            "id": 32684,
+            "mime": "image/png"
+          },
+          "length_of_service": 3718,
+          "view_count": 96,
+          "identifier": "samuel_a_alito_jr",
+          "roles": [
+            {
+              "appointing_president": "George W. Bush",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2712",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2712,
+              "date_start": 1138687200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Samuel A. Alito, Jr."
+        },
+        {
+          "href": "https://api.oyez.org/people/sonia_sotomayor",
+          "ID": 15131,
+          "last_name": "Sotomayor",
+          "thumbnail": {
+            "size": 50379,
+            "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png",
+            "id": 32685,
+            "mime": "image/png"
+          },
+          "length_of_service": 2433,
+          "view_count": 124,
+          "identifier": "sonia_sotomayor",
+          "roles": [
+            {
+              "appointing_president": null,
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2776",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2776,
+              "date_start": 1249707600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Sonia Sotomayor"
+        },
+        {
+          "href": "https://api.oyez.org/people/elena_kagan",
+          "ID": 15094,
+          "last_name": "Kagan",
+          "thumbnail": {
+            "size": 44456,
+            "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png",
+            "id": 32690,
+            "mime": "image/png"
+          },
+          "length_of_service": 2347,
+          "view_count": 126,
+          "identifier": "elena_kagan",
+          "roles": [
+            {
+              "appointing_president": "Barack Obama",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2738",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 2738,
+              "date_start": 1281157200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Elena Kagan"
+        },
+        {
+          "href": "https://api.oyez.org/people/neil_gorsuch",
+          "ID": 62836,
+          "last_name": "Gorsuch",
+          "thumbnail": null,
+          "length_of_service": 49,
+          "view_count": 112,
+          "identifier": "neil_gorsuch",
+          "roles": [
+            {
+              "appointing_president": "Donald J. Trump",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3506",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 0,
+              "id": 3506,
+              "date_start": 1491541200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Neil Gorsuch"
+        }
+      ],
+      "court_start": 1491800400,
+      "view_count": 0,
+      "identifier": "roberts8",
+      "images": null,
+      "name": "Roberts Court (2017- )"
+    }
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "view_count": 3034,
+  "lower_court": {
+    "href": "https://api.oyez.org/taxonomy/term/11",
+    "ID": 11,
+    "name": "United States Court of Appeals for the Sixth Circuit"
+  },
+  "justia_url": null,
+  "docket_number": "16-309",
+  "ID": 62802,
+  "written_opinion": null,
+  "question": "<p>May a naturalized American citizen be stripped of her citizenship in a criminal proceeding based on an immaterial false statement?</p>\n",
+  "citation": {
+    "page": null,
+    "volume": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27496"
+  },
+  "oral_argument_audio": [
+    {
+      "public_note": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/24284",
+      "unavailable": false,
+      "title": "Oral Argument - April 26, 2017",
+      "id": 24284
+    }
+  ],
+  "decided_by": null,
+  "location": {
+    "city": "Cleveland",
+    "province": "OH",
+    "province_name": "Ohio",
+    "postal_code": null,
+    "street": "801 W Superior Ave #100",
+    "latitude": 41.496295,
+    "longitude": -81.697933,
+    "name": "United States District Court for the Northern District of Ohio"
+  },
+  "name": "Maslenjak v. United States",
+  "term": "2016",
+  "additional_docket_numbers": null
+}

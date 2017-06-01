@@ -1,0 +1,719 @@
+{
+  "decisions": null,
+  "href": "https://api.oyez.org/cases/1900-1940/305us337",
+  "second_party": "S.W. Canada, Registrar of the University of Missouri",
+  "first_party": "Missouri ex rel.  Lloyd Gaines",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21443",
+      "advocate_description": "for the petitioner",
+      "advocate": {
+        "href": "https://api.oyez.org/people/charles_h_houston",
+        "ID": 19148,
+        "last_name": "Houston",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "charles_h_houston",
+        "roles": null,
+        "name": "Charles H. Houston"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21446",
+      "advocate_description": "for the petitioner",
+      "advocate": {
+        "href": "https://api.oyez.org/people/sidney_r_redmond",
+        "ID": 62618,
+        "last_name": "Redmond",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "sidney_r_redmond",
+        "roles": null,
+        "name": "Sidney R. Redmond"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21444",
+      "advocate_description": "for the respondent",
+      "advocate": {
+        "href": "https://api.oyez.org/people/william_s_hogsett",
+        "ID": 44879,
+        "last_name": "Hogsett",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "william_s_hogsett",
+        "roles": null,
+        "name": "William S. Hogsett"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21445",
+      "advocate_description": "for the respondent",
+      "advocate": {
+        "href": "https://api.oyez.org/people/fred_l_williams",
+        "ID": 24748,
+        "last_name": "Williams",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "fred_l_williams",
+        "roles": null,
+        "name": "Fred L. Williams"
+      }
+    }
+  ],
+  "description": "A case in which the Court held that Missouri's lack of a black students' law school, which forced students to attend similar schools out of state, violated the Equal Protection Clause of the Fourteenth Amendment.",
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": "<p>Yes. Chief Justice Hughes delivered the opinion of the 7-2 majority. The Court held that by establishing Lincoln University as a state university for black students, the state of Missouri established precedent for providing equal opportunity in higher education for both black and white students. Therefore, the denial of access to legal education was unlawful discrimination. The Court also held that the state’s intent to eventually create a law school at Lincoln University was not enough to absolve the responsibility to provide a legal education in this case. The Court held that Missouri failed in its constitutional duty to provide equal protection under the law by failing to provide equal access to public education within the state.</p>\n<p>Justice McReynolds wrote a dissenting opinion and argued that education was a states’ right issue, and there can only be federal interference when there is a “clear and unmistakable disregard of rights.” Because the state of Missouri was prepared to pay Gaines’ tuition at an out-of-state law school, Gaines would still have access to a legal education and therefore was not being denied his rights.</p>\n",
+  "facts_of_the_case": "<p>Lloyd Gaines graduated from Lincoln University, a public university specifically for black students, in 1935. Because Lincoln University did not have a law school, he applied to the University of Missouri Law School. He was refused admission and told that admitting him would be contrary to Missouri’s state constitution, laws, and public policy. Gaines argued that this denial of admission violated his Fourteenth Amendment rights and sued to force the Board of Regents to admit him. The circuit court denied his petitions, and the Supreme Court of Missouri affirmed.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53104",
+      "dates": [
+        -982864800
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53105",
+      "dates": [
+        -980013600
+      ],
+      "event": "Decided"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53314",
+      "dates": [
+        -985456800
+      ],
+      "event": "Granted"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/hughes10",
+      "ID": 15351,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/charles_e_hughes",
+          "ID": 15038,
+          "last_name": "Hughes",
+          "thumbnail": {
+            "size": 56986,
+            "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_hughes/charles_e_hughes.thumb.png",
+            "id": 32790,
+            "mime": "image/png"
+          },
+          "length_of_service": 6214,
+          "view_count": 0,
+          "identifier": "charles_e_hughes",
+          "roles": [
+            {
+              "appointing_president": "William Howard Taft",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2681",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -1690221600,
+              "id": 2681,
+              "date_start": -1869069600,
+              "institution_name": "Supreme Court of the United States"
+            },
+            {
+              "appointing_president": "Herbert Hoover",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2682",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -899578800,
+              "id": 2682,
+              "date_start": -1257616800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Charles E. Hughes"
+        },
+        {
+          "href": "https://api.oyez.org/people/benjamin_n_cardozo",
+          "ID": 15109,
+          "last_name": "Cardozo",
+          "thumbnail": {
+            "size": 42895,
+            "href": "https://api.oyez.org/sites/default/files/images/people/benjamin_n_cardozo/benjamin_n_cardozo.thumb.png",
+            "id": 32696,
+            "mime": "image/png"
+          },
+          "length_of_service": 2308,
+          "view_count": 0,
+          "identifier": "benjamin_n_cardozo",
+          "roles": [
+            {
+              "appointing_president": "Herbert Hoover",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2753",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -993495600,
+              "id": 2753,
+              "date_start": -1192903200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Benjamin N. Cardozo"
+        },
+        {
+          "href": "https://api.oyez.org/people/james_c_mcreynolds",
+          "ID": 15066,
+          "last_name": "McReynolds",
+          "thumbnail": {
+            "size": 55380,
+            "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+            "id": 32720,
+            "mime": "image/png"
+          },
+          "length_of_service": 9608,
+          "view_count": 0,
+          "identifier": "james_c_mcreynolds",
+          "roles": [
+            {
+              "appointing_president": "Woodrow Wilson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -912535200,
+              "id": 2710,
+              "date_start": -1742666400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "James C. McReynolds"
+        },
+        {
+          "href": "https://api.oyez.org/people/louis_d_brandeis",
+          "ID": 15075,
+          "last_name": "Brandeis",
+          "thumbnail": {
+            "size": 33357,
+            "href": "https://api.oyez.org/sites/default/files/images/people/louis_d_brandeis/louis_d_brandeis.thumb.png",
+            "id": 32739,
+            "mime": "image/png"
+          },
+          "length_of_service": 8288,
+          "view_count": 0,
+          "identifier": "louis_d_brandeis",
+          "roles": [
+            {
+              "appointing_president": "Woodrow Wilson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2719",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -974570400,
+              "id": 2719,
+              "date_start": -1690653600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Louis D. Brandeis"
+        },
+        {
+          "href": "https://api.oyez.org/people/pierce_butler",
+          "ID": 15138,
+          "last_name": "Butler",
+          "thumbnail": {
+            "size": 38328,
+            "href": "https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png",
+            "id": 32751,
+            "mime": "image/png"
+          },
+          "length_of_service": 6162,
+          "view_count": 0,
+          "identifier": "pierce_butler",
+          "roles": [
+            {
+              "appointing_president": "Warren G. Harding",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2784",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -950724000,
+              "id": 2784,
+              "date_start": -1483120800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Pierce Butler"
+        },
+        {
+          "href": "https://api.oyez.org/people/harlan_fiske_stone",
+          "ID": 15134,
+          "last_name": "Stone",
+          "thumbnail": {
+            "size": 33656,
+            "href": "https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png",
+            "id": 32788,
+            "mime": "image/png"
+          },
+          "length_of_service": 7720,
+          "view_count": 0,
+          "identifier": "harlan_fiske_stone",
+          "roles": [
+            {
+              "appointing_president": "Calvin Coolidge",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2779",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -899406000,
+              "id": 2779,
+              "date_start": -1414864800,
+              "institution_name": "Supreme Court of the United States"
+            },
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2780",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -747770400,
+              "id": 2780,
+              "date_start": -899319600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Harlan Fiske Stone"
+        },
+        {
+          "href": "https://api.oyez.org/people/owen_j_roberts",
+          "ID": 15041,
+          "last_name": "Roberts",
+          "thumbnail": {
+            "size": 53589,
+            "href": "https://api.oyez.org/sites/default/files/images/people/owen_j_roberts/owen_j_roberts.thumb.png",
+            "id": 32748,
+            "mime": "image/png"
+          },
+          "length_of_service": 5538,
+          "view_count": 0,
+          "identifier": "owen_j_roberts",
+          "roles": [
+            {
+              "appointing_president": "Herbert Hoover",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2685",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -770670000,
+              "id": 2685,
+              "date_start": -1249153200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Owen J. Roberts"
+        },
+        {
+          "href": "https://api.oyez.org/people/hugo_l_black",
+          "ID": 15089,
+          "last_name": "Black",
+          "thumbnail": {
+            "size": 51667,
+            "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+            "id": 32719,
+            "mime": "image/png"
+          },
+          "length_of_service": 12447,
+          "view_count": 69,
+          "identifier": "hugo_l_black",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": 53931600,
+              "id": 2733,
+              "date_start": -1021489200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Hugo L. Black"
+        },
+        {
+          "href": "https://api.oyez.org/people/stanley_reed",
+          "ID": 15063,
+          "last_name": "Reed",
+          "thumbnail": {
+            "size": 39053,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+            "id": 79211,
+            "mime": "image/png"
+          },
+          "length_of_service": 6965,
+          "view_count": 0,
+          "identifier": "stanley_reed",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": -405453600,
+              "id": 2707,
+              "date_start": -1007229600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Stanley Reed"
+        }
+      ],
+      "court_start": -993409200,
+      "view_count": 0,
+      "identifier": "hughes10",
+      "images": [
+        {
+          "size": 1623788,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/hughes10.jpg",
+          "id": 56668,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Hughes Court (1938-1939)"
+    }
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "view_count": 624,
+  "lower_court": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/305/337/",
+  "docket_number": "57",
+  "ID": 62473,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 15939,
+      "href": "https://api.oyez.org/case_document/written_opinion/15939",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/305/337/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1936172,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 15940,
+      "href": "https://api.oyez.org/case_document/written_opinion/15940",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/305/337/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1936173,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Did Gaines’ denial of admission to the University of Missouri Law School violate the Equal Protection Clause of the Fourteenth Amendment?</p>\n",
+  "citation": {
+    "page": "337",
+    "volume": "305",
+    "year": "1938",
+    "href": "https://api.oyez.org/case_citation/case_citation/27275"
+  },
+  "oral_argument_audio": null,
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/hughes10",
+    "ID": 15351,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/charles_e_hughes",
+        "ID": 15038,
+        "last_name": "Hughes",
+        "thumbnail": {
+          "size": 56986,
+          "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_hughes/charles_e_hughes.thumb.png",
+          "id": 32790,
+          "mime": "image/png"
+        },
+        "length_of_service": 6214,
+        "view_count": 0,
+        "identifier": "charles_e_hughes",
+        "roles": [
+          {
+            "appointing_president": "William Howard Taft",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2681",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1690221600,
+            "id": 2681,
+            "date_start": -1869069600,
+            "institution_name": "Supreme Court of the United States"
+          },
+          {
+            "appointing_president": "Herbert Hoover",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2682",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -899578800,
+            "id": 2682,
+            "date_start": -1257616800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Charles E. Hughes"
+      },
+      {
+        "href": "https://api.oyez.org/people/benjamin_n_cardozo",
+        "ID": 15109,
+        "last_name": "Cardozo",
+        "thumbnail": {
+          "size": 42895,
+          "href": "https://api.oyez.org/sites/default/files/images/people/benjamin_n_cardozo/benjamin_n_cardozo.thumb.png",
+          "id": 32696,
+          "mime": "image/png"
+        },
+        "length_of_service": 2308,
+        "view_count": 0,
+        "identifier": "benjamin_n_cardozo",
+        "roles": [
+          {
+            "appointing_president": "Herbert Hoover",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2753",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -993495600,
+            "id": 2753,
+            "date_start": -1192903200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Benjamin N. Cardozo"
+      },
+      {
+        "href": "https://api.oyez.org/people/james_c_mcreynolds",
+        "ID": 15066,
+        "last_name": "McReynolds",
+        "thumbnail": {
+          "size": 55380,
+          "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+          "id": 32720,
+          "mime": "image/png"
+        },
+        "length_of_service": 9608,
+        "view_count": 0,
+        "identifier": "james_c_mcreynolds",
+        "roles": [
+          {
+            "appointing_president": "Woodrow Wilson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -912535200,
+            "id": 2710,
+            "date_start": -1742666400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "James C. McReynolds"
+      },
+      {
+        "href": "https://api.oyez.org/people/louis_d_brandeis",
+        "ID": 15075,
+        "last_name": "Brandeis",
+        "thumbnail": {
+          "size": 33357,
+          "href": "https://api.oyez.org/sites/default/files/images/people/louis_d_brandeis/louis_d_brandeis.thumb.png",
+          "id": 32739,
+          "mime": "image/png"
+        },
+        "length_of_service": 8288,
+        "view_count": 0,
+        "identifier": "louis_d_brandeis",
+        "roles": [
+          {
+            "appointing_president": "Woodrow Wilson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2719",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -974570400,
+            "id": 2719,
+            "date_start": -1690653600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Louis D. Brandeis"
+      },
+      {
+        "href": "https://api.oyez.org/people/pierce_butler",
+        "ID": 15138,
+        "last_name": "Butler",
+        "thumbnail": {
+          "size": 38328,
+          "href": "https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png",
+          "id": 32751,
+          "mime": "image/png"
+        },
+        "length_of_service": 6162,
+        "view_count": 0,
+        "identifier": "pierce_butler",
+        "roles": [
+          {
+            "appointing_president": "Warren G. Harding",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2784",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -950724000,
+            "id": 2784,
+            "date_start": -1483120800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Pierce Butler"
+      },
+      {
+        "href": "https://api.oyez.org/people/harlan_fiske_stone",
+        "ID": 15134,
+        "last_name": "Stone",
+        "thumbnail": {
+          "size": 33656,
+          "href": "https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png",
+          "id": 32788,
+          "mime": "image/png"
+        },
+        "length_of_service": 7720,
+        "view_count": 0,
+        "identifier": "harlan_fiske_stone",
+        "roles": [
+          {
+            "appointing_president": "Calvin Coolidge",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2779",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -899406000,
+            "id": 2779,
+            "date_start": -1414864800,
+            "institution_name": "Supreme Court of the United States"
+          },
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2780",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -747770400,
+            "id": 2780,
+            "date_start": -899319600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Harlan Fiske Stone"
+      },
+      {
+        "href": "https://api.oyez.org/people/owen_j_roberts",
+        "ID": 15041,
+        "last_name": "Roberts",
+        "thumbnail": {
+          "size": 53589,
+          "href": "https://api.oyez.org/sites/default/files/images/people/owen_j_roberts/owen_j_roberts.thumb.png",
+          "id": 32748,
+          "mime": "image/png"
+        },
+        "length_of_service": 5538,
+        "view_count": 0,
+        "identifier": "owen_j_roberts",
+        "roles": [
+          {
+            "appointing_president": "Herbert Hoover",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2685",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -770670000,
+            "id": 2685,
+            "date_start": -1249153200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Owen J. Roberts"
+      },
+      {
+        "href": "https://api.oyez.org/people/hugo_l_black",
+        "ID": 15089,
+        "last_name": "Black",
+        "thumbnail": {
+          "size": 51667,
+          "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+          "id": 32719,
+          "mime": "image/png"
+        },
+        "length_of_service": 12447,
+        "view_count": 69,
+        "identifier": "hugo_l_black",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": 53931600,
+            "id": 2733,
+            "date_start": -1021489200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Hugo L. Black"
+      },
+      {
+        "href": "https://api.oyez.org/people/stanley_reed",
+        "ID": 15063,
+        "last_name": "Reed",
+        "thumbnail": {
+          "size": 39053,
+          "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+          "id": 79211,
+          "mime": "image/png"
+        },
+        "length_of_service": 6965,
+        "view_count": 0,
+        "identifier": "stanley_reed",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": -405453600,
+            "id": 2707,
+            "date_start": -1007229600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Stanley Reed"
+      }
+    ],
+    "court_start": -993409200,
+    "view_count": 0,
+    "identifier": "hughes10",
+    "images": [
+      {
+        "size": 1623788,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/hughes10.jpg",
+        "id": 56668,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Hughes Court (1938-1939)"
+  },
+  "location": {
+    "city": "Columbia",
+    "province": "MO",
+    "province_name": "Missouri",
+    "postal_code": null,
+    "street": null,
+    "latitude": 38.943431,
+    "longitude": -92.328094,
+    "name": "University of Missouri School of Law"
+  },
+  "name": "Missouri ex rel. Gaines v. Canada",
+  "term": "1900-1940",
+  "additional_docket_numbers": null
+}

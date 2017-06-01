@@ -1,0 +1,915 @@
+{
+  "decisions": [
+    {
+      "href": "https://api.oyez.org/case_decision/case_decision/16495",
+      "votes": [
+        {
+          "ideology": 0,
+          "seniority": 2,
+          "opinion_type": "majority",
+          "member": {
+            "href": "https://api.oyez.org/people/joseph_mckenna",
+            "ID": 15098,
+            "last_name": "McKenna",
+            "thumbnail": {
+              "size": 56275,
+              "href": "https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png",
+              "id": 32692,
+              "mime": "image/png"
+            },
+            "length_of_service": 9840,
+            "view_count": 0,
+            "identifier": "joseph_mckenna",
+            "roles": [
+              {
+                "appointing_president": "William McKinley",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2742",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1419703200,
+                "id": 2742,
+                "date_start": -2269879200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Joseph McKenna"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206482",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": 0,
+          "seniority": 4,
+          "opinion_type": "dissent",
+          "member": {
+            "href": "https://api.oyez.org/people/william_r_day",
+            "ID": 15055,
+            "last_name": "Day",
+            "thumbnail": {
+              "size": 45485,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_r_day/william_r_day.thumb.png",
+              "id": 32783,
+              "mime": "image/png"
+            },
+            "length_of_service": 7196,
+            "view_count": 0,
+            "identifier": "william_r_day",
+            "roles": [
+              {
+                "appointing_president": "Theodore Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2699",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1487440800,
+                "id": 2699,
+                "date_start": -2109175200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William R. Day"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206483",
+          "vote": "minority",
+          "joining": null
+        },
+        {
+          "ideology": 0,
+          "seniority": 6,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/mahlon_pitney",
+            "ID": 15148,
+            "last_name": "Pitney",
+            "thumbnail": {
+              "size": 49375,
+              "href": "https://api.oyez.org/sites/default/files/images/people/mahlon_pitney/mahlon_pitney.thumb.png",
+              "id": 32741,
+              "mime": "image/png"
+            },
+            "length_of_service": 3940,
+            "view_count": 0,
+            "identifier": "mahlon_pitney",
+            "roles": [
+              {
+                "appointing_president": "William Howard Taft",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2796",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1483293600,
+                "id": 2796,
+                "date_start": -1823709600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Mahlon Pitney"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206484",
+          "vote": "minority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/william_r_day",
+              "ID": 15055,
+              "last_name": "Day",
+              "thumbnail": {
+                "size": 45485,
+                "href": "https://api.oyez.org/sites/default/files/images/people/william_r_day/william_r_day.thumb.png",
+                "id": 32783,
+                "mime": "image/png"
+              },
+              "length_of_service": 7196,
+              "view_count": 0,
+              "identifier": "william_r_day",
+              "roles": [
+                {
+                  "appointing_president": "Theodore Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2699",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -1487440800,
+                  "id": 2699,
+                  "date_start": -2109175200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "William R. Day"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 7,
+          "opinion_type": "dissent",
+          "member": {
+            "href": "https://api.oyez.org/people/james_c_mcreynolds",
+            "ID": 15066,
+            "last_name": "McReynolds",
+            "thumbnail": {
+              "size": 55380,
+              "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+              "id": 32720,
+              "mime": "image/png"
+            },
+            "length_of_service": 9608,
+            "view_count": 0,
+            "identifier": "james_c_mcreynolds",
+            "roles": [
+              {
+                "appointing_president": "Woodrow Wilson",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -912535200,
+                "id": 2710,
+                "date_start": -1742666400,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "James C. McReynolds"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206485",
+          "vote": "minority",
+          "joining": null
+        },
+        {
+          "ideology": 0,
+          "seniority": 1,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/edward_d_white",
+            "ID": 15144,
+            "last_name": "White",
+            "thumbnail": {
+              "size": 53055,
+              "href": "https://api.oyez.org/sites/default/files/images/people/edward_d_white/edward_d_white.thumb.png",
+              "id": 32789,
+              "mime": "image/png"
+            },
+            "length_of_service": 9928,
+            "view_count": 0,
+            "identifier": "edward_d_white",
+            "roles": [
+              {
+                "appointing_president": "Grover Cleveland",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2791",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1863108000,
+                "id": 2791,
+                "date_start": -2392221600,
+                "institution_name": "Supreme Court of the United States"
+              },
+              {
+                "appointing_president": null,
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2792",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -1534359600,
+                "id": 2792,
+                "date_start": -1863021600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Edward D. White"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206486",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/joseph_mckenna",
+              "ID": 15098,
+              "last_name": "McKenna",
+              "thumbnail": {
+                "size": 56275,
+                "href": "https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png",
+                "id": 32692,
+                "mime": "image/png"
+              },
+              "length_of_service": 9840,
+              "view_count": 0,
+              "identifier": "joseph_mckenna",
+              "roles": [
+                {
+                  "appointing_president": "William McKinley",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2742",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -1419703200,
+                  "id": 2742,
+                  "date_start": -2269879200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Joseph McKenna"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 3,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/oliver_w_holmes_jr",
+            "ID": 15048,
+            "last_name": "Holmes",
+            "thumbnail": {
+              "size": 53023,
+              "href": "https://api.oyez.org/sites/default/files/images/people/oliver_w_holmes_jr/oliver_w_holmes_jr.thumb.png",
+              "id": 32747,
+              "mime": "image/png"
+            },
+            "length_of_service": 10627,
+            "view_count": 0,
+            "identifier": "oliver_w_holmes_jr",
+            "roles": [
+              {
+                "appointing_president": "Theodore Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2692",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1198260000,
+                "id": 2692,
+                "date_start": -2116432800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Oliver W. Holmes, Jr."
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206487",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/joseph_mckenna",
+              "ID": 15098,
+              "last_name": "McKenna",
+              "thumbnail": {
+                "size": 56275,
+                "href": "https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png",
+                "id": 32692,
+                "mime": "image/png"
+              },
+              "length_of_service": 9840,
+              "view_count": 0,
+              "identifier": "joseph_mckenna",
+              "roles": [
+                {
+                  "appointing_president": "William McKinley",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2742",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -1419703200,
+                  "id": 2742,
+                  "date_start": -2269879200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Joseph McKenna"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 5,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/willis_van_devanter",
+            "ID": 15133,
+            "last_name": "Van Devanter",
+            "thumbnail": {
+              "size": 52800,
+              "href": "https://api.oyez.org/sites/default/files/images/people/willis_van_devanter/willis_van_devanter.thumb.png",
+              "id": 32785,
+              "mime": "image/png"
+            },
+            "length_of_service": 9647,
+            "view_count": 0,
+            "identifier": "willis_van_devanter",
+            "roles": [
+              {
+                "appointing_president": "William Howard Taft",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2778",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1028228400,
+                "id": 2778,
+                "date_start": -1861725600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Willis Van Devanter"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206488",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/joseph_mckenna",
+              "ID": 15098,
+              "last_name": "McKenna",
+              "thumbnail": {
+                "size": 56275,
+                "href": "https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png",
+                "id": 32692,
+                "mime": "image/png"
+              },
+              "length_of_service": 9840,
+              "view_count": 0,
+              "identifier": "joseph_mckenna",
+              "roles": [
+                {
+                  "appointing_president": "William McKinley",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2742",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -1419703200,
+                  "id": 2742,
+                  "date_start": -2269879200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Joseph McKenna"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 8,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/louis_d_brandeis",
+            "ID": 15075,
+            "last_name": "Brandeis",
+            "thumbnail": {
+              "size": 33357,
+              "href": "https://api.oyez.org/sites/default/files/images/people/louis_d_brandeis/louis_d_brandeis.thumb.png",
+              "id": 32739,
+              "mime": "image/png"
+            },
+            "length_of_service": 8288,
+            "view_count": 0,
+            "identifier": "louis_d_brandeis",
+            "roles": [
+              {
+                "appointing_president": "Woodrow Wilson",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2719",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -974570400,
+                "id": 2719,
+                "date_start": -1690653600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Louis D. Brandeis"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206489",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/joseph_mckenna",
+              "ID": 15098,
+              "last_name": "McKenna",
+              "thumbnail": {
+                "size": 56275,
+                "href": "https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png",
+                "id": 32692,
+                "mime": "image/png"
+              },
+              "length_of_service": 9840,
+              "view_count": 0,
+              "identifier": "joseph_mckenna",
+              "roles": [
+                {
+                  "appointing_president": "William McKinley",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2742",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -1419703200,
+                  "id": 2742,
+                  "date_start": -2269879200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Joseph McKenna"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 9,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/john_h_clarke",
+            "ID": 15062,
+            "last_name": "Clarke",
+            "thumbnail": {
+              "size": 32752,
+              "href": "https://api.oyez.org/sites/default/files/images/people/john_h_clarke/john_h_clarke.thumb.png",
+              "id": 32792,
+              "mime": "image/png"
+            },
+            "length_of_service": 2170,
+            "view_count": 0,
+            "identifier": "john_h_clarke",
+            "roles": [
+              {
+                "appointing_president": "Woodrow Wilson",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2706",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1492282800,
+                "id": 2706,
+                "date_start": -1679767200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "John H. Clarke"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/206490",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/joseph_mckenna",
+              "ID": 15098,
+              "last_name": "McKenna",
+              "thumbnail": {
+                "size": 56275,
+                "href": "https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png",
+                "id": 32692,
+                "mime": "image/png"
+              },
+              "length_of_service": 9840,
+              "view_count": 0,
+              "identifier": "joseph_mckenna",
+              "roles": [
+                {
+                  "appointing_president": "William McKinley",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2742",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -1419703200,
+                  "id": 2742,
+                  "date_start": -2269879200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Joseph McKenna"
+            }
+          ]
+        }
+      ],
+      "minority_vote": 3,
+      "winning_party": "Berger",
+      "decision_type": "majority opinion",
+      "majority_vote": 6,
+      "description": "Filing an affidavit of personal bias or personal prejudice requires the judge to remove himself from the case."
+    }
+  ],
+  "href": "https://api.oyez.org/cases/1900-1940/255us22",
+  "second_party": "United States",
+  "first_party": "Victor L. Berger, et al.",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21494",
+      "advocate_description": "for the petitioners",
+      "advocate": {
+        "href": "https://api.oyez.org/people/seymour_stedman",
+        "ID": 42028,
+        "last_name": "Stedman",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "seymour_stedman",
+        "roles": null,
+        "name": "Seymour Stedman"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21495",
+      "advocate_description": "for the petitioners",
+      "advocate": {
+        "href": "https://api.oyez.org/people/henry_f_cochems",
+        "ID": 26776,
+        "last_name": "Cochems",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "henry_f_cochems",
+        "roles": null,
+        "name": "Henry F. Cochems"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21496",
+      "advocate_description": "for the respondents",
+      "advocate": {
+        "href": "https://api.oyez.org/people/william_l_frierson",
+        "ID": 44685,
+        "last_name": "Frierson",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "william_l_frierson",
+        "roles": null,
+        "name": "William L. Frierson"
+      }
+    }
+  ],
+  "description": "A case in which the Court held that, when a party files a sufficient affidavit alleging personal bias or prejudice on the part of the judge under Section 21 of the Judicial Code, the judge in question must remove himself from the case.",
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": "<p>If the affidavit is sufficient to establish that the judge in question has a personal bias or prejudice regarding the case, then Section 21 requires that the judge remove himself from the case. Justice Joseph McKenna delivered the opinion of the 6-3 majority. The Court held that the language of Section 21 is clear and unambiguous in stating that the “judge shall proceed no further therein, but another judge shall be designated.” However, the absolutism of that statement is moderated by requirement that the affidavit detailing the relevant personal bias or prejudice allege sufficient facts to support the claim of bias and show that it is more than merely a belief. When a sufficient affidavit is filed under Section 21, it triggers a duty for the judge in question to remove himself from the case, as Judge Landis should have done in this case.</p>\n<p>Justice William R. Day wrote a dissent in which he argued that Section 21 was not intended to require a judge to remove himself from the case based on the filing of an affidavit sufficient to establish a claim of personal bias. Instead, the duty is only imposed when the affidavit is sufficient to stand up to a challenge. In this case, the affidavit in question was not sufficient to trigger the duty for Judge Landis to remove himself from the case. Justice Mahlon Pitney joined in the dissent. In his separate dissent, Justice James C. McReynolds wrote that Section 21 required an affidavit that alleged personal bias against the particular party to the case in question; an affidavit that alleged personal bias against a group to which the party belonged was not sufficient. The affidavit in this case did not allege sufficient facts to trigger the judge's duty to remove himself under Section 21, and therefore Judge Landis properly heard the case.</p>\n",
+  "facts_of_the_case": "<p>Victor L. Berger, Adolph Germer, William F. Kruse, J. Louis Engdahl, and Irwin St. John Tucker were all indicted and charged with violating the Espionage Act of 1917. Their case was assigned to Judge Kenesaw Mountain Landis, and the defendants moved to have another judge preside over the trial under Section 21 of the Judicial Code, which states that, whenever a party to an action files an affidavit that the judge before whom the action is proceeding has a personal bias or prejudice, another judge will be designated to hear the case. In this case, the defendants provided an affidavit alleging that Judge Landis was biased against people of German descent, and several of the defendants were German. The motion was denied, Judge Landis heard the case, and the defendants were convicted. The defendants appealed to the U.S. Court of Appeals for the Seventh Circuit, which certified questions of law about Section 21 to the Supreme Court.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53374",
+      "dates": [
+        -1548266400
+      ],
+      "event": "Granted"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53375",
+      "dates": [
+        -1543687200
+      ],
+      "event": "Decided"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "view_count": 108,
+  "lower_court": {
+    "href": "https://api.oyez.org/taxonomy/term/12",
+    "ID": 12,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "justia_url": "https://supreme.justia.com/cases/federal/us/255/22/",
+  "docket_number": "460",
+  "ID": 62641,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 16041,
+      "href": "https://api.oyez.org/case_document/written_opinion/16041",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/255/22/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1928890,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 16042,
+      "href": "https://api.oyez.org/case_document/written_opinion/16042",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/255/22/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1928891,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Does the filing of an affidavit of personal bias or personal prejudice require the judge in question to remove himself from the case?</p>\n",
+  "citation": {
+    "page": "22",
+    "volume": "255",
+    "year": "1921",
+    "href": "https://api.oyez.org/case_citation/case_citation/27397"
+  },
+  "oral_argument_audio": null,
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/white8",
+    "ID": 15318,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/edward_d_white",
+        "ID": 15144,
+        "last_name": "White",
+        "thumbnail": {
+          "size": 53055,
+          "href": "https://api.oyez.org/sites/default/files/images/people/edward_d_white/edward_d_white.thumb.png",
+          "id": 32789,
+          "mime": "image/png"
+        },
+        "length_of_service": 9928,
+        "view_count": 0,
+        "identifier": "edward_d_white",
+        "roles": [
+          {
+            "appointing_president": "Grover Cleveland",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2791",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1863108000,
+            "id": 2791,
+            "date_start": -2392221600,
+            "institution_name": "Supreme Court of the United States"
+          },
+          {
+            "appointing_president": null,
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2792",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -1534359600,
+            "id": 2792,
+            "date_start": -1863021600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Edward D. White"
+      },
+      {
+        "href": "https://api.oyez.org/people/joseph_mckenna",
+        "ID": 15098,
+        "last_name": "McKenna",
+        "thumbnail": {
+          "size": 56275,
+          "href": "https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png",
+          "id": 32692,
+          "mime": "image/png"
+        },
+        "length_of_service": 9840,
+        "view_count": 0,
+        "identifier": "joseph_mckenna",
+        "roles": [
+          {
+            "appointing_president": "William McKinley",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2742",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1419703200,
+            "id": 2742,
+            "date_start": -2269879200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Joseph McKenna"
+      },
+      {
+        "href": "https://api.oyez.org/people/oliver_w_holmes_jr",
+        "ID": 15048,
+        "last_name": "Holmes",
+        "thumbnail": {
+          "size": 53023,
+          "href": "https://api.oyez.org/sites/default/files/images/people/oliver_w_holmes_jr/oliver_w_holmes_jr.thumb.png",
+          "id": 32747,
+          "mime": "image/png"
+        },
+        "length_of_service": 10627,
+        "view_count": 0,
+        "identifier": "oliver_w_holmes_jr",
+        "roles": [
+          {
+            "appointing_president": "Theodore Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2692",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1198260000,
+            "id": 2692,
+            "date_start": -2116432800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Oliver W. Holmes, Jr."
+      },
+      {
+        "href": "https://api.oyez.org/people/william_r_day",
+        "ID": 15055,
+        "last_name": "Day",
+        "thumbnail": {
+          "size": 45485,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_r_day/william_r_day.thumb.png",
+          "id": 32783,
+          "mime": "image/png"
+        },
+        "length_of_service": 7196,
+        "view_count": 0,
+        "identifier": "william_r_day",
+        "roles": [
+          {
+            "appointing_president": "Theodore Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2699",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1487440800,
+            "id": 2699,
+            "date_start": -2109175200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William R. Day"
+      },
+      {
+        "href": "https://api.oyez.org/people/willis_van_devanter",
+        "ID": 15133,
+        "last_name": "Van Devanter",
+        "thumbnail": {
+          "size": 52800,
+          "href": "https://api.oyez.org/sites/default/files/images/people/willis_van_devanter/willis_van_devanter.thumb.png",
+          "id": 32785,
+          "mime": "image/png"
+        },
+        "length_of_service": 9647,
+        "view_count": 0,
+        "identifier": "willis_van_devanter",
+        "roles": [
+          {
+            "appointing_president": "William Howard Taft",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2778",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1028228400,
+            "id": 2778,
+            "date_start": -1861725600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Willis Van Devanter"
+      },
+      {
+        "href": "https://api.oyez.org/people/mahlon_pitney",
+        "ID": 15148,
+        "last_name": "Pitney",
+        "thumbnail": {
+          "size": 49375,
+          "href": "https://api.oyez.org/sites/default/files/images/people/mahlon_pitney/mahlon_pitney.thumb.png",
+          "id": 32741,
+          "mime": "image/png"
+        },
+        "length_of_service": 3940,
+        "view_count": 0,
+        "identifier": "mahlon_pitney",
+        "roles": [
+          {
+            "appointing_president": "William Howard Taft",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2796",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1483293600,
+            "id": 2796,
+            "date_start": -1823709600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Mahlon Pitney"
+      },
+      {
+        "href": "https://api.oyez.org/people/james_c_mcreynolds",
+        "ID": 15066,
+        "last_name": "McReynolds",
+        "thumbnail": {
+          "size": 55380,
+          "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+          "id": 32720,
+          "mime": "image/png"
+        },
+        "length_of_service": 9608,
+        "view_count": 0,
+        "identifier": "james_c_mcreynolds",
+        "roles": [
+          {
+            "appointing_president": "Woodrow Wilson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -912535200,
+            "id": 2710,
+            "date_start": -1742666400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "James C. McReynolds"
+      },
+      {
+        "href": "https://api.oyez.org/people/louis_d_brandeis",
+        "ID": 15075,
+        "last_name": "Brandeis",
+        "thumbnail": {
+          "size": 33357,
+          "href": "https://api.oyez.org/sites/default/files/images/people/louis_d_brandeis/louis_d_brandeis.thumb.png",
+          "id": 32739,
+          "mime": "image/png"
+        },
+        "length_of_service": 8288,
+        "view_count": 0,
+        "identifier": "louis_d_brandeis",
+        "roles": [
+          {
+            "appointing_president": "Woodrow Wilson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2719",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -974570400,
+            "id": 2719,
+            "date_start": -1690653600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Louis D. Brandeis"
+      },
+      {
+        "href": "https://api.oyez.org/people/john_h_clarke",
+        "ID": 15062,
+        "last_name": "Clarke",
+        "thumbnail": {
+          "size": 32752,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_h_clarke/john_h_clarke.thumb.png",
+          "id": 32792,
+          "mime": "image/png"
+        },
+        "length_of_service": 2170,
+        "view_count": 0,
+        "identifier": "john_h_clarke",
+        "roles": [
+          {
+            "appointing_president": "Woodrow Wilson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2706",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1492282800,
+            "id": 2706,
+            "date_start": -1679767200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "John H. Clarke"
+      }
+    ],
+    "court_start": -1679767200,
+    "view_count": 0,
+    "identifier": "white8",
+    "images": [
+      {
+        "size": 754086,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/white8.jpg",
+        "id": 78539,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "White Court (1916-1921)"
+  },
+  "location": {
+    "city": "Chicago",
+    "province": "IL",
+    "province_name": "Illinois",
+    "postal_code": null,
+    "street": "230 S. Dearborn Street",
+    "latitude": 41.878415,
+    "longitude": -87.629814,
+    "name": "Chicago Federal Building"
+  },
+  "name": "Berger v. New York",
+  "term": "1900-1940",
+  "additional_docket_numbers": null
+}

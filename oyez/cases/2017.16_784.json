@@ -1,0 +1,81 @@
+{
+  "decisions": null,
+  "href": "https://api.oyez.org/cases/2017/16-784",
+  "second_party": "FTI Consulting, Inc.",
+  "first_party": "Merit Management Group",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22270",
+      "advocate_description": "for petitioner",
+      "advocate": {
+        "href": "https://api.oyez.org/people/brian_c_walsh",
+        "ID": 62844,
+        "last_name": "Walsh",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "brian_c_walsh",
+        "roles": null,
+        "name": "Brian C. Walsh"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22271",
+      "advocate_description": "for respondent",
+      "advocate": {
+        "href": "https://api.oyez.org/people/barbara_whiten_balliette",
+        "ID": 62845,
+        "last_name": "Balliette",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "barbara_whiten_balliette",
+        "roles": null,
+        "name": "Barbara Whiten Balliette"
+      }
+    }
+  ],
+  "description": "A case in which the Court will resolve a circuit split as to whether the safe harbor provision of 11 U.S.C. § 546(e), which prohibits a trustee from avoiding a transfer made by or to a financial institution, includes transfers where the benefit and detriment of the transfer impact companies that are not financial institutions.",
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": null,
+  "facts_of_the_case": "<p dir=\"ltr\">Valley View Downs, LP, the owner of a Pennsylvania racetrack, acquired all shares of a competing racetrack, Bedford Downs, in exchange for $55 million. The exchange took place through Citizens Bank of Pennsylvania, the escrow agent, and Valley View borrowed money from Credit Suisse and other lenders to pay for the shares. Shortly thereafter, Valley View filed for Chapter 11 bankruptcy.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">FTI Consulting, Inc., as Trustee of the litigation trust that includes Valley View as one of the debtors, brought this lawsuit against Merit Management Group, a 30% shareholder in Bedford Downs. FTI seeks to avoid Bedford's $16.5 million transfer to Valley View under Bankruptcy Code sections 544, 548(a)(1)(b), and 550, which are safe harbor provisions for transfers \"made by or to\" certain enumerated entities. It is undisputed that Credit Suisse and Citizens Bank are financial institutions within the language of the statute, but at issue is whether the language “made by or to” includes institutions that act merely as a conduit for the transfer and do not benefit from it.</p>\n<p>The Seventh Circuit held that section 546(e) does not provide a safe harbor against avoidance of transfers between non-named entities where a named entity merely acts as a conduit for the transfer. The Eleventh Circuit has interpreted the provision in the same way as the Seventh, while the Second, Third, Sixth, Eighth, and Tenth Circuits have held to the contrary.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54032",
+      "dates": [
+        1493614800
+      ],
+      "event": "Granted"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "view_count": 0,
+  "lower_court": {
+    "href": "https://api.oyez.org/taxonomy/term/12",
+    "ID": 12,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "justia_url": null,
+  "docket_number": "16-784",
+  "ID": 62843,
+  "written_opinion": null,
+  "question": "<p> </p>\n<p dir=\"ltr\">Does the safe harbor of Section 546(e) of the Bankruptcy Code prohibit avoidance of a transfer made by or to a financial institution, regardless of whether the institution benefits from the transfer?</p>\n",
+  "citation": {
+    "page": null,
+    "volume": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27517"
+  },
+  "oral_argument_audio": null,
+  "decided_by": null,
+  "location": null,
+  "name": "Merit Management Group v. FTI Consulting, Inc.",
+  "term": "2017",
+  "additional_docket_numbers": null
+}

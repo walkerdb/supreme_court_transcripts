@@ -1,0 +1,1368 @@
+{
+  "decisions": [
+    {
+      "href": "https://api.oyez.org/case_decision/case_decision/16400",
+      "votes": [
+        {
+          "ideology": 0,
+          "seniority": 1,
+          "opinion_type": "majority",
+          "member": {
+            "href": "https://api.oyez.org/people/earl_warren",
+            "ID": 15099,
+            "last_name": "Warren",
+            "thumbnail": {
+              "size": 50444,
+              "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+              "id": 32704,
+              "mime": "image/png"
+            },
+            "length_of_service": 5740,
+            "view_count": 96,
+            "identifier": "earl_warren",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -16570800,
+                "id": 2743,
+                "date_start": -512503200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Earl Warren"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205637",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": -3.306,
+          "seniority": 2,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/hugo_l_black",
+            "ID": 15089,
+            "last_name": "Black",
+            "thumbnail": {
+              "size": 51667,
+              "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+              "id": 32719,
+              "mime": "image/png"
+            },
+            "length_of_service": 12447,
+            "view_count": 69,
+            "identifier": "hugo_l_black",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+                "role_title": "Associate Justice",
+                "type": "scotus_justice",
+                "date_end": 53931600,
+                "id": 2733,
+                "date_start": -1021489200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Hugo L. Black"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205638",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        },
+        {
+          "ideology": -0.635,
+          "seniority": 3,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/stanley_reed",
+            "ID": 15063,
+            "last_name": "Reed",
+            "thumbnail": {
+              "size": 39053,
+              "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+              "id": 79211,
+              "mime": "image/png"
+            },
+            "length_of_service": 6965,
+            "view_count": 0,
+            "identifier": "stanley_reed",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+                "role_title": "Associate Justice",
+                "type": "scotus_justice",
+                "date_end": -405453600,
+                "id": 2707,
+                "date_start": -1007229600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Stanley Reed"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205639",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        },
+        {
+          "ideology": -0.716,
+          "seniority": 4,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/felix_frankfurter",
+            "ID": 15050,
+            "last_name": "Frankfurter",
+            "thumbnail": {
+              "size": 45083,
+              "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+              "id": 32706,
+              "mime": "image/png"
+            },
+            "length_of_service": 8611,
+            "view_count": 0,
+            "identifier": "felix_frankfurter",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -231793200,
+                "id": 2694,
+                "date_start": -975780000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Felix Frankfurter"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205640",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        },
+        {
+          "ideology": -3.033,
+          "seniority": 5,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/william_o_douglas",
+            "ID": 15107,
+            "last_name": "Douglas",
+            "thumbnail": {
+              "size": 56651,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+              "id": 32781,
+              "mime": "image/png"
+            },
+            "length_of_service": 13358,
+            "view_count": 0,
+            "identifier": "william_o_douglas",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 185004000,
+                "id": 2751,
+                "date_start": -969127200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William O. Douglas"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205641",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 6,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/robert_h_jackson",
+            "ID": 15046,
+            "last_name": "Jackson",
+            "thumbnail": {
+              "size": 54330,
+              "href": "https://api.oyez.org/sites/default/files/images/people/robert_h_jackson/robert_h_jackson.thumb.png",
+              "id": 32754,
+              "mime": "image/png"
+            },
+            "length_of_service": 4838,
+            "view_count": 0,
+            "identifier": "robert_h_jackson",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2690",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -480621600,
+                "id": 2690,
+                "date_start": -898628400,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Robert H. Jackson"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205642",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 7,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/harold_burton",
+            "ID": 15127,
+            "last_name": "Burton",
+            "thumbnail": {
+              "size": 34138,
+              "href": "https://api.oyez.org/sites/default/files/images/people/harold_burton/harold_burton.thumb.png",
+              "id": 32711,
+              "mime": "image/png"
+            },
+            "length_of_service": 4760,
+            "view_count": 0,
+            "identifier": "harold_burton",
+            "roles": [
+              {
+                "appointing_president": "Harry S. Truman",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2772",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -354049200,
+                "id": 2772,
+                "date_start": -765309600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Harold Burton"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205643",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 8,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/tom_c_clark",
+            "ID": 15083,
+            "last_name": "Clark",
+            "thumbnail": {
+              "size": 50879,
+              "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+              "id": 32771,
+              "mime": "image/png"
+            },
+            "length_of_service": 6501,
+            "view_count": 92,
+            "identifier": "tom_c_clark",
+            "roles": [
+              {
+                "appointing_president": "Harry S. Truman",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -80679600,
+                "id": 2727,
+                "date_start": -642366000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Tom C. Clark"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205644",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 9,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/sherman_minton",
+            "ID": 15037,
+            "last_name": "Minton",
+            "thumbnail": {
+              "size": 32795,
+              "href": "https://api.oyez.org/sites/default/files/images/people/sherman_minton/sherman_minton.thumb.png",
+              "id": 32794,
+              "mime": "image/png"
+            },
+            "length_of_service": 2560,
+            "view_count": 0,
+            "identifier": "sherman_minton",
+            "roles": [
+              {
+                "appointing_president": "Harry S. Truman",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2680",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -416948400,
+                "id": 2680,
+                "date_start": -638128800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Sherman Minton"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205645",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/earl_warren",
+              "ID": 15099,
+              "last_name": "Warren",
+              "thumbnail": {
+                "size": 50444,
+                "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+                "id": 32704,
+                "mime": "image/png"
+              },
+              "length_of_service": 5740,
+              "view_count": 96,
+              "identifier": "earl_warren",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -16570800,
+                  "id": 2743,
+                  "date_start": -512503200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Earl Warren"
+            }
+          ]
+        }
+      ],
+      "minority_vote": 0,
+      "winning_party": "Brown et al.",
+      "decision_type": "majority opinion",
+      "majority_vote": 9,
+      "description": "Separate but equal educational facilities for racial minorities is inherently unequal violating the Equal Protection Clause of the Fourteenth Amendment"
+    }
+  ],
+  "href": "https://api.oyez.org/cases/1940-1955/347us483",
+  "second_party": "Board of Education of Topeka, Shawnee County, Kansas, et al.",
+  "first_party": "Oliver Brown, Mrs. Richard Lawton, Mrs. Sadie Emmanuel, et al.",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21195",
+      "advocate_description": "argued and reargued for the appellants in No. 8 and No. 1",
+      "advocate": {
+        "href": "https://api.oyez.org/people/robert_l_carter",
+        "ID": 38936,
+        "last_name": "Carter",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "robert_l_carter",
+        "roles": null,
+        "name": "Robert L. Carter"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21196",
+      "advocate_description": "argued and reargued for the appellees in No. 8 and No. 1",
+      "advocate": {
+        "href": "https://api.oyez.org/people/paul_e_wilson",
+        "ID": 38414,
+        "last_name": "Wilson",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "paul_e_wilson",
+        "roles": null,
+        "name": "Paul E. Wilson"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21197",
+      "advocate_description": "argued for the appellants in No. 101,reargued for the appellants in No. 2 and No. 4, and reargued for the respondents in No. 10",
+      "advocate": {
+        "href": "https://api.oyez.org/people/thurgood_marshall",
+        "ID": 15104,
+        "last_name": "Marshall",
+        "thumbnail": {
+          "size": 59272,
+          "href": "https://api.oyez.org/sites/default/files/images/people/thurgood_marshall/thurgood_marshall.thumb.png",
+          "id": 32770,
+          "mime": "image/png"
+        },
+        "length_of_service": 8765,
+        "view_count": 73,
+        "identifier": "thurgood_marshall",
+        "roles": [
+          {
+            "appointing_president": "Lyndon B. Johnson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2748",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 686293200,
+            "id": 2748,
+            "date_start": -71002800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Thurgood Marshall"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21198",
+      "advocate_description": "argued and reargued for the appellees in No. 101, No. 2 and No. 4",
+      "advocate": {
+        "href": "https://api.oyez.org/people/john_w_davis",
+        "ID": 29850,
+        "last_name": "Davis",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "john_w_davis",
+        "roles": null,
+        "name": "John W. Davis"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21199",
+      "advocate_description": "argued for the appellants in No.191 and reargued for the appellants in No. 2 and No. 4",
+      "advocate": {
+        "href": "https://api.oyez.org/people/spottswood_robinson_iii",
+        "ID": 41961,
+        "last_name": "Robinson",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "spottswood_robinson_iii",
+        "roles": null,
+        "name": "Spottswood Robinson III"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21200",
+      "advocate_description": "argued and reargued for the appellees in No. 101, No. 2 and No. 4",
+      "advocate": {
+        "href": "https://api.oyez.org/people/t_justin_moore",
+        "ID": 42997,
+        "last_name": "Moore",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "t_justin_moore",
+        "roles": null,
+        "name": "T. Justin Moore"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21201",
+      "advocate_description": "argued for the appellees in No.191 and reargued for the appellees in No. 2 and No. 4",
+      "advocate": {
+        "href": "https://api.oyez.org/people/j_lindsay_almond_jr",
+        "ID": 28890,
+        "last_name": "Almond,",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "j_lindsay_almond_jr",
+        "roles": null,
+        "name": "J. Lindsay Almond, Jr."
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21203",
+      "advocate_description": "Assistant Attorney General, Department of Justice, for the United States, as amicus curiae, by special leave of Court in No. 2 and No. 4",
+      "advocate": {
+        "href": "https://api.oyez.org/people/j_lee_rankin",
+        "ID": 32701,
+        "last_name": "Rankin",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "j_lee_rankin",
+        "roles": null,
+        "name": "J. Lee Rankin"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21208",
+      "advocate_description": "argued and reargued for the petitioners in No. 448 and No. 10",
+      "advocate": {
+        "href": "https://api.oyez.org/people/h_albert_young",
+        "ID": 28442,
+        "last_name": "Young",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "h_albert_young",
+        "roles": null,
+        "name": "H. Albert Young"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21206",
+      "advocate_description": "argued for the respondents in No. 448",
+      "advocate": {
+        "href": "https://api.oyez.org/people/louis_l_redding",
+        "ID": 35002,
+        "last_name": "Redding",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "louis_l_redding",
+        "roles": null,
+        "name": "Louis L. Redding"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21207",
+      "advocate_description": "argued and reargued for the respondents in No. 448 and No. 10",
+      "advocate": {
+        "href": "https://api.oyez.org/people/jack_greenberg",
+        "ID": 30616,
+        "last_name": "Greenberg",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "jack_greenberg",
+        "roles": null,
+        "name": "Jack Greenberg"
+      }
+    }
+  ],
+  "description": "A case in which the Court decided that the \"separate but equal\" standards of racial segregation were unconstitutional, paving the way for the Civil Rights Movement and national desegregation.",
+  "first_party_label": "Appellant",
+  "related_cases": [
+    null
+  ],
+  "conclusion": "<p>Yes. Chief Justice Earl Warren delivered the opinion of the unanimous Court. The Supreme Court held that “separate but equal” facilities are inherently unequal and violate the protections of the Equal Protection Clause of the Fourteenth Amendment. The Court also held that the segregation of public education based on race instilled a sense of inferiority that had a hugely detrimental effect on the education and personal growth of African American children.</p>\n",
+  "facts_of_the_case": "<p>This case was the consolidation of four cases arising in separate states relating to the segregation of public schools on the basis of race. In each of the cases, African American minors had been denied admittance to certain public schools based on laws allowing public education to be segregated by race. They argued that such segregation violates the Equal Protection Clause of the Fourteenth Amendment. The plaintiffs were denied relief based on the precedent set by <em>Plessy v. Ferguson</em>, which established the “separate but equal” doctrine that stated separate facilities for the races was constitutional as long as the facilities were “substantially equal.” In the case arising from Delaware, the Supreme Court of Delaware ruled that the African American students had to be admitted to the white public schools because of their higher quality facilities.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53254",
+      "dates": [
+        -538423200,
+        -538336800,
+        -538250400
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53264",
+      "dates": [
+        -507060000,
+        -506973600,
+        -506887200
+      ],
+      "event": "Reargued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53255",
+      "dates": [
+        -493153200
+      ],
+      "event": "Decided"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Appellee",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/vinson5",
+      "ID": 15333,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/fred_m_vinson",
+          "ID": 15064,
+          "last_name": "Vinson",
+          "thumbnail": {
+            "size": 56304,
+            "href": "https://api.oyez.org/sites/default/files/images/people/fred_m_vinson/fred_m_vinson.thumb.png",
+            "id": 32708,
+            "mime": "image/png"
+          },
+          "length_of_service": 2633,
+          "view_count": 0,
+          "identifier": "fred_m_vinson",
+          "roles": [
+            {
+              "appointing_president": "Harry S. Truman",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2708",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -514839600,
+              "id": 2708,
+              "date_start": -742330800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Fred M. Vinson, Jr."
+        },
+        {
+          "href": "https://api.oyez.org/people/hugo_l_black",
+          "ID": 15089,
+          "last_name": "Black",
+          "thumbnail": {
+            "size": 51667,
+            "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+            "id": 32719,
+            "mime": "image/png"
+          },
+          "length_of_service": 12447,
+          "view_count": 69,
+          "identifier": "hugo_l_black",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": 53931600,
+              "id": 2733,
+              "date_start": -1021489200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Hugo L. Black"
+        },
+        {
+          "href": "https://api.oyez.org/people/stanley_reed",
+          "ID": 15063,
+          "last_name": "Reed",
+          "thumbnail": {
+            "size": 39053,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+            "id": 79211,
+            "mime": "image/png"
+          },
+          "length_of_service": 6965,
+          "view_count": 0,
+          "identifier": "stanley_reed",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": -405453600,
+              "id": 2707,
+              "date_start": -1007229600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Stanley Reed"
+        },
+        {
+          "href": "https://api.oyez.org/people/felix_frankfurter",
+          "ID": 15050,
+          "last_name": "Frankfurter",
+          "thumbnail": {
+            "size": 45083,
+            "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+            "id": 32706,
+            "mime": "image/png"
+          },
+          "length_of_service": 8611,
+          "view_count": 0,
+          "identifier": "felix_frankfurter",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -231793200,
+              "id": 2694,
+              "date_start": -975780000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Felix Frankfurter"
+        },
+        {
+          "href": "https://api.oyez.org/people/william_o_douglas",
+          "ID": 15107,
+          "last_name": "Douglas",
+          "thumbnail": {
+            "size": 56651,
+            "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+            "id": 32781,
+            "mime": "image/png"
+          },
+          "length_of_service": 13358,
+          "view_count": 0,
+          "identifier": "william_o_douglas",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 185004000,
+              "id": 2751,
+              "date_start": -969127200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "William O. Douglas"
+        },
+        {
+          "href": "https://api.oyez.org/people/robert_h_jackson",
+          "ID": 15046,
+          "last_name": "Jackson",
+          "thumbnail": {
+            "size": 54330,
+            "href": "https://api.oyez.org/sites/default/files/images/people/robert_h_jackson/robert_h_jackson.thumb.png",
+            "id": 32754,
+            "mime": "image/png"
+          },
+          "length_of_service": 4838,
+          "view_count": 0,
+          "identifier": "robert_h_jackson",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2690",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -480621600,
+              "id": 2690,
+              "date_start": -898628400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Robert H. Jackson"
+        },
+        {
+          "href": "https://api.oyez.org/people/harold_burton",
+          "ID": 15127,
+          "last_name": "Burton",
+          "thumbnail": {
+            "size": 34138,
+            "href": "https://api.oyez.org/sites/default/files/images/people/harold_burton/harold_burton.thumb.png",
+            "id": 32711,
+            "mime": "image/png"
+          },
+          "length_of_service": 4760,
+          "view_count": 0,
+          "identifier": "harold_burton",
+          "roles": [
+            {
+              "appointing_president": "Harry S. Truman",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2772",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -354049200,
+              "id": 2772,
+              "date_start": -765309600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Harold Burton"
+        },
+        {
+          "href": "https://api.oyez.org/people/tom_c_clark",
+          "ID": 15083,
+          "last_name": "Clark",
+          "thumbnail": {
+            "size": 50879,
+            "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+            "id": 32771,
+            "mime": "image/png"
+          },
+          "length_of_service": 6501,
+          "view_count": 92,
+          "identifier": "tom_c_clark",
+          "roles": [
+            {
+              "appointing_president": "Harry S. Truman",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -80679600,
+              "id": 2727,
+              "date_start": -642366000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Tom C. Clark"
+        },
+        {
+          "href": "https://api.oyez.org/people/sherman_minton",
+          "ID": 15037,
+          "last_name": "Minton",
+          "thumbnail": {
+            "size": 32795,
+            "href": "https://api.oyez.org/sites/default/files/images/people/sherman_minton/sherman_minton.thumb.png",
+            "id": 32794,
+            "mime": "image/png"
+          },
+          "length_of_service": 2560,
+          "view_count": 0,
+          "identifier": "sherman_minton",
+          "roles": [
+            {
+              "appointing_president": "Harry S. Truman",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2680",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -416948400,
+              "id": 2680,
+              "date_start": -638128800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Sherman Minton"
+        }
+      ],
+      "court_start": -638128800,
+      "view_count": 0,
+      "identifier": "vinson5",
+      "images": [
+        {
+          "size": 40185,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/vinson5.jpg",
+          "id": 12279,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Vinson Court (1949-1953)"
+    }
+  ],
+  "manner_of_jurisdiction": "Appeal",
+  "view_count": 27381,
+  "lower_court": {
+    "href": "https://api.oyez.org/courts/federal_district_court",
+    "ID": 146,
+    "name": "Federal district court"
+  },
+  "justia_url": "https://supreme.justia.com/cases/federal/us/347/483/",
+  "docket_number": "1",
+  "ID": 62548,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 15783,
+      "href": "https://api.oyez.org/case_document/written_opinion/15783",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/347/483/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1940808,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 15784,
+      "href": "https://api.oyez.org/case_document/written_opinion/15784",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/347/483/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1940809,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Does the segregation of public education based solely on race violate the Equal Protection Clause of the Fourteenth Amendment?</p>\n",
+  "citation": {
+    "page": "483",
+    "volume": "347",
+    "year": "1954",
+    "href": "https://api.oyez.org/case_citation/case_citation/27350"
+  },
+  "oral_argument_audio": null,
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/warren1",
+    "ID": 15304,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/earl_warren",
+        "ID": 15099,
+        "last_name": "Warren",
+        "thumbnail": {
+          "size": 50444,
+          "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+          "id": 32704,
+          "mime": "image/png"
+        },
+        "length_of_service": 5740,
+        "view_count": 96,
+        "identifier": "earl_warren",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -16570800,
+            "id": 2743,
+            "date_start": -512503200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Earl Warren"
+      },
+      {
+        "href": "https://api.oyez.org/people/hugo_l_black",
+        "ID": 15089,
+        "last_name": "Black",
+        "thumbnail": {
+          "size": 51667,
+          "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+          "id": 32719,
+          "mime": "image/png"
+        },
+        "length_of_service": 12447,
+        "view_count": 69,
+        "identifier": "hugo_l_black",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": 53931600,
+            "id": 2733,
+            "date_start": -1021489200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Hugo L. Black"
+      },
+      {
+        "href": "https://api.oyez.org/people/stanley_reed",
+        "ID": 15063,
+        "last_name": "Reed",
+        "thumbnail": {
+          "size": 39053,
+          "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+          "id": 79211,
+          "mime": "image/png"
+        },
+        "length_of_service": 6965,
+        "view_count": 0,
+        "identifier": "stanley_reed",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": -405453600,
+            "id": 2707,
+            "date_start": -1007229600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Stanley Reed"
+      },
+      {
+        "href": "https://api.oyez.org/people/felix_frankfurter",
+        "ID": 15050,
+        "last_name": "Frankfurter",
+        "thumbnail": {
+          "size": 45083,
+          "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+          "id": 32706,
+          "mime": "image/png"
+        },
+        "length_of_service": 8611,
+        "view_count": 0,
+        "identifier": "felix_frankfurter",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -231793200,
+            "id": 2694,
+            "date_start": -975780000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Felix Frankfurter"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_o_douglas",
+        "ID": 15107,
+        "last_name": "Douglas",
+        "thumbnail": {
+          "size": 56651,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+          "id": 32781,
+          "mime": "image/png"
+        },
+        "length_of_service": 13358,
+        "view_count": 0,
+        "identifier": "william_o_douglas",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 185004000,
+            "id": 2751,
+            "date_start": -969127200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William O. Douglas"
+      },
+      {
+        "href": "https://api.oyez.org/people/robert_h_jackson",
+        "ID": 15046,
+        "last_name": "Jackson",
+        "thumbnail": {
+          "size": 54330,
+          "href": "https://api.oyez.org/sites/default/files/images/people/robert_h_jackson/robert_h_jackson.thumb.png",
+          "id": 32754,
+          "mime": "image/png"
+        },
+        "length_of_service": 4838,
+        "view_count": 0,
+        "identifier": "robert_h_jackson",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2690",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -480621600,
+            "id": 2690,
+            "date_start": -898628400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Robert H. Jackson"
+      },
+      {
+        "href": "https://api.oyez.org/people/harold_burton",
+        "ID": 15127,
+        "last_name": "Burton",
+        "thumbnail": {
+          "size": 34138,
+          "href": "https://api.oyez.org/sites/default/files/images/people/harold_burton/harold_burton.thumb.png",
+          "id": 32711,
+          "mime": "image/png"
+        },
+        "length_of_service": 4760,
+        "view_count": 0,
+        "identifier": "harold_burton",
+        "roles": [
+          {
+            "appointing_president": "Harry S. Truman",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2772",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -354049200,
+            "id": 2772,
+            "date_start": -765309600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Harold Burton"
+      },
+      {
+        "href": "https://api.oyez.org/people/tom_c_clark",
+        "ID": 15083,
+        "last_name": "Clark",
+        "thumbnail": {
+          "size": 50879,
+          "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+          "id": 32771,
+          "mime": "image/png"
+        },
+        "length_of_service": 6501,
+        "view_count": 92,
+        "identifier": "tom_c_clark",
+        "roles": [
+          {
+            "appointing_president": "Harry S. Truman",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -80679600,
+            "id": 2727,
+            "date_start": -642366000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Tom C. Clark"
+      },
+      {
+        "href": "https://api.oyez.org/people/sherman_minton",
+        "ID": 15037,
+        "last_name": "Minton",
+        "thumbnail": {
+          "size": 32795,
+          "href": "https://api.oyez.org/sites/default/files/images/people/sherman_minton/sherman_minton.thumb.png",
+          "id": 32794,
+          "mime": "image/png"
+        },
+        "length_of_service": 2560,
+        "view_count": 0,
+        "identifier": "sherman_minton",
+        "roles": [
+          {
+            "appointing_president": "Harry S. Truman",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2680",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -416948400,
+            "id": 2680,
+            "date_start": -638128800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Sherman Minton"
+      }
+    ],
+    "court_start": -512503200,
+    "view_count": 0,
+    "identifier": "warren1",
+    "images": [
+      {
+        "size": 510031,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/warren1.jpg",
+        "id": 78536,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Warren Court (1953-1954)"
+  },
+  "location": {
+    "city": "Topeka",
+    "province": "KS",
+    "province_name": "Kansas",
+    "postal_code": null,
+    "street": "1515 SE Monroe Street",
+    "latitude": 39.037942,
+    "longitude": -95.67635,
+    "name": "Monroe School"
+  },
+  "name": "Brown v. Board of Education of Topeka (1)",
+  "term": "1940-1955",
+  "additional_docket_numbers": [
+    "8",
+    "101",
+    "191",
+    "2",
+    "4",
+    "448",
+    "10"
+  ]
+}

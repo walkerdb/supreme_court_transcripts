@@ -1,0 +1,1057 @@
+{
+  "decisions": [
+    {
+      "href": "https://api.oyez.org/case_decision/case_decision/15147",
+      "votes": [
+        {
+          "ideology": 2.332,
+          "seniority": 5,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/john_m_harlan2",
+            "ID": 15097,
+            "last_name": "Harlan",
+            "thumbnail": {
+              "size": 53784,
+              "href": "https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png",
+              "id": 32728,
+              "mime": "image/png"
+            },
+            "length_of_service": 6023,
+            "view_count": 0,
+            "identifier": "john_m_harlan2",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2741",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 54450000,
+                "id": 2741,
+                "date_start": -465933600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "John M. Harlan II"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194575",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": -0.979,
+          "seniority": 2,
+          "opinion_type": "special concurrence",
+          "member": {
+            "href": "https://api.oyez.org/people/hugo_l_black",
+            "ID": 15089,
+            "last_name": "Black",
+            "thumbnail": {
+              "size": 51667,
+              "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+              "id": 32719,
+              "mime": "image/png"
+            },
+            "length_of_service": 12447,
+            "view_count": 69,
+            "identifier": "hugo_l_black",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+                "role_title": "Associate Justice",
+                "type": "scotus_justice",
+                "date_end": 53931600,
+                "id": 2733,
+                "date_start": -1021489200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Hugo L. Black"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194576",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/hugo_l_black",
+              "ID": 15089,
+              "last_name": "Black",
+              "thumbnail": {
+                "size": 51667,
+                "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+                "id": 32719,
+                "mime": "image/png"
+              },
+              "length_of_service": 12447,
+              "view_count": 69,
+              "identifier": "hugo_l_black",
+              "roles": [
+                {
+                  "appointing_president": "Franklin D. Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+                  "role_title": "Associate Justice",
+                  "type": "scotus_justice",
+                  "date_end": 53931600,
+                  "id": 2733,
+                  "date_start": -1021489200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Hugo L. Black"
+            }
+          ]
+        },
+        {
+          "ideology": -5.742,
+          "seniority": 3,
+          "opinion_type": "special concurrence",
+          "member": {
+            "href": "https://api.oyez.org/people/william_o_douglas",
+            "ID": 15107,
+            "last_name": "Douglas",
+            "thumbnail": {
+              "size": 56651,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+              "id": 32781,
+              "mime": "image/png"
+            },
+            "length_of_service": 13358,
+            "view_count": 0,
+            "identifier": "william_o_douglas",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 185004000,
+                "id": 2751,
+                "date_start": -969127200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William O. Douglas"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194577",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/hugo_l_black",
+              "ID": 15089,
+              "last_name": "Black",
+              "thumbnail": {
+                "size": 51667,
+                "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+                "id": 32719,
+                "mime": "image/png"
+              },
+              "length_of_service": 12447,
+              "view_count": 69,
+              "identifier": "hugo_l_black",
+              "roles": [
+                {
+                  "appointing_president": "Franklin D. Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+                  "role_title": "Associate Justice",
+                  "type": "scotus_justice",
+                  "date_end": 53931600,
+                  "id": 2733,
+                  "date_start": -1021489200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Hugo L. Black"
+            }
+          ]
+        },
+        {
+          "ideology": 0.657,
+          "seniority": 7,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/potter_stewart",
+            "ID": 15043,
+            "last_name": "Stewart",
+            "thumbnail": {
+              "size": 56350,
+              "href": "https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png",
+              "id": 32752,
+              "mime": "image/png"
+            },
+            "length_of_service": 8298,
+            "view_count": 67,
+            "identifier": "potter_stewart",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2687",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 362984400,
+                "id": 2687,
+                "date_start": -353962800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Potter Stewart"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194578",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": -0.742,
+          "seniority": 6,
+          "opinion_type": "majority",
+          "member": {
+            "href": "https://api.oyez.org/people/william_j_brennan_jr",
+            "ID": 15140,
+            "last_name": "Brennan",
+            "thumbnail": {
+              "size": 56873,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+              "id": 32778,
+              "mime": "image/png"
+            },
+            "length_of_service": 12330,
+            "view_count": 0,
+            "identifier": "william_j_brennan_jr",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 648450000,
+                "id": 2786,
+                "date_start": -416862000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William J. Brennan, Jr."
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194579",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": -0.074,
+          "seniority": 8,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/byron_r_white",
+            "ID": 15071,
+            "last_name": "White",
+            "thumbnail": {
+              "size": 55559,
+              "href": "https://api.oyez.org/sites/default/files/images/people/byron_r_white/byron_r_white.thumb.png",
+              "id": 32699,
+              "mime": "image/png"
+            },
+            "length_of_service": 11396,
+            "view_count": 0,
+            "identifier": "byron_r_white",
+            "roles": [
+              {
+                "appointing_president": "John F. Kennedy",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2715",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 741243600,
+                "id": 2715,
+                "date_start": -243367200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Byron R. White"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194580",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": -1.073,
+          "seniority": 1,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/earl_warren",
+            "ID": 15099,
+            "last_name": "Warren",
+            "thumbnail": {
+              "size": 50444,
+              "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+              "id": 32704,
+              "mime": "image/png"
+            },
+            "length_of_service": 5740,
+            "view_count": 96,
+            "identifier": "earl_warren",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -16570800,
+                "id": 2743,
+                "date_start": -512503200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Earl Warren"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194581",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": 0.007,
+          "seniority": 4,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/tom_c_clark",
+            "ID": 15083,
+            "last_name": "Clark",
+            "thumbnail": {
+              "size": 50879,
+              "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+              "id": 32771,
+              "mime": "image/png"
+            },
+            "length_of_service": 6501,
+            "view_count": 92,
+            "identifier": "tom_c_clark",
+            "roles": [
+              {
+                "appointing_president": "Harry S. Truman",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -80679600,
+                "id": 2727,
+                "date_start": -642366000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Tom C. Clark"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194582",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": -0.607,
+          "seniority": 9,
+          "opinion_type": "special concurrence",
+          "member": {
+            "href": "https://api.oyez.org/people/arthur_j_goldberg",
+            "ID": 15044,
+            "last_name": "Goldberg",
+            "thumbnail": {
+              "size": 50285,
+              "href": "https://api.oyez.org/sites/default/files/images/people/arthur_j_goldberg/arthur_j_goldberg.thumb.png",
+              "id": 32695,
+              "mime": "image/png"
+            },
+            "length_of_service": 1028,
+            "view_count": 69,
+            "identifier": "arthur_j_goldberg",
+            "roles": [
+              {
+                "appointing_president": "John F. Kennedy",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2688",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -140036400,
+                "id": 2688,
+                "date_start": -228855600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Arthur J. Goldberg"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/194583",
+          "vote": "majority",
+          "joining": null
+        }
+      ],
+      "minority_vote": 0,
+      "winning_party": "Garrison",
+      "decision_type": "majority opinion",
+      "majority_vote": 9,
+      "description": "The Louisiana statute, as authoritatively interpreted by the Supreme Court of Louisiana, incorporated constitutionally invalid standards in the context of criticism of the official conduct of public officials."
+    }
+  ],
+  "href": "https://api.oyez.org/cases/1964/4",
+  "second_party": "Louisiana",
+  "first_party": "Jim Garrison",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21095",
+      "advocate_description": "argued and reargued for the appellant",
+      "advocate": {
+        "href": "https://api.oyez.org/people/eberhard_p_deutsch",
+        "ID": 22180,
+        "last_name": "Deutsch",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "eberhard_p_deutsch",
+        "roles": null,
+        "name": "Eberhard P. Deutsch"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21096",
+      "advocate_description": "Attorney General of Louisiana, argued and reargued for the appellee",
+      "advocate": {
+        "href": "https://api.oyez.org/people/jack_p_f_gremillion",
+        "ID": 30594,
+        "last_name": "Gremillion",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "jack_p_f_gremillion",
+        "roles": null,
+        "name": "Jack P. F. Gremillion"
+      }
+    }
+  ],
+  "description": "A case in which the Court held that a criminal libel statute can only apply to statements that were made knowing they were false or made with reckless disregard as to their falsity.",
+  "first_party_label": "Appellant",
+  "related_cases": null,
+  "conclusion": "<p>Yes. Justice William J. Brennan, Jr. delivered the opinion of the 9-0 majority. The Court held that a criminal libel statute should conform to the same restrictions as civil libel statutes to protect the freedom of expression under the First Amendment. Therefore, such statutes may only criminalize statements that are knowingly false or made with a reckless disregard for their truth or falsity. This limitation on libel statutes is in line with the precedent the Court established in <em>New York Times v. Sullivan</em>, and there is no reason that the freedom of speech protections should apply differently to a civil libel statute than to a criminal one. Based on this standard, the Louisiana Criminal Defamation Statute is unconstitutionally broad and infringes on the First Amendment’s protections of free speech.</p>\n<p>In his concurring opinion, Justice Hugo L. Black wrote that the First Amendment protects citizens from being punished by the government for expressing an opinion, and therefore there should be no law permitting criminal punishment for libel. Justice William O. Douglas joined in the concurrence. Justice Douglas wrote a separate concurring opinion in which he argued that that the standard the majority opinion seeks to apply to criminal libel statutes does not adequately protect the freedom of speech. Justice Black joined in the concurring opinion. In his separate concurring opinion, Justice Arthur J. Goldberg wrote that the Constitution protects the absolute right of citizens and the press to criticize official conduct.</p>\n",
+  "facts_of_the_case": "<p>On November 2, 1962, Jim Garrison, the District Attorney for the Parish of New Orleans, held a press conference in which he issued a statement disparaging the judicial conduct of the eight judges of the Parish’s Criminal District Court. He attributed the backlog of pending cases to the judges’ inefficiency, laziness, and excessive vacations. Based on these statements, Garrison was tried and convicted of defamation under the Louisiana Criminal Defamation Statute, and the Supreme Court of Louisiana affirmed. Garrison appealed to the U.S. Supreme Court and argued that the statute impermissibly infringed on his First Amendment rights to freedom of expression.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52288",
+      "dates": [
+        -179690400
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/51942",
+      "dates": [
+        -164142000
+      ],
+      "event": "Reargued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52287",
+      "dates": [
+        -161114400
+      ],
+      "event": "Decided"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52781",
+      "dates": [
+        -193687200
+      ],
+      "event": "Granted"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Appellee",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/warren11",
+      "ID": 15292,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/earl_warren",
+          "ID": 15099,
+          "last_name": "Warren",
+          "thumbnail": {
+            "size": 50444,
+            "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+            "id": 32704,
+            "mime": "image/png"
+          },
+          "length_of_service": 5740,
+          "view_count": 96,
+          "identifier": "earl_warren",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -16570800,
+              "id": 2743,
+              "date_start": -512503200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Earl Warren"
+        },
+        {
+          "href": "https://api.oyez.org/people/hugo_l_black",
+          "ID": 15089,
+          "last_name": "Black",
+          "thumbnail": {
+            "size": 51667,
+            "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+            "id": 32719,
+            "mime": "image/png"
+          },
+          "length_of_service": 12447,
+          "view_count": 69,
+          "identifier": "hugo_l_black",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": 53931600,
+              "id": 2733,
+              "date_start": -1021489200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Hugo L. Black"
+        },
+        {
+          "href": "https://api.oyez.org/people/william_o_douglas",
+          "ID": 15107,
+          "last_name": "Douglas",
+          "thumbnail": {
+            "size": 56651,
+            "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+            "id": 32781,
+            "mime": "image/png"
+          },
+          "length_of_service": 13358,
+          "view_count": 0,
+          "identifier": "william_o_douglas",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 185004000,
+              "id": 2751,
+              "date_start": -969127200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "William O. Douglas"
+        },
+        {
+          "href": "https://api.oyez.org/people/tom_c_clark",
+          "ID": 15083,
+          "last_name": "Clark",
+          "thumbnail": {
+            "size": 50879,
+            "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+            "id": 32771,
+            "mime": "image/png"
+          },
+          "length_of_service": 6501,
+          "view_count": 92,
+          "identifier": "tom_c_clark",
+          "roles": [
+            {
+              "appointing_president": "Harry S. Truman",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -80679600,
+              "id": 2727,
+              "date_start": -642366000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Tom C. Clark"
+        },
+        {
+          "href": "https://api.oyez.org/people/john_m_harlan2",
+          "ID": 15097,
+          "last_name": "Harlan",
+          "thumbnail": {
+            "size": 53784,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png",
+            "id": 32728,
+            "mime": "image/png"
+          },
+          "length_of_service": 6023,
+          "view_count": 0,
+          "identifier": "john_m_harlan2",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2741",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 54450000,
+              "id": 2741,
+              "date_start": -465933600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "John M. Harlan II"
+        },
+        {
+          "href": "https://api.oyez.org/people/william_j_brennan_jr",
+          "ID": 15140,
+          "last_name": "Brennan",
+          "thumbnail": {
+            "size": 56873,
+            "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+            "id": 32778,
+            "mime": "image/png"
+          },
+          "length_of_service": 12330,
+          "view_count": 0,
+          "identifier": "william_j_brennan_jr",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 648450000,
+              "id": 2786,
+              "date_start": -416862000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "William J. Brennan, Jr."
+        },
+        {
+          "href": "https://api.oyez.org/people/potter_stewart",
+          "ID": 15043,
+          "last_name": "Stewart",
+          "thumbnail": {
+            "size": 56350,
+            "href": "https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png",
+            "id": 32752,
+            "mime": "image/png"
+          },
+          "length_of_service": 8298,
+          "view_count": 67,
+          "identifier": "potter_stewart",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2687",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 362984400,
+              "id": 2687,
+              "date_start": -353962800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Potter Stewart"
+        },
+        {
+          "href": "https://api.oyez.org/people/byron_r_white",
+          "ID": 15071,
+          "last_name": "White",
+          "thumbnail": {
+            "size": 55559,
+            "href": "https://api.oyez.org/sites/default/files/images/people/byron_r_white/byron_r_white.thumb.png",
+            "id": 32699,
+            "mime": "image/png"
+          },
+          "length_of_service": 11396,
+          "view_count": 0,
+          "identifier": "byron_r_white",
+          "roles": [
+            {
+              "appointing_president": "John F. Kennedy",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2715",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 741243600,
+              "id": 2715,
+              "date_start": -243367200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Byron R. White"
+        },
+        {
+          "href": "https://api.oyez.org/people/arthur_j_goldberg",
+          "ID": 15044,
+          "last_name": "Goldberg",
+          "thumbnail": {
+            "size": 50285,
+            "href": "https://api.oyez.org/sites/default/files/images/people/arthur_j_goldberg/arthur_j_goldberg.thumb.png",
+            "id": 32695,
+            "mime": "image/png"
+          },
+          "length_of_service": 1028,
+          "view_count": 69,
+          "identifier": "arthur_j_goldberg",
+          "roles": [
+            {
+              "appointing_president": "John F. Kennedy",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2688",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -140036400,
+              "id": 2688,
+              "date_start": -228855600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Arthur J. Goldberg"
+        }
+      ],
+      "court_start": -228855600,
+      "view_count": 0,
+      "identifier": "warren11",
+      "images": [
+        {
+          "size": 58247,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/warren11.jpg",
+          "id": 12261,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Warren Court (1962-1965)"
+    }
+  ],
+  "manner_of_jurisdiction": "Appeal",
+  "view_count": 133,
+  "lower_court": {
+    "href": "https://api.oyez.org/taxonomy/term/39",
+    "ID": 39,
+    "name": "Louisiana Supreme Court"
+  },
+  "justia_url": "https://supreme.justia.com/cases/federal/us/379/64/",
+  "docket_number": "4",
+  "ID": 60698,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 13377,
+      "href": "https://api.oyez.org/case_document/written_opinion/13377",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/379/64/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1945288,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 13378,
+      "href": "https://api.oyez.org/case_document/written_opinion/13378",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/379/64/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1945289,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Does the Louisiana Criminal Defamation Statute unconstitutionally infringe on the First Amendment’s protection of the freedom of speech?</p>\n",
+  "citation": {
+    "page": "64",
+    "volume": "379",
+    "year": "1964",
+    "href": "https://api.oyez.org/case_citation/case_citation/25480"
+  },
+  "oral_argument_audio": [
+    {
+      "public_note": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/14006",
+      "unavailable": null,
+      "title": "Oral Argument - April 22, 1964",
+      "id": 14006
+    },
+    {
+      "public_note": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/14205",
+      "unavailable": null,
+      "title": "Oral Reargument - October 19, 1964",
+      "id": 14205
+    }
+  ],
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/warren11",
+    "ID": 15292,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/earl_warren",
+        "ID": 15099,
+        "last_name": "Warren",
+        "thumbnail": {
+          "size": 50444,
+          "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+          "id": 32704,
+          "mime": "image/png"
+        },
+        "length_of_service": 5740,
+        "view_count": 96,
+        "identifier": "earl_warren",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -16570800,
+            "id": 2743,
+            "date_start": -512503200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Earl Warren"
+      },
+      {
+        "href": "https://api.oyez.org/people/hugo_l_black",
+        "ID": 15089,
+        "last_name": "Black",
+        "thumbnail": {
+          "size": 51667,
+          "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+          "id": 32719,
+          "mime": "image/png"
+        },
+        "length_of_service": 12447,
+        "view_count": 69,
+        "identifier": "hugo_l_black",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": 53931600,
+            "id": 2733,
+            "date_start": -1021489200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Hugo L. Black"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_o_douglas",
+        "ID": 15107,
+        "last_name": "Douglas",
+        "thumbnail": {
+          "size": 56651,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+          "id": 32781,
+          "mime": "image/png"
+        },
+        "length_of_service": 13358,
+        "view_count": 0,
+        "identifier": "william_o_douglas",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 185004000,
+            "id": 2751,
+            "date_start": -969127200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William O. Douglas"
+      },
+      {
+        "href": "https://api.oyez.org/people/tom_c_clark",
+        "ID": 15083,
+        "last_name": "Clark",
+        "thumbnail": {
+          "size": 50879,
+          "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+          "id": 32771,
+          "mime": "image/png"
+        },
+        "length_of_service": 6501,
+        "view_count": 92,
+        "identifier": "tom_c_clark",
+        "roles": [
+          {
+            "appointing_president": "Harry S. Truman",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -80679600,
+            "id": 2727,
+            "date_start": -642366000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Tom C. Clark"
+      },
+      {
+        "href": "https://api.oyez.org/people/john_m_harlan2",
+        "ID": 15097,
+        "last_name": "Harlan",
+        "thumbnail": {
+          "size": 53784,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png",
+          "id": 32728,
+          "mime": "image/png"
+        },
+        "length_of_service": 6023,
+        "view_count": 0,
+        "identifier": "john_m_harlan2",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2741",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 54450000,
+            "id": 2741,
+            "date_start": -465933600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "John M. Harlan II"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_j_brennan_jr",
+        "ID": 15140,
+        "last_name": "Brennan",
+        "thumbnail": {
+          "size": 56873,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+          "id": 32778,
+          "mime": "image/png"
+        },
+        "length_of_service": 12330,
+        "view_count": 0,
+        "identifier": "william_j_brennan_jr",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 648450000,
+            "id": 2786,
+            "date_start": -416862000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William J. Brennan, Jr."
+      },
+      {
+        "href": "https://api.oyez.org/people/potter_stewart",
+        "ID": 15043,
+        "last_name": "Stewart",
+        "thumbnail": {
+          "size": 56350,
+          "href": "https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png",
+          "id": 32752,
+          "mime": "image/png"
+        },
+        "length_of_service": 8298,
+        "view_count": 67,
+        "identifier": "potter_stewart",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2687",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 362984400,
+            "id": 2687,
+            "date_start": -353962800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Potter Stewart"
+      },
+      {
+        "href": "https://api.oyez.org/people/byron_r_white",
+        "ID": 15071,
+        "last_name": "White",
+        "thumbnail": {
+          "size": 55559,
+          "href": "https://api.oyez.org/sites/default/files/images/people/byron_r_white/byron_r_white.thumb.png",
+          "id": 32699,
+          "mime": "image/png"
+        },
+        "length_of_service": 11396,
+        "view_count": 0,
+        "identifier": "byron_r_white",
+        "roles": [
+          {
+            "appointing_president": "John F. Kennedy",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2715",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 741243600,
+            "id": 2715,
+            "date_start": -243367200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Byron R. White"
+      },
+      {
+        "href": "https://api.oyez.org/people/arthur_j_goldberg",
+        "ID": 15044,
+        "last_name": "Goldberg",
+        "thumbnail": {
+          "size": 50285,
+          "href": "https://api.oyez.org/sites/default/files/images/people/arthur_j_goldberg/arthur_j_goldberg.thumb.png",
+          "id": 32695,
+          "mime": "image/png"
+        },
+        "length_of_service": 1028,
+        "view_count": 69,
+        "identifier": "arthur_j_goldberg",
+        "roles": [
+          {
+            "appointing_president": "John F. Kennedy",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2688",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -140036400,
+            "id": 2688,
+            "date_start": -228855600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Arthur J. Goldberg"
+      }
+    ],
+    "court_start": -228855600,
+    "view_count": 0,
+    "identifier": "warren11",
+    "images": [
+      {
+        "size": 58247,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/warren11.jpg",
+        "id": 12261,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Warren Court (1962-1965)"
+  },
+  "location": {
+    "city": "New Orleans",
+    "province": "LA",
+    "province_name": "Louisiana",
+    "postal_code": null,
+    "street": "2700 Tulane Ave",
+    "latitude": 29.961722,
+    "longitude": -90.091542,
+    "name": "Criminal District Court, Parish of New Orleans"
+  },
+  "name": "Garrison v. Louisiana",
+  "term": "1964",
+  "additional_docket_numbers": null
+}

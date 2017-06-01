@@ -1,0 +1,1232 @@
+{
+  "decisions": [
+    {
+      "href": "https://api.oyez.org/case_decision/case_decision/8414",
+      "votes": [
+        {
+          "ideology": 1.765,
+          "seniority": 3,
+          "opinion_type": "majority",
+          "member": {
+            "href": "https://api.oyez.org/people/felix_frankfurter",
+            "ID": 15050,
+            "last_name": "Frankfurter",
+            "thumbnail": {
+              "size": 45083,
+              "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+              "id": 32706,
+              "mime": "image/png"
+            },
+            "length_of_service": 8611,
+            "view_count": 0,
+            "identifier": "felix_frankfurter",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -231793200,
+                "id": 2694,
+                "date_start": -975780000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Felix Frankfurter"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134145",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": 1.91,
+          "seniority": 6,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/john_m_harlan2",
+            "ID": 15097,
+            "last_name": "Harlan",
+            "thumbnail": {
+              "size": 53784,
+              "href": "https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png",
+              "id": 32728,
+              "mime": "image/png"
+            },
+            "length_of_service": 6023,
+            "view_count": 0,
+            "identifier": "john_m_harlan2",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2741",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 54450000,
+                "id": 2741,
+                "date_start": -465933600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "John M. Harlan II"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134146",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/felix_frankfurter",
+              "ID": 15050,
+              "last_name": "Frankfurter",
+              "thumbnail": {
+                "size": 45083,
+                "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+                "id": 32706,
+                "mime": "image/png"
+              },
+              "length_of_service": 8611,
+              "view_count": 0,
+              "identifier": "felix_frankfurter",
+              "roles": [
+                {
+                  "appointing_president": "Franklin D. Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -231793200,
+                  "id": 2694,
+                  "date_start": -975780000,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Felix Frankfurter"
+            }
+          ]
+        },
+        {
+          "ideology": 0.434,
+          "seniority": 5,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/tom_c_clark",
+            "ID": 15083,
+            "last_name": "Clark",
+            "thumbnail": {
+              "size": 50879,
+              "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+              "id": 32771,
+              "mime": "image/png"
+            },
+            "length_of_service": 6501,
+            "view_count": 92,
+            "identifier": "tom_c_clark",
+            "roles": [
+              {
+                "appointing_president": "Harry S. Truman",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -80679600,
+                "id": 2727,
+                "date_start": -642366000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Tom C. Clark"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134147",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/felix_frankfurter",
+              "ID": 15050,
+              "last_name": "Frankfurter",
+              "thumbnail": {
+                "size": 45083,
+                "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+                "id": 32706,
+                "mime": "image/png"
+              },
+              "length_of_service": 8611,
+              "view_count": 0,
+              "identifier": "felix_frankfurter",
+              "roles": [
+                {
+                  "appointing_president": "Franklin D. Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -231793200,
+                  "id": 2694,
+                  "date_start": -975780000,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Felix Frankfurter"
+            }
+          ]
+        },
+        {
+          "ideology": 1.486,
+          "seniority": 8,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/charles_e_whittaker",
+            "ID": 15082,
+            "last_name": "Whittaker",
+            "thumbnail": {
+              "size": 50854,
+              "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_whittaker/charles_e_whittaker.thumb.png",
+              "id": 32700,
+              "mime": "image/png"
+            },
+            "length_of_service": 1832,
+            "view_count": 0,
+            "identifier": "charles_e_whittaker",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2726",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -244749600,
+                "id": 2726,
+                "date_start": -403034400,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Charles E. Whittaker"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134148",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/felix_frankfurter",
+              "ID": 15050,
+              "last_name": "Frankfurter",
+              "thumbnail": {
+                "size": 45083,
+                "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+                "id": 32706,
+                "mime": "image/png"
+              },
+              "length_of_service": 8611,
+              "view_count": 0,
+              "identifier": "felix_frankfurter",
+              "roles": [
+                {
+                  "appointing_president": "Franklin D. Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -231793200,
+                  "id": 2694,
+                  "date_start": -975780000,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Felix Frankfurter"
+            }
+          ]
+        },
+        {
+          "ideology": 0.661,
+          "seniority": 9,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/potter_stewart",
+            "ID": 15043,
+            "last_name": "Stewart",
+            "thumbnail": {
+              "size": 56350,
+              "href": "https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png",
+              "id": 32752,
+              "mime": "image/png"
+            },
+            "length_of_service": 8298,
+            "view_count": 67,
+            "identifier": "potter_stewart",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2687",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 362984400,
+                "id": 2687,
+                "date_start": -353962800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Potter Stewart"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134149",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/felix_frankfurter",
+              "ID": 15050,
+              "last_name": "Frankfurter",
+              "thumbnail": {
+                "size": 45083,
+                "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+                "id": 32706,
+                "mime": "image/png"
+              },
+              "length_of_service": 8611,
+              "view_count": 0,
+              "identifier": "felix_frankfurter",
+              "roles": [
+                {
+                  "appointing_president": "Franklin D. Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -231793200,
+                  "id": 2694,
+                  "date_start": -975780000,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Felix Frankfurter"
+            }
+          ]
+        },
+        {
+          "ideology": -5.121,
+          "seniority": 4,
+          "opinion_type": "dissent",
+          "member": {
+            "href": "https://api.oyez.org/people/william_o_douglas",
+            "ID": 15107,
+            "last_name": "Douglas",
+            "thumbnail": {
+              "size": 56651,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+              "id": 32781,
+              "mime": "image/png"
+            },
+            "length_of_service": 13358,
+            "view_count": 0,
+            "identifier": "william_o_douglas",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 185004000,
+                "id": 2751,
+                "date_start": -969127200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William O. Douglas"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134150",
+          "vote": "minority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/william_j_brennan_jr",
+              "ID": 15140,
+              "last_name": "Brennan",
+              "thumbnail": {
+                "size": 56873,
+                "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+                "id": 32778,
+                "mime": "image/png"
+              },
+              "length_of_service": 12330,
+              "view_count": 0,
+              "identifier": "william_j_brennan_jr",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": 648450000,
+                  "id": 2786,
+                  "date_start": -416862000,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "William J. Brennan, Jr."
+            }
+          ]
+        },
+        {
+          "ideology": -2.019,
+          "seniority": 2,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/hugo_l_black",
+            "ID": 15089,
+            "last_name": "Black",
+            "thumbnail": {
+              "size": 51667,
+              "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+              "id": 32719,
+              "mime": "image/png"
+            },
+            "length_of_service": 12447,
+            "view_count": 69,
+            "identifier": "hugo_l_black",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+                "role_title": "Associate Justice",
+                "type": "scotus_justice",
+                "date_end": 53931600,
+                "id": 2733,
+                "date_start": -1021489200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Hugo L. Black"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134151",
+          "vote": "minority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/william_j_brennan_jr",
+              "ID": 15140,
+              "last_name": "Brennan",
+              "thumbnail": {
+                "size": 56873,
+                "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+                "id": 32778,
+                "mime": "image/png"
+              },
+              "length_of_service": 12330,
+              "view_count": 0,
+              "identifier": "william_j_brennan_jr",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": 648450000,
+                  "id": 2786,
+                  "date_start": -416862000,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "William J. Brennan, Jr."
+            },
+            {
+              "href": "https://api.oyez.org/people/william_o_douglas",
+              "ID": 15107,
+              "last_name": "Douglas",
+              "thumbnail": {
+                "size": 56651,
+                "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+                "id": 32781,
+                "mime": "image/png"
+              },
+              "length_of_service": 13358,
+              "view_count": 0,
+              "identifier": "william_o_douglas",
+              "roles": [
+                {
+                  "appointing_president": "Franklin D. Roosevelt",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": 185004000,
+                  "id": 2751,
+                  "date_start": -969127200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "William O. Douglas"
+            }
+          ]
+        },
+        {
+          "ideology": -0.905,
+          "seniority": 7,
+          "opinion_type": "dissent",
+          "member": {
+            "href": "https://api.oyez.org/people/william_j_brennan_jr",
+            "ID": 15140,
+            "last_name": "Brennan",
+            "thumbnail": {
+              "size": 56873,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+              "id": 32778,
+              "mime": "image/png"
+            },
+            "length_of_service": 12330,
+            "view_count": 0,
+            "identifier": "william_j_brennan_jr",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 648450000,
+                "id": 2786,
+                "date_start": -416862000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William J. Brennan, Jr."
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134152",
+          "vote": "minority",
+          "joining": null
+        },
+        {
+          "ideology": -1.527,
+          "seniority": 1,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/earl_warren",
+            "ID": 15099,
+            "last_name": "Warren",
+            "thumbnail": {
+              "size": 50444,
+              "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+              "id": 32704,
+              "mime": "image/png"
+            },
+            "length_of_service": 5740,
+            "view_count": 96,
+            "identifier": "earl_warren",
+            "roles": [
+              {
+                "appointing_president": "Dwight D. Eisenhower",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -16570800,
+                "id": 2743,
+                "date_start": -512503200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Earl Warren"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/134153",
+          "vote": "minority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/william_j_brennan_jr",
+              "ID": 15140,
+              "last_name": "Brennan",
+              "thumbnail": {
+                "size": 56873,
+                "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+                "id": 32778,
+                "mime": "image/png"
+              },
+              "length_of_service": 12330,
+              "view_count": 0,
+              "identifier": "william_j_brennan_jr",
+              "roles": [
+                {
+                  "appointing_president": "Dwight D. Eisenhower",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": 648450000,
+                  "id": 2786,
+                  "date_start": -416862000,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "William J. Brennan, Jr."
+            }
+          ]
+        }
+      ],
+      "minority_vote": 4,
+      "winning_party": "United States",
+      "decision_type": "majority opinion",
+      "majority_vote": 5,
+      "description": "Evidence obtained incident to a lawful arrest for failure to register as an alien pursuant to a warrant does not violate the Search and Seizure requirements of the Fourth Amendment."
+    }
+  ],
+  "href": "https://api.oyez.org/cases/1959/2",
+  "second_party": "United States",
+  "first_party": "Rudolph Ivanovich Abel also known as 'Mark' and also known as Martin Collins and Emil R. Goldfus",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/20998",
+      "advocate_description": "for the petitioner",
+      "advocate": {
+        "href": "https://api.oyez.org/people/james_b_donovan",
+        "ID": 30019,
+        "last_name": "Donovan",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "james_b_donovan",
+        "roles": null,
+        "name": "James B. Donovan"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/20999",
+      "advocate_description": "Solicitor General, Department of Justice, for the United States",
+      "advocate": {
+        "href": "https://api.oyez.org/people/j_lee_rankin",
+        "ID": 32701,
+        "last_name": "Rankin",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "j_lee_rankin",
+        "roles": null,
+        "name": "J. Lee Rankin"
+      }
+    }
+  ],
+  "description": null,
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": "<p>Yes, no. In a 5-4 decision written by Justice Felix Frankfurter, the Court held that the INS properly arrested Abel even though the FBI suspected him of espionage. Justice Frankfurter noted that the INS was simultaneously investigating Abel’s status in the United States and that it indeed commenced deportation proceedings against him. While acknowledging both that the INS delayed its arrest of Abel and that the FBI searched Abel’s room immediately after INS agents’ search, he did not consider this to be sufficient evidence of unreasonable “bad faith” cooperation between the INS and FBI. He argued that the government had two available ways of dealing with a criminally suspect deportable alien and simply chose to detain Abel for potential deportation first.</p>\n<p>Justice Frankfurter also held that the items seized by both the INS and the FBI were properly introduced into evidence at trial. He could discern no constitutional reason to limit the search for materials proving the deportability of a validly arrested alien more than the Constitution limits the search for materials probative of a crime. Noting that INS agents had to apply to the District Director of the INS for a warrant, Justice Frankfurter argued that the differences in procedural protection between criminal and deportation arrests were not of constitutional significance.</p>\n<p>Justice William Douglas dissented, joined by Justice Hugo Black. He warned against allowing administrative officers such as INS agents to enter people’s homes without warrants, especially when the invasion is a front for a criminal investigation. Justice Douglas argued that the FBI were clearly the moving force behind Abel’s arrest and the search of his hotel room, noting that the FBI made no effort during the investigation to obtain a search warrant despite having plenty of time to do so.</p>\n<p>Justice William Brennan dissented, joined by Chief Justice Earl Warren, Justice Hugo Black, and Justice William Douglas. While acknowledging that Congress’ power over aliens may be great and that deportation may be described as a civil remedy, he rejected the majority’s notion that the fruits of a deportation warrant may be used in a criminal trial. He noted that there was no independent inquiry over the circumstances of the arrest and seizure, given that only a superior INS officer approved the deportation warrant. Justice Brennan argued that such an administrative search can never be reasonable under the Fourth Amendment.</p>\n",
+  "facts_of_the_case": "<p>Rudolf Ivanovich Abel maintained an artist’s studio in Brooklyn Heights, New York while living in New York at various inexpensive lodgings. In early May of 1957, Reino Hayhanen informed the American Embassy in Paris that he had been acting as a secret agent for the Soviet Union in the United States since 1952. He also informed the embassy that he had assisted a Soviet agent he only knew as “Mark”, whom he identified as a resident agent in the United States with the military rank of colonel. Federal Bureau of Investigation (“FBI”) agents began a long investigation of Abel, but did not seek to obtain a warrant of arrest or a search warrant relating to Abel.</p>\n<p>FBI agents gave three agents from the Immigration and Naturalization Service (“INS”) a report on Abel as a suspected spy; the FBI agents also asked them to prepare an Immigration detention warrant. On June 21, 1957, FBI agents found Abel at the Latham Hotel in Manhattan and questioned him unsuccessfully for a half hour. A short time later, INS agents who were waiting outside packed up all of Abel’s personal effects in the room. They seized over two hundred items but found no weapons or evidence of alienage; the FBI also seized several items after an agent checked Abel out of the hotel, including three items contested at trial.</p>\n<p>Two INS agents flew Abel to a maximum security camp in McAllen, Texas, where FBI and INS agents interrogated him for four weeks. On the third day, he admitted he was in the United States illegally. A criminal warrant for Abel’s arrest was issued on August 7, 1957 while Abel was in his Texas cell; he also learned that same day that he was indicted for espionage. Agents brought Abel back to New York, where the district court tried and convicted him of espionage. The prosecution introduced seven items seized before the government obtained a search warrant. The United States Court of Appeals, Second Circuit, affirmed Abel’s conviction, holding that INS agents could search Abel’s hotel room incident to his valid arrest and pursuant to a deportation arrest warrant.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/47717",
+      "dates": [
+        -342468000,
+        -342381600
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/51704",
+      "dates": [
+        -320176800
+      ],
+      "event": "Reargued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/47718",
+      "dates": [
+        -308080800
+      ],
+      "event": "Decided"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/warren7",
+      "ID": 15293,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/earl_warren",
+          "ID": 15099,
+          "last_name": "Warren",
+          "thumbnail": {
+            "size": 50444,
+            "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+            "id": 32704,
+            "mime": "image/png"
+          },
+          "length_of_service": 5740,
+          "view_count": 96,
+          "identifier": "earl_warren",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -16570800,
+              "id": 2743,
+              "date_start": -512503200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Earl Warren"
+        },
+        {
+          "href": "https://api.oyez.org/people/hugo_l_black",
+          "ID": 15089,
+          "last_name": "Black",
+          "thumbnail": {
+            "size": 51667,
+            "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+            "id": 32719,
+            "mime": "image/png"
+          },
+          "length_of_service": 12447,
+          "view_count": 69,
+          "identifier": "hugo_l_black",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": 53931600,
+              "id": 2733,
+              "date_start": -1021489200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Hugo L. Black"
+        },
+        {
+          "href": "https://api.oyez.org/people/felix_frankfurter",
+          "ID": 15050,
+          "last_name": "Frankfurter",
+          "thumbnail": {
+            "size": 45083,
+            "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+            "id": 32706,
+            "mime": "image/png"
+          },
+          "length_of_service": 8611,
+          "view_count": 0,
+          "identifier": "felix_frankfurter",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -231793200,
+              "id": 2694,
+              "date_start": -975780000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Felix Frankfurter"
+        },
+        {
+          "href": "https://api.oyez.org/people/william_o_douglas",
+          "ID": 15107,
+          "last_name": "Douglas",
+          "thumbnail": {
+            "size": 56651,
+            "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+            "id": 32781,
+            "mime": "image/png"
+          },
+          "length_of_service": 13358,
+          "view_count": 0,
+          "identifier": "william_o_douglas",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 185004000,
+              "id": 2751,
+              "date_start": -969127200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "William O. Douglas"
+        },
+        {
+          "href": "https://api.oyez.org/people/tom_c_clark",
+          "ID": 15083,
+          "last_name": "Clark",
+          "thumbnail": {
+            "size": 50879,
+            "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+            "id": 32771,
+            "mime": "image/png"
+          },
+          "length_of_service": 6501,
+          "view_count": 92,
+          "identifier": "tom_c_clark",
+          "roles": [
+            {
+              "appointing_president": "Harry S. Truman",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -80679600,
+              "id": 2727,
+              "date_start": -642366000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Tom C. Clark"
+        },
+        {
+          "href": "https://api.oyez.org/people/john_m_harlan2",
+          "ID": 15097,
+          "last_name": "Harlan",
+          "thumbnail": {
+            "size": 53784,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png",
+            "id": 32728,
+            "mime": "image/png"
+          },
+          "length_of_service": 6023,
+          "view_count": 0,
+          "identifier": "john_m_harlan2",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2741",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 54450000,
+              "id": 2741,
+              "date_start": -465933600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "John M. Harlan II"
+        },
+        {
+          "href": "https://api.oyez.org/people/william_j_brennan_jr",
+          "ID": 15140,
+          "last_name": "Brennan",
+          "thumbnail": {
+            "size": 56873,
+            "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+            "id": 32778,
+            "mime": "image/png"
+          },
+          "length_of_service": 12330,
+          "view_count": 0,
+          "identifier": "william_j_brennan_jr",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 648450000,
+              "id": 2786,
+              "date_start": -416862000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "William J. Brennan, Jr."
+        },
+        {
+          "href": "https://api.oyez.org/people/charles_e_whittaker",
+          "ID": 15082,
+          "last_name": "Whittaker",
+          "thumbnail": {
+            "size": 50854,
+            "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_whittaker/charles_e_whittaker.thumb.png",
+            "id": 32700,
+            "mime": "image/png"
+          },
+          "length_of_service": 1832,
+          "view_count": 0,
+          "identifier": "charles_e_whittaker",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2726",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -244749600,
+              "id": 2726,
+              "date_start": -403034400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Charles E. Whittaker"
+        },
+        {
+          "href": "https://api.oyez.org/people/potter_stewart",
+          "ID": 15043,
+          "last_name": "Stewart",
+          "thumbnail": {
+            "size": 56350,
+            "href": "https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png",
+            "id": 32752,
+            "mime": "image/png"
+          },
+          "length_of_service": 8298,
+          "view_count": 67,
+          "identifier": "potter_stewart",
+          "roles": [
+            {
+              "appointing_president": "Dwight D. Eisenhower",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2687",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": 362984400,
+              "id": 2687,
+              "date_start": -353962800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Potter Stewart"
+        }
+      ],
+      "court_start": -354049200,
+      "view_count": 0,
+      "identifier": "warren7",
+      "images": [
+        {
+          "size": 26798,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/warren7.jpg",
+          "id": 12262,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Warren Court (1958-1962)"
+    }
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "view_count": 154,
+  "lower_court": {
+    "href": "https://api.oyez.org/taxonomy/term/7",
+    "ID": 7,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "justia_url": "https://supreme.justia.com/cases/federal/us/362/217/",
+  "docket_number": "2",
+  "ID": 59724,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 14705,
+      "href": "https://api.oyez.org/case_document/written_opinion/14705",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/362/217/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1942774,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 14706,
+      "href": "https://api.oyez.org/case_document/written_opinion/14706",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/362/217/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1942775,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Was Abel properly arrested pursuant to an administrative Immigration and Naturalization Service warrant despite an overlapping FBI investigation for espionage? Were the Fourth and Fifth Amendments violated when the United States searched and seized evidence from Abel while he was in custody pursuant to an INS warrant?</p>\n",
+  "citation": {
+    "page": "217",
+    "volume": "362",
+    "year": "1960",
+    "href": "https://api.oyez.org/case_citation/case_citation/24506"
+  },
+  "oral_argument_audio": [
+    {
+      "public_note": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/13713",
+      "unavailable": null,
+      "title": "Oral Argument - February 24, 1959",
+      "id": 13713
+    },
+    {
+      "public_note": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/13551",
+      "unavailable": null,
+      "title": "Oral Argument - February 25, 1959",
+      "id": 13551
+    },
+    {
+      "public_note": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/13687",
+      "unavailable": null,
+      "title": "Oral Reargument - November 09, 1959 (Part 1)",
+      "id": 13687
+    },
+    {
+      "public_note": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/13684",
+      "unavailable": null,
+      "title": "Oral Reargument - November 09, 1959 (Part 2)",
+      "id": 13684
+    }
+  ],
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/warren7",
+    "ID": 15293,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/earl_warren",
+        "ID": 15099,
+        "last_name": "Warren",
+        "thumbnail": {
+          "size": 50444,
+          "href": "https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png",
+          "id": 32704,
+          "mime": "image/png"
+        },
+        "length_of_service": 5740,
+        "view_count": 96,
+        "identifier": "earl_warren",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2743",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -16570800,
+            "id": 2743,
+            "date_start": -512503200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Earl Warren"
+      },
+      {
+        "href": "https://api.oyez.org/people/hugo_l_black",
+        "ID": 15089,
+        "last_name": "Black",
+        "thumbnail": {
+          "size": 51667,
+          "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+          "id": 32719,
+          "mime": "image/png"
+        },
+        "length_of_service": 12447,
+        "view_count": 69,
+        "identifier": "hugo_l_black",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": 53931600,
+            "id": 2733,
+            "date_start": -1021489200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Hugo L. Black"
+      },
+      {
+        "href": "https://api.oyez.org/people/felix_frankfurter",
+        "ID": 15050,
+        "last_name": "Frankfurter",
+        "thumbnail": {
+          "size": 45083,
+          "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+          "id": 32706,
+          "mime": "image/png"
+        },
+        "length_of_service": 8611,
+        "view_count": 0,
+        "identifier": "felix_frankfurter",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -231793200,
+            "id": 2694,
+            "date_start": -975780000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Felix Frankfurter"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_o_douglas",
+        "ID": 15107,
+        "last_name": "Douglas",
+        "thumbnail": {
+          "size": 56651,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+          "id": 32781,
+          "mime": "image/png"
+        },
+        "length_of_service": 13358,
+        "view_count": 0,
+        "identifier": "william_o_douglas",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 185004000,
+            "id": 2751,
+            "date_start": -969127200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William O. Douglas"
+      },
+      {
+        "href": "https://api.oyez.org/people/tom_c_clark",
+        "ID": 15083,
+        "last_name": "Clark",
+        "thumbnail": {
+          "size": 50879,
+          "href": "https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png",
+          "id": 32771,
+          "mime": "image/png"
+        },
+        "length_of_service": 6501,
+        "view_count": 92,
+        "identifier": "tom_c_clark",
+        "roles": [
+          {
+            "appointing_president": "Harry S. Truman",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2727",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -80679600,
+            "id": 2727,
+            "date_start": -642366000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Tom C. Clark"
+      },
+      {
+        "href": "https://api.oyez.org/people/john_m_harlan2",
+        "ID": 15097,
+        "last_name": "Harlan",
+        "thumbnail": {
+          "size": 53784,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png",
+          "id": 32728,
+          "mime": "image/png"
+        },
+        "length_of_service": 6023,
+        "view_count": 0,
+        "identifier": "john_m_harlan2",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2741",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 54450000,
+            "id": 2741,
+            "date_start": -465933600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "John M. Harlan II"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_j_brennan_jr",
+        "ID": 15140,
+        "last_name": "Brennan",
+        "thumbnail": {
+          "size": 56873,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png",
+          "id": 32778,
+          "mime": "image/png"
+        },
+        "length_of_service": 12330,
+        "view_count": 0,
+        "identifier": "william_j_brennan_jr",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2786",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 648450000,
+            "id": 2786,
+            "date_start": -416862000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William J. Brennan, Jr."
+      },
+      {
+        "href": "https://api.oyez.org/people/charles_e_whittaker",
+        "ID": 15082,
+        "last_name": "Whittaker",
+        "thumbnail": {
+          "size": 50854,
+          "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_whittaker/charles_e_whittaker.thumb.png",
+          "id": 32700,
+          "mime": "image/png"
+        },
+        "length_of_service": 1832,
+        "view_count": 0,
+        "identifier": "charles_e_whittaker",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2726",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -244749600,
+            "id": 2726,
+            "date_start": -403034400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Charles E. Whittaker"
+      },
+      {
+        "href": "https://api.oyez.org/people/potter_stewart",
+        "ID": 15043,
+        "last_name": "Stewart",
+        "thumbnail": {
+          "size": 56350,
+          "href": "https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png",
+          "id": 32752,
+          "mime": "image/png"
+        },
+        "length_of_service": 8298,
+        "view_count": 67,
+        "identifier": "potter_stewart",
+        "roles": [
+          {
+            "appointing_president": "Dwight D. Eisenhower",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2687",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 362984400,
+            "id": 2687,
+            "date_start": -353962800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Potter Stewart"
+      }
+    ],
+    "court_start": -354049200,
+    "view_count": 0,
+    "identifier": "warren7",
+    "images": [
+      {
+        "size": 26798,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/warren7.jpg",
+        "id": 12262,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Warren Court (1958-1962)"
+  },
+  "location": {
+    "city": "New York",
+    "province": "NY",
+    "province_name": "New York",
+    "postal_code": null,
+    "street": "4 East 28th Street",
+    "latitude": 40.744347,
+    "longitude": -73.986579,
+    "name": "Latham Hotel"
+  },
+  "name": "Abel v. United States",
+  "term": "1959",
+  "additional_docket_numbers": null
+}

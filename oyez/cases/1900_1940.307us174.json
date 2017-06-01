@@ -1,0 +1,1182 @@
+{
+  "decisions": [
+    {
+      "href": "https://api.oyez.org/case_decision/case_decision/16415",
+      "votes": [
+        {
+          "ideology": 0,
+          "seniority": 2,
+          "opinion_type": "majority",
+          "member": {
+            "href": "https://api.oyez.org/people/james_c_mcreynolds",
+            "ID": 15066,
+            "last_name": "McReynolds",
+            "thumbnail": {
+              "size": 55380,
+              "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+              "id": 32720,
+              "mime": "image/png"
+            },
+            "length_of_service": 9608,
+            "view_count": 0,
+            "identifier": "james_c_mcreynolds",
+            "roles": [
+              {
+                "appointing_president": "Woodrow Wilson",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -912535200,
+                "id": 2710,
+                "date_start": -1742666400,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "James C. McReynolds"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205770",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": 0,
+          "seniority": 1,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/charles_e_hughes",
+            "ID": 15038,
+            "last_name": "Hughes",
+            "thumbnail": {
+              "size": 56986,
+              "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_hughes/charles_e_hughes.thumb.png",
+              "id": 32790,
+              "mime": "image/png"
+            },
+            "length_of_service": 6214,
+            "view_count": 0,
+            "identifier": "charles_e_hughes",
+            "roles": [
+              {
+                "appointing_president": "William Howard Taft",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2681",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -1690221600,
+                "id": 2681,
+                "date_start": -1869069600,
+                "institution_name": "Supreme Court of the United States"
+              },
+              {
+                "appointing_president": "Herbert Hoover",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2682",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -899578800,
+                "id": 2682,
+                "date_start": -1257616800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Charles E. Hughes"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205771",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/james_c_mcreynolds",
+              "ID": 15066,
+              "last_name": "McReynolds",
+              "thumbnail": {
+                "size": 55380,
+                "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+                "id": 32720,
+                "mime": "image/png"
+              },
+              "length_of_service": 9608,
+              "view_count": 0,
+              "identifier": "james_c_mcreynolds",
+              "roles": [
+                {
+                  "appointing_president": "Woodrow Wilson",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -912535200,
+                  "id": 2710,
+                  "date_start": -1742666400,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "James C. McReynolds"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 3,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/pierce_butler",
+            "ID": 15138,
+            "last_name": "Butler",
+            "thumbnail": {
+              "size": 38328,
+              "href": "https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png",
+              "id": 32751,
+              "mime": "image/png"
+            },
+            "length_of_service": 6162,
+            "view_count": 0,
+            "identifier": "pierce_butler",
+            "roles": [
+              {
+                "appointing_president": "Warren G. Harding",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2784",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -950724000,
+                "id": 2784,
+                "date_start": -1483120800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Pierce Butler"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205772",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/james_c_mcreynolds",
+              "ID": 15066,
+              "last_name": "McReynolds",
+              "thumbnail": {
+                "size": 55380,
+                "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+                "id": 32720,
+                "mime": "image/png"
+              },
+              "length_of_service": 9608,
+              "view_count": 0,
+              "identifier": "james_c_mcreynolds",
+              "roles": [
+                {
+                  "appointing_president": "Woodrow Wilson",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -912535200,
+                  "id": 2710,
+                  "date_start": -1742666400,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "James C. McReynolds"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 4,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/harlan_fiske_stone",
+            "ID": 15134,
+            "last_name": "Stone",
+            "thumbnail": {
+              "size": 33656,
+              "href": "https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png",
+              "id": 32788,
+              "mime": "image/png"
+            },
+            "length_of_service": 7720,
+            "view_count": 0,
+            "identifier": "harlan_fiske_stone",
+            "roles": [
+              {
+                "appointing_president": "Calvin Coolidge",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2779",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -899406000,
+                "id": 2779,
+                "date_start": -1414864800,
+                "institution_name": "Supreme Court of the United States"
+              },
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2780",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -747770400,
+                "id": 2780,
+                "date_start": -899319600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Harlan Fiske Stone"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205773",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/james_c_mcreynolds",
+              "ID": 15066,
+              "last_name": "McReynolds",
+              "thumbnail": {
+                "size": 55380,
+                "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+                "id": 32720,
+                "mime": "image/png"
+              },
+              "length_of_service": 9608,
+              "view_count": 0,
+              "identifier": "james_c_mcreynolds",
+              "roles": [
+                {
+                  "appointing_president": "Woodrow Wilson",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -912535200,
+                  "id": 2710,
+                  "date_start": -1742666400,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "James C. McReynolds"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 5,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/owen_j_roberts",
+            "ID": 15041,
+            "last_name": "Roberts",
+            "thumbnail": {
+              "size": 53589,
+              "href": "https://api.oyez.org/sites/default/files/images/people/owen_j_roberts/owen_j_roberts.thumb.png",
+              "id": 32748,
+              "mime": "image/png"
+            },
+            "length_of_service": 5538,
+            "view_count": 0,
+            "identifier": "owen_j_roberts",
+            "roles": [
+              {
+                "appointing_president": "Herbert Hoover",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2685",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -770670000,
+                "id": 2685,
+                "date_start": -1249153200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Owen J. Roberts"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205774",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/james_c_mcreynolds",
+              "ID": 15066,
+              "last_name": "McReynolds",
+              "thumbnail": {
+                "size": 55380,
+                "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+                "id": 32720,
+                "mime": "image/png"
+              },
+              "length_of_service": 9608,
+              "view_count": 0,
+              "identifier": "james_c_mcreynolds",
+              "roles": [
+                {
+                  "appointing_president": "Woodrow Wilson",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -912535200,
+                  "id": 2710,
+                  "date_start": -1742666400,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "James C. McReynolds"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 6,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/hugo_l_black",
+            "ID": 15089,
+            "last_name": "Black",
+            "thumbnail": {
+              "size": 51667,
+              "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+              "id": 32719,
+              "mime": "image/png"
+            },
+            "length_of_service": 12447,
+            "view_count": 69,
+            "identifier": "hugo_l_black",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+                "role_title": "Associate Justice",
+                "type": "scotus_justice",
+                "date_end": 53931600,
+                "id": 2733,
+                "date_start": -1021489200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Hugo L. Black"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205775",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/james_c_mcreynolds",
+              "ID": 15066,
+              "last_name": "McReynolds",
+              "thumbnail": {
+                "size": 55380,
+                "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+                "id": 32720,
+                "mime": "image/png"
+              },
+              "length_of_service": 9608,
+              "view_count": 0,
+              "identifier": "james_c_mcreynolds",
+              "roles": [
+                {
+                  "appointing_president": "Woodrow Wilson",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -912535200,
+                  "id": 2710,
+                  "date_start": -1742666400,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "James C. McReynolds"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 7,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/stanley_reed",
+            "ID": 15063,
+            "last_name": "Reed",
+            "thumbnail": {
+              "size": 39053,
+              "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+              "id": 79211,
+              "mime": "image/png"
+            },
+            "length_of_service": 6965,
+            "view_count": 0,
+            "identifier": "stanley_reed",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+                "role_title": "Associate Justice",
+                "type": "scotus_justice",
+                "date_end": -405453600,
+                "id": 2707,
+                "date_start": -1007229600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Stanley Reed"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205776",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/james_c_mcreynolds",
+              "ID": 15066,
+              "last_name": "McReynolds",
+              "thumbnail": {
+                "size": 55380,
+                "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+                "id": 32720,
+                "mime": "image/png"
+              },
+              "length_of_service": 9608,
+              "view_count": 0,
+              "identifier": "james_c_mcreynolds",
+              "roles": [
+                {
+                  "appointing_president": "Woodrow Wilson",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -912535200,
+                  "id": 2710,
+                  "date_start": -1742666400,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "James C. McReynolds"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 8,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/felix_frankfurter",
+            "ID": 15050,
+            "last_name": "Frankfurter",
+            "thumbnail": {
+              "size": 45083,
+              "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+              "id": 32706,
+              "mime": "image/png"
+            },
+            "length_of_service": 8611,
+            "view_count": 0,
+            "identifier": "felix_frankfurter",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -231793200,
+                "id": 2694,
+                "date_start": -975780000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Felix Frankfurter"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205777",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/james_c_mcreynolds",
+              "ID": 15066,
+              "last_name": "McReynolds",
+              "thumbnail": {
+                "size": 55380,
+                "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+                "id": 32720,
+                "mime": "image/png"
+              },
+              "length_of_service": 9608,
+              "view_count": 0,
+              "identifier": "james_c_mcreynolds",
+              "roles": [
+                {
+                  "appointing_president": "Woodrow Wilson",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -912535200,
+                  "id": 2710,
+                  "date_start": -1742666400,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "James C. McReynolds"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 9,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/william_o_douglas",
+            "ID": 15107,
+            "last_name": "Douglas",
+            "thumbnail": {
+              "size": 56651,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+              "id": 32781,
+              "mime": "image/png"
+            },
+            "length_of_service": 13358,
+            "view_count": 0,
+            "identifier": "william_o_douglas",
+            "roles": [
+              {
+                "appointing_president": "Franklin D. Roosevelt",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": 185004000,
+                "id": 2751,
+                "date_start": -969127200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William O. Douglas"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205778",
+          "vote": "none",
+          "joining": null
+        }
+      ],
+      "minority_vote": 0,
+      "winning_party": "United States",
+      "decision_type": "majority opinion",
+      "majority_vote": 8,
+      "description": "The purpose of the Second Amendment was to maintain effective state militias; Congress could require registration of a 12-gauge sawed-off shotgun if carried across state lines"
+    }
+  ],
+  "href": "https://api.oyez.org/cases/1900-1940/307us174",
+  "second_party": "Jack Miller and Frank Layton",
+  "first_party": "United States",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21267",
+      "advocate_description": "for the appellant",
+      "advocate": {
+        "href": "https://api.oyez.org/people/gordon_dean",
+        "ID": 25192,
+        "last_name": "Dean",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "gordon_dean",
+        "roles": null,
+        "name": "Gordon Dean"
+      }
+    }
+  ],
+  "description": "A case in which the Court found that owning a sawed-off double barrel shotgun was not protected under the Second Amendment. ",
+  "first_party_label": "Appellant",
+  "related_cases": null,
+  "conclusion": "<p>No. The Supreme Court reversed the district court, holding that the Second Amendment does not guarantee an individual the right to keep and bear a sawed-off double barrel shotgun. With Justice James Clark McReynolds writing for the majority, the Court reasoned that because the possession of a sawed-off double barrel shotgun does not have a reasonable relationship to the preservation or efficiency of a well-regulated militia, the Second Amendment does not protect the possession of such an instrument.</p>\n",
+  "facts_of_the_case": "<p>An Arkansas federal district court charged Jack Miller and Frank Layton with violating the National Firearms Act (\"NFA\") when they transported a double barrel 12-gauge shotgun in interstate commerce. In part, Miller and Layton argued that the NFA violated their Second Amendment right to keep and bear arms. The district court agreed and dismissed the case.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53108",
+      "dates": [
+        -970682400
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/53109",
+      "dates": [
+        -966711600
+      ],
+      "event": "Decided"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Appellee",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/hughes12",
+      "ID": 15338,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/charles_e_hughes",
+          "ID": 15038,
+          "last_name": "Hughes",
+          "thumbnail": {
+            "size": 56986,
+            "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_hughes/charles_e_hughes.thumb.png",
+            "id": 32790,
+            "mime": "image/png"
+          },
+          "length_of_service": 6214,
+          "view_count": 0,
+          "identifier": "charles_e_hughes",
+          "roles": [
+            {
+              "appointing_president": "William Howard Taft",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2681",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -1690221600,
+              "id": 2681,
+              "date_start": -1869069600,
+              "institution_name": "Supreme Court of the United States"
+            },
+            {
+              "appointing_president": "Herbert Hoover",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2682",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -899578800,
+              "id": 2682,
+              "date_start": -1257616800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Charles E. Hughes"
+        },
+        {
+          "href": "https://api.oyez.org/people/james_c_mcreynolds",
+          "ID": 15066,
+          "last_name": "McReynolds",
+          "thumbnail": {
+            "size": 55380,
+            "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+            "id": 32720,
+            "mime": "image/png"
+          },
+          "length_of_service": 9608,
+          "view_count": 0,
+          "identifier": "james_c_mcreynolds",
+          "roles": [
+            {
+              "appointing_president": "Woodrow Wilson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -912535200,
+              "id": 2710,
+              "date_start": -1742666400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "James C. McReynolds"
+        },
+        {
+          "href": "https://api.oyez.org/people/pierce_butler",
+          "ID": 15138,
+          "last_name": "Butler",
+          "thumbnail": {
+            "size": 38328,
+            "href": "https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png",
+            "id": 32751,
+            "mime": "image/png"
+          },
+          "length_of_service": 6162,
+          "view_count": 0,
+          "identifier": "pierce_butler",
+          "roles": [
+            {
+              "appointing_president": "Warren G. Harding",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2784",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -950724000,
+              "id": 2784,
+              "date_start": -1483120800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Pierce Butler"
+        },
+        {
+          "href": "https://api.oyez.org/people/harlan_fiske_stone",
+          "ID": 15134,
+          "last_name": "Stone",
+          "thumbnail": {
+            "size": 33656,
+            "href": "https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png",
+            "id": 32788,
+            "mime": "image/png"
+          },
+          "length_of_service": 7720,
+          "view_count": 0,
+          "identifier": "harlan_fiske_stone",
+          "roles": [
+            {
+              "appointing_president": "Calvin Coolidge",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2779",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -899406000,
+              "id": 2779,
+              "date_start": -1414864800,
+              "institution_name": "Supreme Court of the United States"
+            },
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2780",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -747770400,
+              "id": 2780,
+              "date_start": -899319600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Harlan Fiske Stone"
+        },
+        {
+          "href": "https://api.oyez.org/people/owen_j_roberts",
+          "ID": 15041,
+          "last_name": "Roberts",
+          "thumbnail": {
+            "size": 53589,
+            "href": "https://api.oyez.org/sites/default/files/images/people/owen_j_roberts/owen_j_roberts.thumb.png",
+            "id": 32748,
+            "mime": "image/png"
+          },
+          "length_of_service": 5538,
+          "view_count": 0,
+          "identifier": "owen_j_roberts",
+          "roles": [
+            {
+              "appointing_president": "Herbert Hoover",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2685",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -770670000,
+              "id": 2685,
+              "date_start": -1249153200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Owen J. Roberts"
+        },
+        {
+          "href": "https://api.oyez.org/people/hugo_l_black",
+          "ID": 15089,
+          "last_name": "Black",
+          "thumbnail": {
+            "size": 51667,
+            "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+            "id": 32719,
+            "mime": "image/png"
+          },
+          "length_of_service": 12447,
+          "view_count": 69,
+          "identifier": "hugo_l_black",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": 53931600,
+              "id": 2733,
+              "date_start": -1021489200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Hugo L. Black"
+        },
+        {
+          "href": "https://api.oyez.org/people/stanley_reed",
+          "ID": 15063,
+          "last_name": "Reed",
+          "thumbnail": {
+            "size": 39053,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+            "id": 79211,
+            "mime": "image/png"
+          },
+          "length_of_service": 6965,
+          "view_count": 0,
+          "identifier": "stanley_reed",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+              "role_title": "Associate Justice",
+              "type": "scotus_justice",
+              "date_end": -405453600,
+              "id": 2707,
+              "date_start": -1007229600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Stanley Reed"
+        },
+        {
+          "href": "https://api.oyez.org/people/felix_frankfurter",
+          "ID": 15050,
+          "last_name": "Frankfurter",
+          "thumbnail": {
+            "size": 45083,
+            "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+            "id": 32706,
+            "mime": "image/png"
+          },
+          "length_of_service": 8611,
+          "view_count": 0,
+          "identifier": "felix_frankfurter",
+          "roles": [
+            {
+              "appointing_president": "Franklin D. Roosevelt",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -231793200,
+              "id": 2694,
+              "date_start": -975780000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Felix Frankfurter"
+        }
+      ],
+      "court_start": -974484000,
+      "view_count": 0,
+      "identifier": "hughes12",
+      "images": [
+        {
+          "size": 1623788,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/hughes12.jpg",
+          "id": 56675,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Hughes Court (1939)"
+    }
+  ],
+  "manner_of_jurisdiction": "Appeal",
+  "view_count": 2060,
+  "lower_court": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/307/174/",
+  "docket_number": "696",
+  "ID": 62475,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 15935,
+      "href": "https://api.oyez.org/case_document/written_opinion/15935",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/307/174/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1936360,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 15936,
+      "href": "https://api.oyez.org/case_document/written_opinion/15936",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/307/174/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1936361,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Does the Second Amendment protect an individual's right to keep and bear arms?</p>\n",
+  "citation": {
+    "page": "174",
+    "volume": "307",
+    "year": "1939",
+    "href": "https://api.oyez.org/case_citation/case_citation/27277"
+  },
+  "oral_argument_audio": null,
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/hughes13",
+    "ID": 15347,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/charles_e_hughes",
+        "ID": 15038,
+        "last_name": "Hughes",
+        "thumbnail": {
+          "size": 56986,
+          "href": "https://api.oyez.org/sites/default/files/images/people/charles_e_hughes/charles_e_hughes.thumb.png",
+          "id": 32790,
+          "mime": "image/png"
+        },
+        "length_of_service": 6214,
+        "view_count": 0,
+        "identifier": "charles_e_hughes",
+        "roles": [
+          {
+            "appointing_president": "William Howard Taft",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2681",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -1690221600,
+            "id": 2681,
+            "date_start": -1869069600,
+            "institution_name": "Supreme Court of the United States"
+          },
+          {
+            "appointing_president": "Herbert Hoover",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2682",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -899578800,
+            "id": 2682,
+            "date_start": -1257616800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Charles E. Hughes"
+      },
+      {
+        "href": "https://api.oyez.org/people/james_c_mcreynolds",
+        "ID": 15066,
+        "last_name": "McReynolds",
+        "thumbnail": {
+          "size": 55380,
+          "href": "https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png",
+          "id": 32720,
+          "mime": "image/png"
+        },
+        "length_of_service": 9608,
+        "view_count": 0,
+        "identifier": "james_c_mcreynolds",
+        "roles": [
+          {
+            "appointing_president": "Woodrow Wilson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2710",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -912535200,
+            "id": 2710,
+            "date_start": -1742666400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "James C. McReynolds"
+      },
+      {
+        "href": "https://api.oyez.org/people/pierce_butler",
+        "ID": 15138,
+        "last_name": "Butler",
+        "thumbnail": {
+          "size": 38328,
+          "href": "https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png",
+          "id": 32751,
+          "mime": "image/png"
+        },
+        "length_of_service": 6162,
+        "view_count": 0,
+        "identifier": "pierce_butler",
+        "roles": [
+          {
+            "appointing_president": "Warren G. Harding",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2784",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -950724000,
+            "id": 2784,
+            "date_start": -1483120800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Pierce Butler"
+      },
+      {
+        "href": "https://api.oyez.org/people/harlan_fiske_stone",
+        "ID": 15134,
+        "last_name": "Stone",
+        "thumbnail": {
+          "size": 33656,
+          "href": "https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png",
+          "id": 32788,
+          "mime": "image/png"
+        },
+        "length_of_service": 7720,
+        "view_count": 0,
+        "identifier": "harlan_fiske_stone",
+        "roles": [
+          {
+            "appointing_president": "Calvin Coolidge",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2779",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -899406000,
+            "id": 2779,
+            "date_start": -1414864800,
+            "institution_name": "Supreme Court of the United States"
+          },
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2780",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -747770400,
+            "id": 2780,
+            "date_start": -899319600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Harlan Fiske Stone"
+      },
+      {
+        "href": "https://api.oyez.org/people/owen_j_roberts",
+        "ID": 15041,
+        "last_name": "Roberts",
+        "thumbnail": {
+          "size": 53589,
+          "href": "https://api.oyez.org/sites/default/files/images/people/owen_j_roberts/owen_j_roberts.thumb.png",
+          "id": 32748,
+          "mime": "image/png"
+        },
+        "length_of_service": 5538,
+        "view_count": 0,
+        "identifier": "owen_j_roberts",
+        "roles": [
+          {
+            "appointing_president": "Herbert Hoover",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2685",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -770670000,
+            "id": 2685,
+            "date_start": -1249153200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Owen J. Roberts"
+      },
+      {
+        "href": "https://api.oyez.org/people/hugo_l_black",
+        "ID": 15089,
+        "last_name": "Black",
+        "thumbnail": {
+          "size": 51667,
+          "href": "https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png",
+          "id": 32719,
+          "mime": "image/png"
+        },
+        "length_of_service": 12447,
+        "view_count": 69,
+        "identifier": "hugo_l_black",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2733",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": 53931600,
+            "id": 2733,
+            "date_start": -1021489200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Hugo L. Black"
+      },
+      {
+        "href": "https://api.oyez.org/people/stanley_reed",
+        "ID": 15063,
+        "last_name": "Reed",
+        "thumbnail": {
+          "size": 39053,
+          "href": "https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png",
+          "id": 79211,
+          "mime": "image/png"
+        },
+        "length_of_service": 6965,
+        "view_count": 0,
+        "identifier": "stanley_reed",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2707",
+            "role_title": "Associate Justice",
+            "type": "scotus_justice",
+            "date_end": -405453600,
+            "id": 2707,
+            "date_start": -1007229600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Stanley Reed"
+      },
+      {
+        "href": "https://api.oyez.org/people/felix_frankfurter",
+        "ID": 15050,
+        "last_name": "Frankfurter",
+        "thumbnail": {
+          "size": 45083,
+          "href": "https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png",
+          "id": 32706,
+          "mime": "image/png"
+        },
+        "length_of_service": 8611,
+        "view_count": 0,
+        "identifier": "felix_frankfurter",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2694",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -231793200,
+            "id": 2694,
+            "date_start": -975780000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Felix Frankfurter"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_o_douglas",
+        "ID": 15107,
+        "last_name": "Douglas",
+        "thumbnail": {
+          "size": 56651,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png",
+          "id": 32781,
+          "mime": "image/png"
+        },
+        "length_of_service": 13358,
+        "view_count": 0,
+        "identifier": "william_o_douglas",
+        "roles": [
+          {
+            "appointing_president": "Franklin D. Roosevelt",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2751",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": 185004000,
+            "id": 2751,
+            "date_start": -969127200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William O. Douglas"
+      }
+    ],
+    "court_start": -969127200,
+    "view_count": 0,
+    "identifier": "hughes13",
+    "images": [
+      {
+        "size": 28954,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/hughes13.jpg",
+        "id": 12283,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Hughes Court (1939)"
+  },
+  "location": {
+    "city": "Siloam Springs",
+    "province": "AR",
+    "province_name": "Arkansas",
+    "postal_code": null,
+    "street": null,
+    "latitude": 36.188137,
+    "longitude": -94.540496,
+    "name": "Siloam Springs"
+  },
+  "name": "United States v. Miller",
+  "term": "1900-1940",
+  "additional_docket_numbers": null
+}

@@ -1,0 +1,1184 @@
+{
+  "decisions": [
+    {
+      "href": "https://api.oyez.org/case_decision/case_decision/16410",
+      "votes": [
+        {
+          "ideology": 0,
+          "seniority": 1,
+          "opinion_type": "majority",
+          "member": {
+            "href": "https://api.oyez.org/people/morrison_r_waite",
+            "ID": 15101,
+            "last_name": "Waite",
+            "thumbnail": {
+              "size": 58958,
+              "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+              "id": 32743,
+              "mime": "image/png"
+            },
+            "length_of_service": 5133,
+            "view_count": 0,
+            "identifier": "morrison_r_waite",
+            "roles": [
+              {
+                "appointing_president": "Ulysses S. Grant",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -2580573600,
+                "id": 2745,
+                "date_start": -3024064800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Morrison R. Waite"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205725",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": 0,
+          "seniority": 2,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/nathan_clifford",
+            "ID": 15072,
+            "last_name": "Clifford",
+            "thumbnail": {
+              "size": 51252,
+              "href": "https://api.oyez.org/sites/default/files/images/people/nathan_clifford/nathan_clifford.thumb.png",
+              "id": 32744,
+              "mime": "image/png"
+            },
+            "length_of_service": 8586,
+            "view_count": 0,
+            "identifier": "nathan_clifford",
+            "roles": [
+              {
+                "appointing_president": "James Buchanan",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2716",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2790784800,
+                "id": 2716,
+                "date_start": -3532615200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Nathan Clifford"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205726",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/morrison_r_waite",
+              "ID": 15101,
+              "last_name": "Waite",
+              "thumbnail": {
+                "size": 58958,
+                "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+                "id": 32743,
+                "mime": "image/png"
+              },
+              "length_of_service": 5133,
+              "view_count": 0,
+              "identifier": "morrison_r_waite",
+              "roles": [
+                {
+                  "appointing_president": "Ulysses S. Grant",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -2580573600,
+                  "id": 2745,
+                  "date_start": -3024064800,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Morrison R. Waite"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 3,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/noah_swayne",
+            "ID": 15096,
+            "last_name": "Swayne",
+            "thumbnail": {
+              "size": 61407,
+              "href": "https://api.oyez.org/sites/default/files/images/people/noah_swayne/noah_swayne.thumb.png",
+              "id": 32745,
+              "mime": "image/png"
+            },
+            "length_of_service": 6937,
+            "view_count": 0,
+            "identifier": "noah_swayne",
+            "roles": [
+              {
+                "appointing_president": "Abraham Lincoln",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2740",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2806509600,
+                "id": 2740,
+                "date_start": -3405866400,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Noah Swayne"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205727",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/morrison_r_waite",
+              "ID": 15101,
+              "last_name": "Waite",
+              "thumbnail": {
+                "size": 58958,
+                "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+                "id": 32743,
+                "mime": "image/png"
+              },
+              "length_of_service": 5133,
+              "view_count": 0,
+              "identifier": "morrison_r_waite",
+              "roles": [
+                {
+                  "appointing_president": "Ulysses S. Grant",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -2580573600,
+                  "id": 2745,
+                  "date_start": -3024064800,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Morrison R. Waite"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 4,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/samuel_f_miller",
+            "ID": 15103,
+            "last_name": "Miller",
+            "thumbnail": {
+              "size": 59082,
+              "href": "https://api.oyez.org/sites/default/files/images/people/samuel_f_miller/samuel_f_miller.thumb.png",
+              "id": 32760,
+              "mime": "image/png"
+            },
+            "length_of_service": 10311,
+            "view_count": 0,
+            "identifier": "samuel_f_miller",
+            "roles": [
+              {
+                "appointing_president": "Abraham Lincoln",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2747",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2499876000,
+                "id": 2747,
+                "date_start": -3390746400,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Samuel F. Miller"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205728",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/morrison_r_waite",
+              "ID": 15101,
+              "last_name": "Waite",
+              "thumbnail": {
+                "size": 58958,
+                "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+                "id": 32743,
+                "mime": "image/png"
+              },
+              "length_of_service": 5133,
+              "view_count": 0,
+              "identifier": "morrison_r_waite",
+              "roles": [
+                {
+                  "appointing_president": "Ulysses S. Grant",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -2580573600,
+                  "id": 2745,
+                  "date_start": -3024064800,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Morrison R. Waite"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 5,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/david_davis",
+            "ID": 15124,
+            "last_name": "Davis",
+            "thumbnail": {
+              "size": 68309,
+              "href": "https://api.oyez.org/sites/default/files/images/people/david_davis/david_davis.thumb.png",
+              "id": 32701,
+              "mime": "image/png"
+            },
+            "length_of_service": 5198,
+            "view_count": 0,
+            "identifier": "david_davis",
+            "roles": [
+              {
+                "appointing_president": "Abraham Lincoln",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2769",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2929370400,
+                "id": 2769,
+                "date_start": -3378477600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "David Davis"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205729",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/morrison_r_waite",
+              "ID": 15101,
+              "last_name": "Waite",
+              "thumbnail": {
+                "size": 58958,
+                "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+                "id": 32743,
+                "mime": "image/png"
+              },
+              "length_of_service": 5133,
+              "view_count": 0,
+              "identifier": "morrison_r_waite",
+              "roles": [
+                {
+                  "appointing_president": "Ulysses S. Grant",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -2580573600,
+                  "id": 2745,
+                  "date_start": -3024064800,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Morrison R. Waite"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 8,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/joseph_p_bradley",
+            "ID": 15081,
+            "last_name": "Bradley",
+            "thumbnail": {
+              "size": 58686,
+              "href": "https://api.oyez.org/sites/default/files/images/people/joseph_p_bradley/joseph_p_bradley.thumb.png",
+              "id": 32734,
+              "mime": "image/png"
+            },
+            "length_of_service": 7975,
+            "view_count": 0,
+            "identifier": "joseph_p_bradley",
+            "roles": [
+              {
+                "appointing_president": "Ulysses S. Grant",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2725",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2459700000,
+                "id": 2725,
+                "date_start": -3148740000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Joseph P. Bradley"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205730",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/morrison_r_waite",
+              "ID": 15101,
+              "last_name": "Waite",
+              "thumbnail": {
+                "size": 58958,
+                "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+                "id": 32743,
+                "mime": "image/png"
+              },
+              "length_of_service": 5133,
+              "view_count": 0,
+              "identifier": "morrison_r_waite",
+              "roles": [
+                {
+                  "appointing_president": "Ulysses S. Grant",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -2580573600,
+                  "id": 2745,
+                  "date_start": -3024064800,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Morrison R. Waite"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 9,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/ward_hunt",
+            "ID": 15057,
+            "last_name": "Hunt",
+            "thumbnail": {
+              "size": 50866,
+              "href": "https://api.oyez.org/sites/default/files/images/people/ward_hunt/ward_hunt.thumb.png",
+              "id": 32772,
+              "mime": "image/png"
+            },
+            "length_of_service": 3305,
+            "view_count": 0,
+            "identifier": "ward_hunt",
+            "roles": [
+              {
+                "appointing_president": "Ulysses S. Grant",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2701",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2774714400,
+                "id": 2701,
+                "date_start": -3060266400,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Ward Hunt"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205731",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/morrison_r_waite",
+              "ID": 15101,
+              "last_name": "Waite",
+              "thumbnail": {
+                "size": 58958,
+                "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+                "id": 32743,
+                "mime": "image/png"
+              },
+              "length_of_service": 5133,
+              "view_count": 0,
+              "identifier": "morrison_r_waite",
+              "roles": [
+                {
+                  "appointing_president": "Ulysses S. Grant",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -2580573600,
+                  "id": 2745,
+                  "date_start": -3024064800,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Morrison R. Waite"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 6,
+          "opinion_type": "dissent",
+          "member": {
+            "href": "https://api.oyez.org/people/stephen_j_field",
+            "ID": 15122,
+            "last_name": "Field",
+            "thumbnail": {
+              "size": 54586,
+              "href": "https://api.oyez.org/sites/default/files/images/people/stephen_j_field/stephen_j_field.thumb.png",
+              "id": 32767,
+              "mime": "image/png"
+            },
+            "length_of_service": 12614,
+            "view_count": 0,
+            "identifier": "stephen_j_field",
+            "roles": [
+              {
+                "appointing_president": "Abraham Lincoln",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2767",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2274717600,
+                "id": 2767,
+                "date_start": -3364567200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Stephen J. Field"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205732",
+          "vote": "minority",
+          "joining": null
+        },
+        {
+          "ideology": 0,
+          "seniority": 7,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/william_strong",
+            "ID": 15040,
+            "last_name": "Strong",
+            "thumbnail": {
+              "size": 52693,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_strong/william_strong.thumb.png",
+              "id": 32784,
+              "mime": "image/png"
+            },
+            "length_of_service": 3928,
+            "view_count": 0,
+            "identifier": "william_strong",
+            "roles": [
+              {
+                "appointing_president": "Ulysses S. Grant",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2684",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -2810052000,
+                "id": 2684,
+                "date_start": -3149431200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William Strong"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205733",
+          "vote": "minority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/stephen_j_field",
+              "ID": 15122,
+              "last_name": "Field",
+              "thumbnail": {
+                "size": 54586,
+                "href": "https://api.oyez.org/sites/default/files/images/people/stephen_j_field/stephen_j_field.thumb.png",
+                "id": 32767,
+                "mime": "image/png"
+              },
+              "length_of_service": 12614,
+              "view_count": 0,
+              "identifier": "stephen_j_field",
+              "roles": [
+                {
+                  "appointing_president": "Abraham Lincoln",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2767",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -2274717600,
+                  "id": 2767,
+                  "date_start": -3364567200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "Stephen J. Field"
+            }
+          ]
+        }
+      ],
+      "minority_vote": 2,
+      "winning_party": "Illinois",
+      "decision_type": "majority opinion",
+      "majority_vote": 7,
+      "description": "States may regulate private property use when necessary for the public good"
+    }
+  ],
+  "href": "https://api.oyez.org/cases/1850-1900/94us113",
+  "second_party": "Illinois",
+  "first_party": "Munn and Scott",
+  "advocates": [
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21252",
+      "advocate_description": "for the plaintiffs in error",
+      "advocate": {
+        "href": "https://api.oyez.org/people/w_c_goudy",
+        "ID": 44734,
+        "last_name": "Goudy",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "w_c_goudy",
+        "roles": null,
+        "name": "W. C. Goudy I."
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21253",
+      "advocate_description": "for the plaintiffs in error",
+      "advocate": {
+        "href": "https://api.oyez.org/people/john_n_jewett",
+        "ID": 31190,
+        "last_name": "Jewett",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "john_n_jewett",
+        "roles": null,
+        "name": "John N. Jewett"
+      }
+    },
+    {
+      "href": "https://api.oyez.org/case_advocate/case_advocate/21254",
+      "advocate_description": "Attorney General of Illinois, for the defendant in error",
+      "advocate": {
+        "href": "https://api.oyez.org/people/james_k_edsall",
+        "ID": 30143,
+        "last_name": "Edsall",
+        "thumbnail": null,
+        "length_of_service": 0,
+        "view_count": 0,
+        "identifier": "james_k_edsall",
+        "roles": null,
+        "name": "James K. Edsall"
+      }
+    }
+  ],
+  "description": "A case in which the Court held that states could regulate the use of private property if the property affected public interest. ",
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": "<p>No on both counts. Waite, for the Court, took a broad view of the state's police power. He argued that the states may regulate the use of private property \"when such regulation becomes necessary for the public good.\" Waite resurrected an ancient legal doctrine to support his view: \"When property is affected with a public interest, it ceases to be juris privati only.\"</p>\n",
+  "facts_of_the_case": "<p>Illinois regulated grain warehouse and elevator rates by establishing maximum rates for their use.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52905",
+      "dates": [
+        -2965226400,
+        -2964880800
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52906",
+      "dates": [
+        -2929629600
+      ],
+      "event": "Decided"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/waite1",
+      "ID": 15181,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/morrison_r_waite",
+          "ID": 15101,
+          "last_name": "Waite",
+          "thumbnail": {
+            "size": 58958,
+            "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+            "id": 32743,
+            "mime": "image/png"
+          },
+          "length_of_service": 5133,
+          "view_count": 0,
+          "identifier": "morrison_r_waite",
+          "roles": [
+            {
+              "appointing_president": "Ulysses S. Grant",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -2580573600,
+              "id": 2745,
+              "date_start": -3024064800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Morrison R. Waite"
+        },
+        {
+          "href": "https://api.oyez.org/people/nathan_clifford",
+          "ID": 15072,
+          "last_name": "Clifford",
+          "thumbnail": {
+            "size": 51252,
+            "href": "https://api.oyez.org/sites/default/files/images/people/nathan_clifford/nathan_clifford.thumb.png",
+            "id": 32744,
+            "mime": "image/png"
+          },
+          "length_of_service": 8586,
+          "view_count": 0,
+          "identifier": "nathan_clifford",
+          "roles": [
+            {
+              "appointing_president": "James Buchanan",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2716",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2790784800,
+              "id": 2716,
+              "date_start": -3532615200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Nathan Clifford"
+        },
+        {
+          "href": "https://api.oyez.org/people/noah_swayne",
+          "ID": 15096,
+          "last_name": "Swayne",
+          "thumbnail": {
+            "size": 61407,
+            "href": "https://api.oyez.org/sites/default/files/images/people/noah_swayne/noah_swayne.thumb.png",
+            "id": 32745,
+            "mime": "image/png"
+          },
+          "length_of_service": 6937,
+          "view_count": 0,
+          "identifier": "noah_swayne",
+          "roles": [
+            {
+              "appointing_president": "Abraham Lincoln",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2740",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2806509600,
+              "id": 2740,
+              "date_start": -3405866400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Noah Swayne"
+        },
+        {
+          "href": "https://api.oyez.org/people/samuel_f_miller",
+          "ID": 15103,
+          "last_name": "Miller",
+          "thumbnail": {
+            "size": 59082,
+            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_f_miller/samuel_f_miller.thumb.png",
+            "id": 32760,
+            "mime": "image/png"
+          },
+          "length_of_service": 10311,
+          "view_count": 0,
+          "identifier": "samuel_f_miller",
+          "roles": [
+            {
+              "appointing_president": "Abraham Lincoln",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2747",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2499876000,
+              "id": 2747,
+              "date_start": -3390746400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Samuel F. Miller"
+        },
+        {
+          "href": "https://api.oyez.org/people/david_davis",
+          "ID": 15124,
+          "last_name": "Davis",
+          "thumbnail": {
+            "size": 68309,
+            "href": "https://api.oyez.org/sites/default/files/images/people/david_davis/david_davis.thumb.png",
+            "id": 32701,
+            "mime": "image/png"
+          },
+          "length_of_service": 5198,
+          "view_count": 0,
+          "identifier": "david_davis",
+          "roles": [
+            {
+              "appointing_president": "Abraham Lincoln",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2769",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2929370400,
+              "id": 2769,
+              "date_start": -3378477600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "David Davis"
+        },
+        {
+          "href": "https://api.oyez.org/people/stephen_j_field",
+          "ID": 15122,
+          "last_name": "Field",
+          "thumbnail": {
+            "size": 54586,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stephen_j_field/stephen_j_field.thumb.png",
+            "id": 32767,
+            "mime": "image/png"
+          },
+          "length_of_service": 12614,
+          "view_count": 0,
+          "identifier": "stephen_j_field",
+          "roles": [
+            {
+              "appointing_president": "Abraham Lincoln",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2767",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2274717600,
+              "id": 2767,
+              "date_start": -3364567200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Stephen J. Field"
+        },
+        {
+          "href": "https://api.oyez.org/people/william_strong",
+          "ID": 15040,
+          "last_name": "Strong",
+          "thumbnail": {
+            "size": 52693,
+            "href": "https://api.oyez.org/sites/default/files/images/people/william_strong/william_strong.thumb.png",
+            "id": 32784,
+            "mime": "image/png"
+          },
+          "length_of_service": 3928,
+          "view_count": 0,
+          "identifier": "william_strong",
+          "roles": [
+            {
+              "appointing_president": "Ulysses S. Grant",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2684",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2810052000,
+              "id": 2684,
+              "date_start": -3149431200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "William Strong"
+        },
+        {
+          "href": "https://api.oyez.org/people/joseph_p_bradley",
+          "ID": 15081,
+          "last_name": "Bradley",
+          "thumbnail": {
+            "size": 58686,
+            "href": "https://api.oyez.org/sites/default/files/images/people/joseph_p_bradley/joseph_p_bradley.thumb.png",
+            "id": 32734,
+            "mime": "image/png"
+          },
+          "length_of_service": 7975,
+          "view_count": 0,
+          "identifier": "joseph_p_bradley",
+          "roles": [
+            {
+              "appointing_president": "Ulysses S. Grant",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2725",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2459700000,
+              "id": 2725,
+              "date_start": -3148740000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Joseph P. Bradley"
+        },
+        {
+          "href": "https://api.oyez.org/people/ward_hunt",
+          "ID": 15057,
+          "last_name": "Hunt",
+          "thumbnail": {
+            "size": 50866,
+            "href": "https://api.oyez.org/sites/default/files/images/people/ward_hunt/ward_hunt.thumb.png",
+            "id": 32772,
+            "mime": "image/png"
+          },
+          "length_of_service": 3305,
+          "view_count": 0,
+          "identifier": "ward_hunt",
+          "roles": [
+            {
+              "appointing_president": "Ulysses S. Grant",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2701",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -2774714400,
+              "id": 2701,
+              "date_start": -3060266400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Ward Hunt"
+        }
+      ],
+      "court_start": -3024064800,
+      "view_count": 0,
+      "identifier": "waite1",
+      "images": [
+        {
+          "size": 986033,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/waite1.jpg",
+          "id": 78534,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Waite Court (1874-1877)"
+    }
+  ],
+  "manner_of_jurisdiction": "Other",
+  "view_count": 1211,
+  "lower_court": {
+    "href": "https://api.oyez.org/taxonomy/term/34",
+    "ID": 34,
+    "name": "Supreme Court of Illinois"
+  },
+  "justia_url": "https://supreme.justia.com/cases/federal/us/94/113/",
+  "docket_number": "None",
+  "ID": 62372,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 729,
+      "href": "https://api.oyez.org/case_document/written_opinion/729",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/94/113/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1969236,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 730,
+      "href": "https://api.oyez.org/case_document/written_opinion/730",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/94/113/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1969237,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Did the state-imposed rates deny the warehouse and elevator owners equal protection and due process under the 14th Amendment?</p>\n",
+  "citation": {
+    "page": "113",
+    "volume": "94",
+    "year": "1877",
+    "href": "https://api.oyez.org/case_citation/case_citation/27174"
+  },
+  "oral_argument_audio": null,
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/waite1",
+    "ID": 15181,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/morrison_r_waite",
+        "ID": 15101,
+        "last_name": "Waite",
+        "thumbnail": {
+          "size": 58958,
+          "href": "https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png",
+          "id": 32743,
+          "mime": "image/png"
+        },
+        "length_of_service": 5133,
+        "view_count": 0,
+        "identifier": "morrison_r_waite",
+        "roles": [
+          {
+            "appointing_president": "Ulysses S. Grant",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2745",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -2580573600,
+            "id": 2745,
+            "date_start": -3024064800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Morrison R. Waite"
+      },
+      {
+        "href": "https://api.oyez.org/people/nathan_clifford",
+        "ID": 15072,
+        "last_name": "Clifford",
+        "thumbnail": {
+          "size": 51252,
+          "href": "https://api.oyez.org/sites/default/files/images/people/nathan_clifford/nathan_clifford.thumb.png",
+          "id": 32744,
+          "mime": "image/png"
+        },
+        "length_of_service": 8586,
+        "view_count": 0,
+        "identifier": "nathan_clifford",
+        "roles": [
+          {
+            "appointing_president": "James Buchanan",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2716",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2790784800,
+            "id": 2716,
+            "date_start": -3532615200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Nathan Clifford"
+      },
+      {
+        "href": "https://api.oyez.org/people/noah_swayne",
+        "ID": 15096,
+        "last_name": "Swayne",
+        "thumbnail": {
+          "size": 61407,
+          "href": "https://api.oyez.org/sites/default/files/images/people/noah_swayne/noah_swayne.thumb.png",
+          "id": 32745,
+          "mime": "image/png"
+        },
+        "length_of_service": 6937,
+        "view_count": 0,
+        "identifier": "noah_swayne",
+        "roles": [
+          {
+            "appointing_president": "Abraham Lincoln",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2740",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2806509600,
+            "id": 2740,
+            "date_start": -3405866400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Noah Swayne"
+      },
+      {
+        "href": "https://api.oyez.org/people/samuel_f_miller",
+        "ID": 15103,
+        "last_name": "Miller",
+        "thumbnail": {
+          "size": 59082,
+          "href": "https://api.oyez.org/sites/default/files/images/people/samuel_f_miller/samuel_f_miller.thumb.png",
+          "id": 32760,
+          "mime": "image/png"
+        },
+        "length_of_service": 10311,
+        "view_count": 0,
+        "identifier": "samuel_f_miller",
+        "roles": [
+          {
+            "appointing_president": "Abraham Lincoln",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2747",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2499876000,
+            "id": 2747,
+            "date_start": -3390746400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Samuel F. Miller"
+      },
+      {
+        "href": "https://api.oyez.org/people/david_davis",
+        "ID": 15124,
+        "last_name": "Davis",
+        "thumbnail": {
+          "size": 68309,
+          "href": "https://api.oyez.org/sites/default/files/images/people/david_davis/david_davis.thumb.png",
+          "id": 32701,
+          "mime": "image/png"
+        },
+        "length_of_service": 5198,
+        "view_count": 0,
+        "identifier": "david_davis",
+        "roles": [
+          {
+            "appointing_president": "Abraham Lincoln",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2769",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2929370400,
+            "id": 2769,
+            "date_start": -3378477600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "David Davis"
+      },
+      {
+        "href": "https://api.oyez.org/people/stephen_j_field",
+        "ID": 15122,
+        "last_name": "Field",
+        "thumbnail": {
+          "size": 54586,
+          "href": "https://api.oyez.org/sites/default/files/images/people/stephen_j_field/stephen_j_field.thumb.png",
+          "id": 32767,
+          "mime": "image/png"
+        },
+        "length_of_service": 12614,
+        "view_count": 0,
+        "identifier": "stephen_j_field",
+        "roles": [
+          {
+            "appointing_president": "Abraham Lincoln",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2767",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2274717600,
+            "id": 2767,
+            "date_start": -3364567200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Stephen J. Field"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_strong",
+        "ID": 15040,
+        "last_name": "Strong",
+        "thumbnail": {
+          "size": 52693,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_strong/william_strong.thumb.png",
+          "id": 32784,
+          "mime": "image/png"
+        },
+        "length_of_service": 3928,
+        "view_count": 0,
+        "identifier": "william_strong",
+        "roles": [
+          {
+            "appointing_president": "Ulysses S. Grant",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2684",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2810052000,
+            "id": 2684,
+            "date_start": -3149431200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William Strong"
+      },
+      {
+        "href": "https://api.oyez.org/people/joseph_p_bradley",
+        "ID": 15081,
+        "last_name": "Bradley",
+        "thumbnail": {
+          "size": 58686,
+          "href": "https://api.oyez.org/sites/default/files/images/people/joseph_p_bradley/joseph_p_bradley.thumb.png",
+          "id": 32734,
+          "mime": "image/png"
+        },
+        "length_of_service": 7975,
+        "view_count": 0,
+        "identifier": "joseph_p_bradley",
+        "roles": [
+          {
+            "appointing_president": "Ulysses S. Grant",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2725",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2459700000,
+            "id": 2725,
+            "date_start": -3148740000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Joseph P. Bradley"
+      },
+      {
+        "href": "https://api.oyez.org/people/ward_hunt",
+        "ID": 15057,
+        "last_name": "Hunt",
+        "thumbnail": {
+          "size": 50866,
+          "href": "https://api.oyez.org/sites/default/files/images/people/ward_hunt/ward_hunt.thumb.png",
+          "id": 32772,
+          "mime": "image/png"
+        },
+        "length_of_service": 3305,
+        "view_count": 0,
+        "identifier": "ward_hunt",
+        "roles": [
+          {
+            "appointing_president": "Ulysses S. Grant",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2701",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -2774714400,
+            "id": 2701,
+            "date_start": -3060266400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Ward Hunt"
+      }
+    ],
+    "court_start": -3024064800,
+    "view_count": 0,
+    "identifier": "waite1",
+    "images": [
+      {
+        "size": 986033,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/waite1.jpg",
+        "id": 78534,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Waite Court (1874-1877)"
+  },
+  "location": {
+    "city": "Springfield",
+    "province": "IL",
+    "province_name": "Illinois",
+    "postal_code": null,
+    "street": "S 2nd Street and E Capitol Avenue",
+    "latitude": 39.798309,
+    "longitude": -89.647955,
+    "name": "Illinois General Assembly"
+  },
+  "name": "Munn v. Illinois",
+  "term": "1850-1900",
+  "additional_docket_numbers": null
+}

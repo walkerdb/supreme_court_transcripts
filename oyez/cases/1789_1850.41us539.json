@@ -1,0 +1,604 @@
+{
+  "decisions": null,
+  "href": "https://api.oyez.org/cases/1789-1850/41us539",
+  "second_party": "Commonwelath of Pennsylvania",
+  "first_party": "Edward Prigg",
+  "advocates": null,
+  "description": null,
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": "<p>Yes and yes. Justice Joseph Story delivered the opinion of the Court. The 1788 and 1826 Pennsylvania laws contradicted Article IV, Section 2 of the Constitution and the Fugitive Slave Law. The Supremacy Clause assured that federal laws prevailed over the state laws. The decision did not wholly end asylum across state lines for slaves. Story granted that the state laws put in place by slave states to recapture slaves in free states only had to be enforced by federal officials, and not state magistrates.</p>\n",
+  "facts_of_the_case": "<p>The Pennsylvania legislature passed laws in 1788 and 1826 prohibiting the removal of Negroes out of the state for the purpose of enslaving them. In 1832, a black woman named Margaret Morgan moved from Maryland to Pennsylvania. Although she was never formally emancipated, her owner John Ashmore granted her virtually full freedom. Ashmore's heirs wanted her returned as a slave and sent Edward Prigg to capture her in Pennsylvania. After returning Morgan to Maryland, Prigg was convicted in a Pennsylvania court for violating the 1826 law. Prigg unsuccessfully argued before the Pennsylvania Supreme Court that both the 1788 and 1826 laws violated the constitutional guarantee of extradition among states and the federal government's Fugitive Slave Law of 1793.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52864",
+      "dates": [
+        -4035981600,
+        -4035895200,
+        -4035808800
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52865",
+      "dates": [
+        -4034167200
+      ],
+      "event": "Decided"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/taney6",
+      "ID": 15208,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/roger_b_taney",
+          "ID": 15054,
+          "last_name": "Taney",
+          "thumbnail": {
+            "size": 53107,
+            "href": "https://api.oyez.org/sites/default/files/images/people/roger_b_taney/roger_b_taney.thumb.png",
+            "id": 32756,
+            "mime": "image/png"
+          },
+          "length_of_service": 10425,
+          "view_count": 0,
+          "identifier": "roger_b_taney",
+          "roles": [
+            {
+              "appointing_president": "Andrew Jackson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2698",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -3320416800,
+              "id": 2698,
+              "date_start": -4221136800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Roger B. Taney"
+        },
+        {
+          "href": "https://api.oyez.org/people/joseph_story",
+          "ID": 15091,
+          "last_name": "Story",
+          "thumbnail": {
+            "size": 44576,
+            "href": "https://api.oyez.org/sites/default/files/images/people/joseph_story/joseph_story.thumb.png",
+            "id": 32736,
+            "mime": "image/png"
+          },
+          "length_of_service": 12273,
+          "view_count": 0,
+          "identifier": "joseph_story",
+          "roles": [
+            {
+              "appointing_president": "James Madison",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2735",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3922797600,
+              "id": 2735,
+              "date_start": -4983184800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Joseph Story"
+        },
+        {
+          "href": "https://api.oyez.org/people/smith_thompson",
+          "ID": 15143,
+          "last_name": "Thompson",
+          "thumbnail": {
+            "size": 43703,
+            "href": "https://api.oyez.org/sites/default/files/images/people/smith_thompson/smith_thompson.thumb.png",
+            "id": 32764,
+            "mime": "image/png"
+          },
+          "length_of_service": 7413,
+          "view_count": 0,
+          "identifier": "smith_thompson",
+          "roles": [
+            {
+              "appointing_president": "James Monroe",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2790",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3977402400,
+              "id": 2790,
+              "date_start": -4617885600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Smith Thompson"
+        },
+        {
+          "href": "https://api.oyez.org/people/john_mclean",
+          "ID": 15112,
+          "last_name": "McLean",
+          "thumbnail": {
+            "size": 38658,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_mclean/john_mclean.thumb.png",
+            "id": 32731,
+            "mime": "image/png"
+          },
+          "length_of_service": 11346,
+          "view_count": 0,
+          "identifier": "john_mclean",
+          "roles": [
+            {
+              "appointing_president": "Andrew Jackson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2756",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3431613600,
+              "id": 2756,
+              "date_start": -4411908000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "John McLean"
+        },
+        {
+          "href": "https://api.oyez.org/people/henry_baldwin",
+          "ID": 15125,
+          "last_name": "Baldwin",
+          "thumbnail": {
+            "size": 35799,
+            "href": "https://api.oyez.org/sites/default/files/images/people/henry_baldwin/henry_baldwin.thumb.png",
+            "id": 32713,
+            "mime": "image/png"
+          },
+          "length_of_service": 5207,
+          "view_count": 0,
+          "identifier": "henry_baldwin",
+          "roles": [
+            {
+              "appointing_president": "Andrew Jackson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2770",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3966602400,
+              "id": 2770,
+              "date_start": -4416487200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Henry Baldwin"
+        },
+        {
+          "href": "https://api.oyez.org/people/james_m_wayne",
+          "ID": 15087,
+          "last_name": "Wayne",
+          "thumbnail": {
+            "size": 55773,
+            "href": "https://api.oyez.org/sites/default/files/images/people/james_m_wayne/james_m_wayne.thumb.png",
+            "id": 32722,
+            "mime": "image/png"
+          },
+          "length_of_service": 11860,
+          "view_count": 0,
+          "identifier": "james_m_wayne",
+          "roles": [
+            {
+              "appointing_president": "Andrew Jackson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2731",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3234362400,
+              "id": 2731,
+              "date_start": -4259066400,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "James M. Wayne"
+        },
+        {
+          "href": "https://api.oyez.org/people/john_catron",
+          "ID": 15051,
+          "last_name": "Catron",
+          "thumbnail": {
+            "size": 56456,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_catron/john_catron.thumb.png",
+            "id": 32726,
+            "mime": "image/png"
+          },
+          "length_of_service": 10256,
+          "view_count": 0,
+          "identifier": "john_catron",
+          "roles": [
+            {
+              "appointing_president": "Andrew Jackson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2695",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3300544800,
+              "id": 2695,
+              "date_start": -4186663200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "John Catron"
+        },
+        {
+          "href": "https://api.oyez.org/people/john_mckinley",
+          "ID": 15129,
+          "last_name": "McKinley",
+          "thumbnail": {
+            "size": 41039,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_mckinley/john_mckinley.thumb.png",
+            "id": 32730,
+            "mime": "image/png"
+          },
+          "length_of_service": 5305,
+          "view_count": 0,
+          "identifier": "john_mckinley",
+          "roles": [
+            {
+              "appointing_president": "Martin Van Buren",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2774",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3706452000,
+              "id": 2774,
+              "date_start": -4164804000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "John McKinley"
+        },
+        {
+          "href": "https://api.oyez.org/people/peter_v_daniel",
+          "ID": 15116,
+          "last_name": "Daniel",
+          "thumbnail": {
+            "size": 52366,
+            "href": "https://api.oyez.org/sites/default/files/images/people/peter_v_daniel/peter_v_daniel.thumb.png",
+            "id": 32749,
+            "mime": "image/png"
+          },
+          "length_of_service": 6716,
+          "view_count": 0,
+          "identifier": "peter_v_daniel",
+          "roles": [
+            {
+              "appointing_president": "Martin Van Buren",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2760",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3458224800,
+              "id": 2760,
+              "date_start": -4038487200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Peter V. Daniel"
+        }
+      ],
+      "court_start": -4038487200,
+      "view_count": 0,
+      "identifier": "taney6",
+      "images": [
+        {
+          "size": 3274208,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/taney6.jpg",
+          "id": 56749,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Taney Court (1842-1843)"
+    }
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "view_count": 433,
+  "lower_court": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/41/539/",
+  "docket_number": "None",
+  "ID": 62351,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 11095,
+      "href": "https://api.oyez.org/case_document/written_opinion/11095",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/41/539/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1950122,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 11096,
+      "href": "https://api.oyez.org/case_document/written_opinion/11096",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/41/539/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1950123,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Did Pennsylvania's law prohibiting the extradition of Negroes to other states for the purpose of slavery violate Article IV, Section 2 of the Constitution? Did the law violate the Fugitive Slave Law of 1793 as applied by the Supremacy Clause?</p>\n",
+  "citation": {
+    "page": "539",
+    "volume": "41",
+    "year": "1842",
+    "href": "https://api.oyez.org/case_citation/case_citation/27153"
+  },
+  "oral_argument_audio": null,
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/taney6",
+    "ID": 15208,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/roger_b_taney",
+        "ID": 15054,
+        "last_name": "Taney",
+        "thumbnail": {
+          "size": 53107,
+          "href": "https://api.oyez.org/sites/default/files/images/people/roger_b_taney/roger_b_taney.thumb.png",
+          "id": 32756,
+          "mime": "image/png"
+        },
+        "length_of_service": 10425,
+        "view_count": 0,
+        "identifier": "roger_b_taney",
+        "roles": [
+          {
+            "appointing_president": "Andrew Jackson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2698",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -3320416800,
+            "id": 2698,
+            "date_start": -4221136800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Roger B. Taney"
+      },
+      {
+        "href": "https://api.oyez.org/people/joseph_story",
+        "ID": 15091,
+        "last_name": "Story",
+        "thumbnail": {
+          "size": 44576,
+          "href": "https://api.oyez.org/sites/default/files/images/people/joseph_story/joseph_story.thumb.png",
+          "id": 32736,
+          "mime": "image/png"
+        },
+        "length_of_service": 12273,
+        "view_count": 0,
+        "identifier": "joseph_story",
+        "roles": [
+          {
+            "appointing_president": "James Madison",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2735",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3922797600,
+            "id": 2735,
+            "date_start": -4983184800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Joseph Story"
+      },
+      {
+        "href": "https://api.oyez.org/people/smith_thompson",
+        "ID": 15143,
+        "last_name": "Thompson",
+        "thumbnail": {
+          "size": 43703,
+          "href": "https://api.oyez.org/sites/default/files/images/people/smith_thompson/smith_thompson.thumb.png",
+          "id": 32764,
+          "mime": "image/png"
+        },
+        "length_of_service": 7413,
+        "view_count": 0,
+        "identifier": "smith_thompson",
+        "roles": [
+          {
+            "appointing_president": "James Monroe",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2790",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3977402400,
+            "id": 2790,
+            "date_start": -4617885600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Smith Thompson"
+      },
+      {
+        "href": "https://api.oyez.org/people/john_mclean",
+        "ID": 15112,
+        "last_name": "McLean",
+        "thumbnail": {
+          "size": 38658,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_mclean/john_mclean.thumb.png",
+          "id": 32731,
+          "mime": "image/png"
+        },
+        "length_of_service": 11346,
+        "view_count": 0,
+        "identifier": "john_mclean",
+        "roles": [
+          {
+            "appointing_president": "Andrew Jackson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2756",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3431613600,
+            "id": 2756,
+            "date_start": -4411908000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "John McLean"
+      },
+      {
+        "href": "https://api.oyez.org/people/henry_baldwin",
+        "ID": 15125,
+        "last_name": "Baldwin",
+        "thumbnail": {
+          "size": 35799,
+          "href": "https://api.oyez.org/sites/default/files/images/people/henry_baldwin/henry_baldwin.thumb.png",
+          "id": 32713,
+          "mime": "image/png"
+        },
+        "length_of_service": 5207,
+        "view_count": 0,
+        "identifier": "henry_baldwin",
+        "roles": [
+          {
+            "appointing_president": "Andrew Jackson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2770",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3966602400,
+            "id": 2770,
+            "date_start": -4416487200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Henry Baldwin"
+      },
+      {
+        "href": "https://api.oyez.org/people/james_m_wayne",
+        "ID": 15087,
+        "last_name": "Wayne",
+        "thumbnail": {
+          "size": 55773,
+          "href": "https://api.oyez.org/sites/default/files/images/people/james_m_wayne/james_m_wayne.thumb.png",
+          "id": 32722,
+          "mime": "image/png"
+        },
+        "length_of_service": 11860,
+        "view_count": 0,
+        "identifier": "james_m_wayne",
+        "roles": [
+          {
+            "appointing_president": "Andrew Jackson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2731",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3234362400,
+            "id": 2731,
+            "date_start": -4259066400,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "James M. Wayne"
+      },
+      {
+        "href": "https://api.oyez.org/people/john_catron",
+        "ID": 15051,
+        "last_name": "Catron",
+        "thumbnail": {
+          "size": 56456,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_catron/john_catron.thumb.png",
+          "id": 32726,
+          "mime": "image/png"
+        },
+        "length_of_service": 10256,
+        "view_count": 0,
+        "identifier": "john_catron",
+        "roles": [
+          {
+            "appointing_president": "Andrew Jackson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2695",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3300544800,
+            "id": 2695,
+            "date_start": -4186663200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "John Catron"
+      },
+      {
+        "href": "https://api.oyez.org/people/john_mckinley",
+        "ID": 15129,
+        "last_name": "McKinley",
+        "thumbnail": {
+          "size": 41039,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_mckinley/john_mckinley.thumb.png",
+          "id": 32730,
+          "mime": "image/png"
+        },
+        "length_of_service": 5305,
+        "view_count": 0,
+        "identifier": "john_mckinley",
+        "roles": [
+          {
+            "appointing_president": "Martin Van Buren",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2774",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3706452000,
+            "id": 2774,
+            "date_start": -4164804000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "John McKinley"
+      },
+      {
+        "href": "https://api.oyez.org/people/peter_v_daniel",
+        "ID": 15116,
+        "last_name": "Daniel",
+        "thumbnail": {
+          "size": 52366,
+          "href": "https://api.oyez.org/sites/default/files/images/people/peter_v_daniel/peter_v_daniel.thumb.png",
+          "id": 32749,
+          "mime": "image/png"
+        },
+        "length_of_service": 6716,
+        "view_count": 0,
+        "identifier": "peter_v_daniel",
+        "roles": [
+          {
+            "appointing_president": "Martin Van Buren",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2760",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3458224800,
+            "id": 2760,
+            "date_start": -4038487200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Peter V. Daniel"
+      }
+    ],
+    "court_start": -4038487200,
+    "view_count": 0,
+    "identifier": "taney6",
+    "images": [
+      {
+        "size": 3274208,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/taney6.jpg",
+        "id": 56749,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Taney Court (1842-1843)"
+  },
+  "location": null,
+  "name": "Prigg v. Pennsylvania",
+  "term": "1789-1850",
+  "additional_docket_numbers": null
+}

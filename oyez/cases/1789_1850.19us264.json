@@ -1,0 +1,934 @@
+{
+  "decisions": [
+    {
+      "href": "https://api.oyez.org/case_decision/case_decision/16409",
+      "votes": [
+        {
+          "ideology": 0,
+          "seniority": 1,
+          "opinion_type": "majority",
+          "member": {
+            "href": "https://api.oyez.org/people/john_marshall",
+            "ID": 15085,
+            "last_name": "Marshall",
+            "thumbnail": {
+              "size": 53035,
+              "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+              "id": 32729,
+              "mime": "image/png"
+            },
+            "length_of_service": 12570,
+            "view_count": 0,
+            "identifier": "john_marshall",
+            "roles": [
+              {
+                "appointing_president": "John Adams",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+                "role_title": "Chief Justice of the United States",
+                "type": "scotus_justice",
+                "date_end": -4244119200,
+                "id": 2729,
+                "date_start": -5330167200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "John Marshall"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205718",
+          "vote": "majority",
+          "joining": null
+        },
+        {
+          "ideology": 0,
+          "seniority": 2,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/bushrod_washington",
+            "ID": 15093,
+            "last_name": "Washington",
+            "thumbnail": {
+              "size": 42759,
+              "href": "https://api.oyez.org/sites/default/files/images/people/bushrod_washington/bushrod_washington.thumb.png",
+              "id": 32698,
+              "mime": "image/png"
+            },
+            "length_of_service": 11339,
+            "view_count": 0,
+            "identifier": "bushrod_washington",
+            "roles": [
+              {
+                "appointing_president": "John Adams",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2737",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -4421066400,
+                "id": 2737,
+                "date_start": -5400756000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Bushrod Washington"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205719",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/john_marshall",
+              "ID": 15085,
+              "last_name": "Marshall",
+              "thumbnail": {
+                "size": 53035,
+                "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+                "id": 32729,
+                "mime": "image/png"
+              },
+              "length_of_service": 12570,
+              "view_count": 0,
+              "identifier": "john_marshall",
+              "roles": [
+                {
+                  "appointing_president": "John Adams",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -4244119200,
+                  "id": 2729,
+                  "date_start": -5330167200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "John Marshall"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 3,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/william_johnson",
+            "ID": 15059,
+            "last_name": "Johnson",
+            "thumbnail": {
+              "size": 45940,
+              "href": "https://api.oyez.org/sites/default/files/images/people/william_johnson/william_johnson.thumb.png",
+              "id": 32779,
+              "mime": "image/png"
+            },
+            "length_of_service": 11046,
+            "view_count": 0,
+            "identifier": "william_johnson",
+            "roles": [
+              {
+                "appointing_president": "Thomas Jefferson",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2703",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -4273149600,
+                "id": 2703,
+                "date_start": -5227524000,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "William Johnson"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205720",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/john_marshall",
+              "ID": 15085,
+              "last_name": "Marshall",
+              "thumbnail": {
+                "size": 53035,
+                "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+                "id": 32729,
+                "mime": "image/png"
+              },
+              "length_of_service": 12570,
+              "view_count": 0,
+              "identifier": "john_marshall",
+              "roles": [
+                {
+                  "appointing_president": "John Adams",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -4244119200,
+                  "id": 2729,
+                  "date_start": -5330167200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "John Marshall"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 4,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/brockholst_livingston",
+            "ID": 15111,
+            "last_name": "Livingston",
+            "thumbnail": {
+              "size": 44786,
+              "href": "https://api.oyez.org/sites/default/files/images/people/brockholst_livingston/brockholst_livingston.thumb.png",
+              "id": 32714,
+              "mime": "image/png"
+            },
+            "length_of_service": 5901,
+            "view_count": 0,
+            "identifier": "brockholst_livingston",
+            "roles": [
+              {
+                "appointing_president": "Thomas Jefferson",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2755",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -4632314400,
+                "id": 2755,
+                "date_start": -5142160800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Henry Brockholst Livingston"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205721",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/john_marshall",
+              "ID": 15085,
+              "last_name": "Marshall",
+              "thumbnail": {
+                "size": 53035,
+                "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+                "id": 32729,
+                "mime": "image/png"
+              },
+              "length_of_service": 12570,
+              "view_count": 0,
+              "identifier": "john_marshall",
+              "roles": [
+                {
+                  "appointing_president": "John Adams",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -4244119200,
+                  "id": 2729,
+                  "date_start": -5330167200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "John Marshall"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 5,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/thomas_todd",
+            "ID": 15039,
+            "last_name": "Todd",
+            "thumbnail": {
+              "size": 41113,
+              "href": "https://api.oyez.org/sites/default/files/images/people/thomas_todd/thomas_todd.thumb.png",
+              "id": 32769,
+              "mime": "image/png"
+            },
+            "length_of_service": 6854,
+            "view_count": 0,
+            "identifier": "thomas_todd",
+            "roles": [
+              {
+                "appointing_president": "Thomas Jefferson",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2683",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -4540989600,
+                "id": 2683,
+                "date_start": -5133175200,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Thomas Todd"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205722",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/john_marshall",
+              "ID": 15085,
+              "last_name": "Marshall",
+              "thumbnail": {
+                "size": 53035,
+                "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+                "id": 32729,
+                "mime": "image/png"
+              },
+              "length_of_service": 12570,
+              "view_count": 0,
+              "identifier": "john_marshall",
+              "roles": [
+                {
+                  "appointing_president": "John Adams",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -4244119200,
+                  "id": 2729,
+                  "date_start": -5330167200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "John Marshall"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 6,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/gabriel_duvall",
+            "ID": 15147,
+            "last_name": "Duvall",
+            "thumbnail": {
+              "size": 48482,
+              "href": "https://api.oyez.org/sites/default/files/images/people/gabriel_duvall/gabriel_duvall.thumb.png",
+              "id": 32709,
+              "mime": "image/png"
+            },
+            "length_of_service": 8453,
+            "view_count": 0,
+            "identifier": "gabriel_duvall",
+            "roles": [
+              {
+                "appointing_president": "James Madison",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2795",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -4259066400,
+                "id": 2795,
+                "date_start": -4989405600,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Gabriel Duvall"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205723",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/john_marshall",
+              "ID": 15085,
+              "last_name": "Marshall",
+              "thumbnail": {
+                "size": 53035,
+                "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+                "id": 32729,
+                "mime": "image/png"
+              },
+              "length_of_service": 12570,
+              "view_count": 0,
+              "identifier": "john_marshall",
+              "roles": [
+                {
+                  "appointing_president": "John Adams",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -4244119200,
+                  "id": 2729,
+                  "date_start": -5330167200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "John Marshall"
+            }
+          ]
+        },
+        {
+          "ideology": 0,
+          "seniority": 7,
+          "opinion_type": "none",
+          "member": {
+            "href": "https://api.oyez.org/people/joseph_story",
+            "ID": 15091,
+            "last_name": "Story",
+            "thumbnail": {
+              "size": 44576,
+              "href": "https://api.oyez.org/sites/default/files/images/people/joseph_story/joseph_story.thumb.png",
+              "id": 32736,
+              "mime": "image/png"
+            },
+            "length_of_service": 12273,
+            "view_count": 0,
+            "identifier": "joseph_story",
+            "roles": [
+              {
+                "appointing_president": "James Madison",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2735",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "type": "scotus_justice",
+                "date_end": -3922797600,
+                "id": 2735,
+                "date_start": -4983184800,
+                "institution_name": "Supreme Court of the United States"
+              }
+            ],
+            "name": "Joseph Story"
+          },
+          "href": "https://api.oyez.org/decision_vote/decision_vote/205724",
+          "vote": "majority",
+          "joining": [
+            {
+              "href": "https://api.oyez.org/people/john_marshall",
+              "ID": 15085,
+              "last_name": "Marshall",
+              "thumbnail": {
+                "size": 53035,
+                "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+                "id": 32729,
+                "mime": "image/png"
+              },
+              "length_of_service": 12570,
+              "view_count": 0,
+              "identifier": "john_marshall",
+              "roles": [
+                {
+                  "appointing_president": "John Adams",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+                  "role_title": "Chief Justice of the United States",
+                  "type": "scotus_justice",
+                  "date_end": -4244119200,
+                  "id": 2729,
+                  "date_start": -5330167200,
+                  "institution_name": "Supreme Court of the United States"
+                }
+              ],
+              "name": "John Marshall"
+            }
+          ]
+        }
+      ],
+      "minority_vote": 0,
+      "winning_party": "Virginia",
+      "decision_type": "dismissal - other",
+      "majority_vote": 7,
+      "description": "Jurisdiction, not resting on the status of the parties, rests with Section 25 of the Judiciary Act; and. state laws repugnant to the Constitution and federal law are void."
+    }
+  ],
+  "href": "https://api.oyez.org/cases/1789-1850/19us264",
+  "second_party": "Virginia",
+  "first_party": "Philip and Mendes Cohen",
+  "advocates": null,
+  "description": "A case in which the Court decided it had jurisdiction over all cases involving Constitutional questions, including state supreme court decisions.",
+  "first_party_label": "Petitioner",
+  "related_cases": null,
+  "conclusion": "<p>In a unanimous decision, the Court held that the Supreme Court had jurisdiction to review state criminal proceedings. Chief Justice Marshall wrote that the Court was bound to hear all cases that involved constitutional questions, and that this jurisdiction was not dependent on the identity of the parties in the cases. Marshall argued that state laws and constitutions, when repugnant to the Constitution and federal laws, were \"absolutely void.\" After establishing the Court's jurisdiction, Marshall declared the lottery ordinance a local matter and concluded that the Virginia court was correct to fine the Cohens brothers for violating Virginia law.</p>\n",
+  "facts_of_the_case": "<p>An act of Congress authorized the operation of a lottery in the District of Columbia. The Cohen brothers proceeded to sell D.C. lottery tickets in the state of Virginia, violating state law. State authorities tried and convicted the Cohens, and then declared themselves to be the final arbiters of disputes between the states and the national government.</p>\n",
+  "timeline": [
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52840",
+      "dates": [
+        -4698237600,
+        -4697719200,
+        -4697632800,
+        -4696768800
+      ],
+      "event": "Argued"
+    },
+    {
+      "href": "https://api.oyez.org/case_timeline/case_timeline/52841",
+      "dates": [
+        -4696509600
+      ],
+      "event": "Decided"
+    }
+  ],
+  "opinion_announcement": null,
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "href": "https://api.oyez.org/courts/marshall10",
+      "ID": 15250,
+      "members": [
+        {
+          "href": "https://api.oyez.org/people/john_marshall",
+          "ID": 15085,
+          "last_name": "Marshall",
+          "thumbnail": {
+            "size": 53035,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+            "id": 32729,
+            "mime": "image/png"
+          },
+          "length_of_service": 12570,
+          "view_count": 0,
+          "identifier": "john_marshall",
+          "roles": [
+            {
+              "appointing_president": "John Adams",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+              "role_title": "Chief Justice of the United States",
+              "type": "scotus_justice",
+              "date_end": -4244119200,
+              "id": 2729,
+              "date_start": -5330167200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "John Marshall"
+        },
+        {
+          "href": "https://api.oyez.org/people/bushrod_washington",
+          "ID": 15093,
+          "last_name": "Washington",
+          "thumbnail": {
+            "size": 42759,
+            "href": "https://api.oyez.org/sites/default/files/images/people/bushrod_washington/bushrod_washington.thumb.png",
+            "id": 32698,
+            "mime": "image/png"
+          },
+          "length_of_service": 11339,
+          "view_count": 0,
+          "identifier": "bushrod_washington",
+          "roles": [
+            {
+              "appointing_president": "John Adams",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2737",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -4421066400,
+              "id": 2737,
+              "date_start": -5400756000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Bushrod Washington"
+        },
+        {
+          "href": "https://api.oyez.org/people/william_johnson",
+          "ID": 15059,
+          "last_name": "Johnson",
+          "thumbnail": {
+            "size": 45940,
+            "href": "https://api.oyez.org/sites/default/files/images/people/william_johnson/william_johnson.thumb.png",
+            "id": 32779,
+            "mime": "image/png"
+          },
+          "length_of_service": 11046,
+          "view_count": 0,
+          "identifier": "william_johnson",
+          "roles": [
+            {
+              "appointing_president": "Thomas Jefferson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2703",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -4273149600,
+              "id": 2703,
+              "date_start": -5227524000,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "William Johnson"
+        },
+        {
+          "href": "https://api.oyez.org/people/brockholst_livingston",
+          "ID": 15111,
+          "last_name": "Livingston",
+          "thumbnail": {
+            "size": 44786,
+            "href": "https://api.oyez.org/sites/default/files/images/people/brockholst_livingston/brockholst_livingston.thumb.png",
+            "id": 32714,
+            "mime": "image/png"
+          },
+          "length_of_service": 5901,
+          "view_count": 0,
+          "identifier": "brockholst_livingston",
+          "roles": [
+            {
+              "appointing_president": "Thomas Jefferson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2755",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -4632314400,
+              "id": 2755,
+              "date_start": -5142160800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Henry Brockholst Livingston"
+        },
+        {
+          "href": "https://api.oyez.org/people/thomas_todd",
+          "ID": 15039,
+          "last_name": "Todd",
+          "thumbnail": {
+            "size": 41113,
+            "href": "https://api.oyez.org/sites/default/files/images/people/thomas_todd/thomas_todd.thumb.png",
+            "id": 32769,
+            "mime": "image/png"
+          },
+          "length_of_service": 6854,
+          "view_count": 0,
+          "identifier": "thomas_todd",
+          "roles": [
+            {
+              "appointing_president": "Thomas Jefferson",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2683",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -4540989600,
+              "id": 2683,
+              "date_start": -5133175200,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Thomas Todd"
+        },
+        {
+          "href": "https://api.oyez.org/people/gabriel_duvall",
+          "ID": 15147,
+          "last_name": "Duvall",
+          "thumbnail": {
+            "size": 48482,
+            "href": "https://api.oyez.org/sites/default/files/images/people/gabriel_duvall/gabriel_duvall.thumb.png",
+            "id": 32709,
+            "mime": "image/png"
+          },
+          "length_of_service": 8453,
+          "view_count": 0,
+          "identifier": "gabriel_duvall",
+          "roles": [
+            {
+              "appointing_president": "James Madison",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2795",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -4259066400,
+              "id": 2795,
+              "date_start": -4989405600,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Gabriel Duvall"
+        },
+        {
+          "href": "https://api.oyez.org/people/joseph_story",
+          "ID": 15091,
+          "last_name": "Story",
+          "thumbnail": {
+            "size": 44576,
+            "href": "https://api.oyez.org/sites/default/files/images/people/joseph_story/joseph_story.thumb.png",
+            "id": 32736,
+            "mime": "image/png"
+          },
+          "length_of_service": 12273,
+          "view_count": 0,
+          "identifier": "joseph_story",
+          "roles": [
+            {
+              "appointing_president": "James Madison",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2735",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "type": "scotus_justice",
+              "date_end": -3922797600,
+              "id": 2735,
+              "date_start": -4983184800,
+              "institution_name": "Supreme Court of the United States"
+            }
+          ],
+          "name": "Joseph Story"
+        }
+      ],
+      "court_start": -4983184800,
+      "view_count": 0,
+      "identifier": "marshall10",
+      "images": [
+        {
+          "size": 3274208,
+          "href": "https://api.oyez.org/sites/default/files/images/courts/marshall10.jpg",
+          "id": 56766,
+          "mime": "image/jpeg"
+        }
+      ],
+      "name": "Marshall Court (1812-1823)"
+    }
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "view_count": 459,
+  "lower_court": {
+    "href": "https://api.oyez.org/courts/state_trial_court",
+    "ID": 77,
+    "name": "State trial court"
+  },
+  "justia_url": "https://supreme.justia.com/cases/federal/us/19/264/",
+  "docket_number": "None",
+  "ID": 62339,
+  "written_opinion": [
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "Syllabus",
+      "id": 16105,
+      "href": "https://api.oyez.org/case_document/written_opinion/16105",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/19/264/",
+      "judge_last_name": null,
+      "justia_opinion_id": 1920342,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      }
+    },
+    {
+      "author": null,
+      "judge_full_name": null,
+      "title": "View Case",
+      "id": 16106,
+      "href": "https://api.oyez.org/case_document/written_opinion/16106",
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/19/264/case.html",
+      "judge_last_name": null,
+      "justia_opinion_id": 1920343,
+      "type": {
+        "value": "case",
+        "label": null
+      }
+    }
+  ],
+  "question": "<p>Did the Supreme Court have the power under the Constitution to review the Virginia Supreme Court's ruling?</p>\n",
+  "citation": {
+    "page": "264",
+    "volume": "19",
+    "year": "1821",
+    "href": "https://api.oyez.org/case_citation/case_citation/27141"
+  },
+  "oral_argument_audio": null,
+  "decided_by": {
+    "href": "https://api.oyez.org/courts/marshall10",
+    "ID": 15250,
+    "members": [
+      {
+        "href": "https://api.oyez.org/people/john_marshall",
+        "ID": 15085,
+        "last_name": "Marshall",
+        "thumbnail": {
+          "size": 53035,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png",
+          "id": 32729,
+          "mime": "image/png"
+        },
+        "length_of_service": 12570,
+        "view_count": 0,
+        "identifier": "john_marshall",
+        "roles": [
+          {
+            "appointing_president": "John Adams",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2729",
+            "role_title": "Chief Justice of the United States",
+            "type": "scotus_justice",
+            "date_end": -4244119200,
+            "id": 2729,
+            "date_start": -5330167200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "John Marshall"
+      },
+      {
+        "href": "https://api.oyez.org/people/bushrod_washington",
+        "ID": 15093,
+        "last_name": "Washington",
+        "thumbnail": {
+          "size": 42759,
+          "href": "https://api.oyez.org/sites/default/files/images/people/bushrod_washington/bushrod_washington.thumb.png",
+          "id": 32698,
+          "mime": "image/png"
+        },
+        "length_of_service": 11339,
+        "view_count": 0,
+        "identifier": "bushrod_washington",
+        "roles": [
+          {
+            "appointing_president": "John Adams",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2737",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -4421066400,
+            "id": 2737,
+            "date_start": -5400756000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Bushrod Washington"
+      },
+      {
+        "href": "https://api.oyez.org/people/william_johnson",
+        "ID": 15059,
+        "last_name": "Johnson",
+        "thumbnail": {
+          "size": 45940,
+          "href": "https://api.oyez.org/sites/default/files/images/people/william_johnson/william_johnson.thumb.png",
+          "id": 32779,
+          "mime": "image/png"
+        },
+        "length_of_service": 11046,
+        "view_count": 0,
+        "identifier": "william_johnson",
+        "roles": [
+          {
+            "appointing_president": "Thomas Jefferson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2703",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -4273149600,
+            "id": 2703,
+            "date_start": -5227524000,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "William Johnson"
+      },
+      {
+        "href": "https://api.oyez.org/people/brockholst_livingston",
+        "ID": 15111,
+        "last_name": "Livingston",
+        "thumbnail": {
+          "size": 44786,
+          "href": "https://api.oyez.org/sites/default/files/images/people/brockholst_livingston/brockholst_livingston.thumb.png",
+          "id": 32714,
+          "mime": "image/png"
+        },
+        "length_of_service": 5901,
+        "view_count": 0,
+        "identifier": "brockholst_livingston",
+        "roles": [
+          {
+            "appointing_president": "Thomas Jefferson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2755",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -4632314400,
+            "id": 2755,
+            "date_start": -5142160800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Henry Brockholst Livingston"
+      },
+      {
+        "href": "https://api.oyez.org/people/thomas_todd",
+        "ID": 15039,
+        "last_name": "Todd",
+        "thumbnail": {
+          "size": 41113,
+          "href": "https://api.oyez.org/sites/default/files/images/people/thomas_todd/thomas_todd.thumb.png",
+          "id": 32769,
+          "mime": "image/png"
+        },
+        "length_of_service": 6854,
+        "view_count": 0,
+        "identifier": "thomas_todd",
+        "roles": [
+          {
+            "appointing_president": "Thomas Jefferson",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2683",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -4540989600,
+            "id": 2683,
+            "date_start": -5133175200,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Thomas Todd"
+      },
+      {
+        "href": "https://api.oyez.org/people/gabriel_duvall",
+        "ID": 15147,
+        "last_name": "Duvall",
+        "thumbnail": {
+          "size": 48482,
+          "href": "https://api.oyez.org/sites/default/files/images/people/gabriel_duvall/gabriel_duvall.thumb.png",
+          "id": 32709,
+          "mime": "image/png"
+        },
+        "length_of_service": 8453,
+        "view_count": 0,
+        "identifier": "gabriel_duvall",
+        "roles": [
+          {
+            "appointing_president": "James Madison",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2795",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -4259066400,
+            "id": 2795,
+            "date_start": -4989405600,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Gabriel Duvall"
+      },
+      {
+        "href": "https://api.oyez.org/people/joseph_story",
+        "ID": 15091,
+        "last_name": "Story",
+        "thumbnail": {
+          "size": 44576,
+          "href": "https://api.oyez.org/sites/default/files/images/people/joseph_story/joseph_story.thumb.png",
+          "id": 32736,
+          "mime": "image/png"
+        },
+        "length_of_service": 12273,
+        "view_count": 0,
+        "identifier": "joseph_story",
+        "roles": [
+          {
+            "appointing_president": "James Madison",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2735",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "type": "scotus_justice",
+            "date_end": -3922797600,
+            "id": 2735,
+            "date_start": -4983184800,
+            "institution_name": "Supreme Court of the United States"
+          }
+        ],
+        "name": "Joseph Story"
+      }
+    ],
+    "court_start": -4983184800,
+    "view_count": 0,
+    "identifier": "marshall10",
+    "images": [
+      {
+        "size": 3274208,
+        "href": "https://api.oyez.org/sites/default/files/images/courts/marshall10.jpg",
+        "id": 56766,
+        "mime": "image/jpeg"
+      }
+    ],
+    "name": "Marshall Court (1812-1823)"
+  },
+  "location": {
+    "city": "Norfolk",
+    "province": "VA",
+    "province_name": "Virginia",
+    "postal_code": null,
+    "street": "9079 Hampton Blvd",
+    "latitude": 36.932,
+    "longitude": -76.293727,
+    "name": "Elizabeth River Parish (now site of Norfolk Naval Station)"
+  },
+  "name": "Cohens v. Virginia",
+  "term": "1789-1850",
+  "additional_docket_numbers": null
+}
