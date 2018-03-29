@@ -1,6 +1,6 @@
-# Supreme Court Annotated Transcripts
+# US Supreme Court Annotated Transcripts
 
-A dataset of supreme court transcripts annotated with audio timestamps and speaker identifications.
+A dataset containing structured data on court cases presided by the justices of the United States Supreme Court, with transcripts for (nearly) every oral argument they've heard, annotated with audio timestamps and speaker identifications.
 Includes links to digitized original audio from oral proceedings.
 
 Data for each case is in a file named in the following pattern: `{year}.{docket #}.json`.
