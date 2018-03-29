@@ -13,8 +13,15 @@ these two transcripts live in `1971.70-18-t01.json` and `1971.70-18-t02.json`.
 At the end of each transcript json file is a `media_file` field, which contains an array of objects holding
 Amazon s3 links to the digitized audio for that hearing in `mp3`, `ogg`, and `m3u8` formats.
 
+## Where does this come from?
+
+All data retrieved on May 30, 2017 from [oyez.org](https://www.oyez.org)'s public api. Read more about the Oyez project [here](https://www.oyez.org/about).
+
+[Licensed as CC-BY-NC to Oyez, Inc.](https://www.oyez.org/license), a collaboration of Cornell’s Legal Information Institute, Chicago-Kent College of Law, and Justia.com.
+
 ## Oyez API
-It's not documented on the site, but here is the gist of it:
+
+Oyez has a wonderful but undocumented public API. Here's the gist of it:
 
 To retrieve all case summaries (the equivalent of the `case_summaries.json` file):  
 `https://api.oyez.org/cases?per_page=0`
@@ -30,10 +37,6 @@ The format here is generally `api.oyez.org/cases/{term}/{docket_number}`
 The "oral_argument_audio" field in this case-specific response holds links to the audio and transcriptions for each hearing - this data is what is saved in the transcription files in the repo. eg:  
 `https://api.oyez.org/case_media/oral_argument_audio/14026`
 
-## Provenance & License
-
-All data retrieved on May 30, 2017 from [oyez.org](https://www.oyez.org)'s public api. Read more about the Oyez project [here](https://www.oyez.org/about).
-
-[Licensed as CC-BY-NC to Oyez, Inc.](https://www.oyez.org/license), a collaboration of Cornell’s Legal Information Institute, Chicago-Kent College of Law, and Justia.com.
+## Etc
 
 The owner of this repo has no affiliation with the Oyez project -- just admiration!
