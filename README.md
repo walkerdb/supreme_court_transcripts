@@ -37,6 +37,6 @@ The format here is generally `api.oyez.org/cases/{term}/{docket_number}`
 The "oral_argument_audio" field in this case-specific response holds links to the audio and transcriptions for each hearing - this data is what is saved in the transcription files in the repo. eg:  
 `https://api.oyez.org/case_media/oral_argument_audio/14026`
 
-## Etc
+-----------------------
 
 The owner of this repo has no affiliation with the Oyez project -- just admiration!
