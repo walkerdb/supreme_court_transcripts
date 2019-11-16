@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  schedule:
+    - cron: "5 12 * * 6"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: curl --help
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v.0.2.0
+
