@@ -6,11 +6,12 @@ the repo with that
 
 import json
 from datetime import date
+import traceback
 
 import requests
 from ratelimit import limits, sleep_and_retry
 
-YEARS_TO_GO_BACK = 1
+YEARS_TO_GO_BACK = 2
 
 @sleep_and_retry
 @limits(calls=10, period=10)  # no more than 1 call per second
@@ -42,14 +43,14 @@ def write_case(term, docket, docket_data, transcripts):
     For each transcript, writes the term-docket-t##.json file
     """
     with open(f"oyez/cases/{term}.{docket}.json", "w") as docket_file:
-        json.dump(docket_data, docket_file)
+        json.dump(docket_data, docket_file, indent=2)
 
     count = 0
     for t in transcripts:
         count += 1
         t_filename = "oyez/cases/{}.{}-t{:0>2d}.json".format(term, docket, count)
         with open(t_filename, "w") as t_file:
-            json.dump(t, t_file)
+            json.dump(t, t_file, indent=2)
 
 
 def fetch_missing(cases):
@@ -59,19 +60,21 @@ def fetch_missing(cases):
     
     return set of cases that this was succesful for
     """
-    count = 1
+    count = 0
     total = len(cases)
+    succesful = set()
     for term, docket in cases.keys():
         ## pull the file
-        succesful = set()
+        count += 1
         print(f"Trying: {term}/{docket}\t\t{count}/{total}")
         try:
             docket_data, transcripts = get_case(term, docket)
             write_case(term, docket, docket_data, transcripts)
             succesful.add((term, docket))
         except Exception as exc:
-            print(exc)
+            traceback.print_exc()
             print(f"Failed for {term}/{docket}, continuing anyways")
+    return succesful
 
 
 def load_known_cases():
@@ -117,19 +120,20 @@ def main():
     For all cases this is succesful for, also update case_summaries
     """
     (known_summaries, known_map) = load_known_cases()
-    missing_summaries = find_missing(known_map, [2010])
+    missing_summaries = find_missing(known_map, [2018])
 
     print(f"Missing {len(missing_summaries)} cases")
     print(missing_summaries.keys())
 
-    # succesful = fetch_missing(missing_summaries)
+    succesful = fetch_missing(missing_summaries)
 
-    # for term, docket in succesful:
-    #     known_summaries.append(missing_summaries[(term, docket)])
+    for term, docket in succesful:
+        known_summaries.append(missing_summaries[(term, docket)])
 
-    # if len(succesful) > 0:
-    #     with open("oyez/case_summaries.json", "w") as handle:
-    #         json.dump(known_summaries, handle)
+    print(f"Updated {len(succesful)} records!")
+    if len(succesful) > 0:
+        with open("oyez/case_summaries.json", "w") as handle:
+            json.dump(known_summaries, handle, indent=2)
 
 
 if __name__ == "__main__":
