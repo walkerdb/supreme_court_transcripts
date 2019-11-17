@@ -1,22 +1,32 @@
-name: CI
+name: AutoUpdate
 
 on: [push]
-  # schedule:
+  #schedule:
+  #  - cron: "0/5 * * * *"
   #  - cron: "5 12 * * 6"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: curl --help
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
-    - name: GitHub Push
-      uses: ad-m/github-push-action@v.0.2.0
-
+      with:
+        ref: master
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: python -m pip install -r requirements.txt
+    - name: Fetch and update cases
+      run: python update.py
+    - name: Commit changes 
+      uses: EndBug/add-and-commit@v2.1.0 
+      with: 
+        author_name: GitHub Action
+        author_email: action@github.com
+        message: "Add new cases!"
+        path: "."
+        pattern: "*.json"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

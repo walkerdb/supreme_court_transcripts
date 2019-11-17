@@ -13,6 +13,7 @@ from ratelimit import limits, sleep_and_retry
 
 YEARS_TO_GO_BACK = 2
 
+
 @sleep_and_retry
 @limits(calls=10, period=10)  # no more than 1 call per second
 def get_http_json(url):
@@ -120,7 +121,7 @@ def main():
     For all cases this is succesful for, also update case_summaries
     """
     (known_summaries, known_map) = load_known_cases()
-    missing_summaries = find_missing(known_map, [2018])
+    missing_summaries = find_missing(known_map, years_to_recheck())
 
     print(f"Missing {len(missing_summaries)} cases")
     print(missing_summaries.keys())
