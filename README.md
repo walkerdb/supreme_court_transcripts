@@ -7,8 +7,14 @@ Data for each case is in a file named in the following pattern: `{year}.{docket 
 Transcripts for each hearing associated with that case have the same pattern, but appending `t01`, `t02`, etc.,
 for each individual hearing.
 
+Note that `docket #` normally is two numbers joined by `-`. In some cases, the actual docket number has a space
+like `10 ORIG` and for those situations, the filename has a `_` in place of the space. Additionally, its
+also worth noting that cases before 1955 do not seem to follow this pattern. Since the data before 1955 is 
+incomplete anyways, it might be better to only focus on cases after.
+
 For example, the overview for Roe v. Wade is given in `1971.70-18.json`. It had two separate oral arguments --
 these two transcripts live in `1971.70-18-t01.json` and `1971.70-18-t02.json`.
+
 
 At the end of each transcript json file is a `media_file` field, which contains an array of objects holding
 Amazon s3 links to the digitized audio for that hearing in `mp3`, `ogg`, and `m3u8` formats.
