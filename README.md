@@ -27,7 +27,7 @@ to follow this pattern, and in general are less complete than cases after.
 
 ## Where does this come from?
 
-All data retrieved on May 30, 2017 from [oyez.org](https://www.oyez.org)'s public api. Read more about the Oyez project [here](https://www.oyez.org/about).
+All data is retrieved weekly from [oyez.org](https://www.oyez.org)'s public api. Read more about the Oyez project [here](https://www.oyez.org/about).
 
 [Licensed as CC-BY-NC to Oyez, Inc.](https://www.oyez.org/license), a collaboration of Cornell’s Legal Information Institute, Chicago-Kent College of Law, and Justia.com.
 
