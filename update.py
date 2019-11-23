@@ -123,7 +123,7 @@ def years_to_recheck():
     e.g. [2018, 2019]
     """
     cur_year = date.today().year
-    return list(range(cur_year - YEARS_TO_GO_BACK + 1, cur_year))
+    return list(range(cur_year - YEARS_TO_GO_BACK + 1, cur_year + 1))
 
 
 def main():
