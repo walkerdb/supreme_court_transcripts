@@ -29,6 +29,14 @@ def get_case(term, docket):
     url = f"https://api.oyez.org/cases/{term}/{docket}"
     docket_data = get_http_json(url)
 
+    if not (
+        "oral_argument_audio" in docket_data and docket_data["oral_argument_audio"]
+    ):
+        # no oral arguments for this case yet
+        # fail so we will try again later
+        print(f"No oral arguments for docket {docket}")
+        return (docket_data, [])
+
     oral_argument_audio = docket_data["oral_argument_audio"]
     transcripts = []
     for link in oral_argument_audio:
@@ -70,6 +78,10 @@ def fetch_missing(cases):
         print(f"Trying: {term}/{docket}\t\t{count}/{total}")
         try:
             docket_data, transcripts = get_case(term, docket)
+            if not transcripts:
+                # No transcripts for this case yet
+                continue
+
             write_case(term, docket, docket_data, transcripts)
             succesful.add((term, docket))
         except Exception as exc:
