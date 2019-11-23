@@ -3,14 +3,20 @@ name: AutoUpdate
 on: 
   schedule:
     - cron: "5 12 * * 6"
+  push:
+    branches:
+      - master
+    paths:
+      - '**.py'
+  pull_request:
+    paths:
+      - '**.py'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-      with:
-        ref: master
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
@@ -21,6 +27,8 @@ jobs:
       run: python update.py
     - name: Commit changes 
       uses: EndBug/add-and-commit@v2.1.0 
+      # Commit only if this is not a PR
+      if: github.ref == 'master' 
       with: 
         author_name: GitHub Action
         author_email: action@github.com
