@@ -8,9 +8,11 @@ on:
       - master
     paths:
       - '**.py'
+      - '**.yml'
   pull_request:
     paths:
       - '**.py'
+      - '**.yml'
 
 jobs:
   build:
