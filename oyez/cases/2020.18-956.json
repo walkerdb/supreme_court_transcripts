@@ -1,0 +1,339 @@
+{
+  "ID": 63187,
+  "name": "Google LLC v. Oracle America Inc.",
+  "href": "https://api.oyez.org/cases/2020/18-956",
+  "view_count": 0,
+  "docket_number": "18-956",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Google LLC",
+  "second_party": "Oracle America, Inc.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1573797600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54605"
+    },
+    {
+      "event": "Argued",
+      "dates": [
+        1602046800
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54762"
+    }
+  ],
+  "lower_court": {
+    "ID": 17,
+    "name": "United States Court of Appeals for the Federal Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/17"
+  },
+  "facts_of_the_case": "<p>When Google implemented its Android Operating System (Android OS), it wrote its own programming language based on Java, which is owned by Oracle. To facilitate developers writing their own programs for Android OS, Google\u2019s version used the same names, organization, and functionality as Java's Application Programming Interfaces (APIs).</p>\n<p>Oracle sued Google for copyright infringement, but the federal district judge held that APIs are not subject to copyright because permitting a private entity to own the copyright to a programming language would stifle innovation and collaboration, contrary to the goals of copyright. The U.S. Court of Appeals for the Federal Circuit reversed the lower court, finding that the Java APIs are copyrightable but leaving open the possibility of a fair use defense. The U.S. Supreme Court denied Google\u2019s petition for certiorari.</p>\n<p>Upon remand to the district court, a jury found that Google's use of the Java API was fair use. Oracle appealed, and the Federal Circuit again reversed the lower court. The Federal Circuit held that Google's use was not fair as a matter of law.</p>\n",
+  "question": "<ol><li>Does copyright protection extend to a software interface?\u00a0</li>\n<li>If so, does the petitioner\u2019s use of a software interface in the context of creating a new computer program constitute fair use?</li>\n</ol>",
+  "conclusion": null,
+  "advocates": [
+    {
+      "advocate": {
+        "ID": 42731,
+        "name": "Thomas C. Goldstein",
+        "href": "https://api.oyez.org/people/thomas_c_goldstein",
+        "view_count": 0,
+        "last_name": "Goldstein",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "thomas_c_goldstein"
+      },
+      "advocate_description": "for the petitioner",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22904"
+    },
+    {
+      "advocate": {
+        "ID": 23018,
+        "name": "E. Joshua Rosenkranz",
+        "href": "https://api.oyez.org/people/e_joshua_rosenkranz",
+        "view_count": 0,
+        "last_name": "Rosenkranz",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "e_joshua_rosenkranz"
+      },
+      "advocate_description": "for the respondent",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22905"
+    },
+    {
+      "advocate": {
+        "ID": 36722,
+        "name": "Malcolm L. Stewart",
+        "href": "https://api.oyez.org/people/malcolm_l_stewart",
+        "view_count": 0,
+        "last_name": "Stewart",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "malcolm_l_stewart"
+      },
+      "advocate_description": "for the United States, as amicus curiae, supporting the respondent",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22906"
+    }
+  ],
+  "oral_argument_audio": [
+    {
+      "id": 25068,
+      "title": "Oral Argument - October 07, 2020",
+      "public_note": null,
+      "unavailable": false,
+      "display_title": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/25068"
+    }
+  ],
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27719"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "ID": 63261,
+      "name": "Roberts Court (2020-)",
+      "href": "https://api.oyez.org/courts/roberts11",
+      "view_count": 0,
+      "members": [
+        {
+          "ID": 15086,
+          "name": "John G. Roberts, Jr.",
+          "href": "https://api.oyez.org/people/john_g_roberts_jr",
+          "view_count": 0,
+          "last_name": "Roberts",
+          "roles": [
+            {
+              "id": 2730,
+              "type": "scotus_justice",
+              "date_start": 1127970000,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Chief Justice of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
+            }
+          ],
+          "thumbnail": {
+            "id": 32683,
+            "mime": "image/png",
+            "size": 52305,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
+          },
+          "length_of_service": 3842,
+          "identifier": "john_g_roberts_jr"
+        },
+        {
+          "ID": 15100,
+          "name": "Clarence Thomas",
+          "href": "https://api.oyez.org/people/clarence_thomas",
+          "view_count": 0,
+          "last_name": "Thomas",
+          "roles": [
+            {
+              "id": 2744,
+              "type": "scotus_justice",
+              "date_start": 688194000,
+              "date_end": 0,
+              "appointing_president": "George H. W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+            }
+          ],
+          "thumbnail": {
+            "id": 32680,
+            "mime": "image/png",
+            "size": 49064,
+            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+          },
+          "length_of_service": 10455,
+          "identifier": "clarence_thomas"
+        },
+        {
+          "ID": 15139,
+          "name": "Stephen G. Breyer",
+          "href": "https://api.oyez.org/people/stephen_g_breyer",
+          "view_count": 0,
+          "last_name": "Breyer",
+          "roles": [
+            {
+              "id": 2785,
+              "type": "scotus_justice",
+              "date_start": 775890000,
+              "date_end": 0,
+              "appointing_president": "Bill Clinton",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2785"
+            }
+          ],
+          "thumbnail": {
+            "id": 32682,
+            "mime": "image/png",
+            "size": 49908,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png"
+          },
+          "length_of_service": 9440,
+          "identifier": "stephen_g_breyer"
+        },
+        {
+          "ID": 15068,
+          "name": "Samuel A. Alito, Jr.",
+          "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+          "view_count": 0,
+          "last_name": "Alito",
+          "roles": [
+            {
+              "id": 2712,
+              "type": "scotus_justice",
+              "date_start": 1138687200,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+            }
+          ],
+          "thumbnail": {
+            "id": 32684,
+            "mime": "image/png",
+            "size": 44799,
+            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+          },
+          "length_of_service": 5241,
+          "identifier": "samuel_a_alito_jr"
+        },
+        {
+          "ID": 15131,
+          "name": "Sonia Sotomayor",
+          "href": "https://api.oyez.org/people/sonia_sotomayor",
+          "view_count": 0,
+          "last_name": "Sotomayor",
+          "roles": [
+            {
+              "id": 2776,
+              "type": "scotus_justice",
+              "date_start": 1249707600,
+              "date_end": 0,
+              "appointing_president": null,
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+            }
+          ],
+          "thumbnail": {
+            "id": 32685,
+            "mime": "image/png",
+            "size": 50379,
+            "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+          },
+          "length_of_service": 4008,
+          "identifier": "sonia_sotomayor"
+        },
+        {
+          "ID": 15094,
+          "name": "Elena Kagan",
+          "href": "https://api.oyez.org/people/elena_kagan",
+          "view_count": 0,
+          "last_name": "Kagan",
+          "roles": [
+            {
+              "id": 2738,
+              "type": "scotus_justice",
+              "date_start": 1281157200,
+              "date_end": 0,
+              "appointing_president": "Barack Obama",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2738"
+            }
+          ],
+          "thumbnail": {
+            "id": 32690,
+            "mime": "image/png",
+            "size": 44456,
+            "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
+          },
+          "length_of_service": 2762,
+          "identifier": "elena_kagan"
+        },
+        {
+          "ID": 62836,
+          "name": "Neil Gorsuch",
+          "href": "https://api.oyez.org/people/neil_gorsuch",
+          "view_count": 0,
+          "last_name": "Gorsuch",
+          "roles": [
+            {
+              "id": 3506,
+              "type": "scotus_justice",
+              "date_start": 1491541200,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
+            }
+          ],
+          "thumbnail": {
+            "id": 79753,
+            "mime": "image/png",
+            "size": 121461,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
+          },
+          "length_of_service": 1021,
+          "identifier": "neil_gorsuch"
+        },
+        {
+          "ID": 17766,
+          "name": "Brett M. Kavanaugh",
+          "href": "https://api.oyez.org/people/brett_m_kavanaugh",
+          "view_count": 0,
+          "last_name": "Kavanaugh",
+          "roles": [
+            {
+              "id": 3507,
+              "type": "scotus_justice",
+              "date_start": 1538802000,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3507"
+            }
+          ],
+          "thumbnail": {
+            "id": 80518,
+            "mime": "image/png",
+            "size": 91566,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/Kavanaugh-thumb.png"
+          },
+          "length_of_service": 97,
+          "identifier": "brett_m_kavanaugh"
+        }
+      ],
+      "court_start": 1600405200,
+      "images": null,
+      "identifier": "roberts11"
+    }
+  ],
+  "decided_by": null,
+  "term": "2020",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the court will decide whether copyright protection extends to a software interface, and whether the petitioner\u2019s use of a software interface in the context of creating a new computer program constitutes fair use.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2020/18-956/",
+  "argument2_url": null
+}
