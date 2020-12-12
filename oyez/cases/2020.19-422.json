@@ -1,0 +1,363 @@
+{
+  "ID": 63252,
+  "name": "Collins v. Mnuchin",
+  "href": "https://api.oyez.org/cases/2020/19-422",
+  "view_count": 0,
+  "docket_number": "19-422",
+  "additional_docket_numbers": [
+    "19-563"
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Patrick J. Collins, et al.",
+  "second_party": "Steven T. Mnuchin, et al.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1594270800
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54746"
+    },
+    {
+      "event": "Argued",
+      "dates": [
+        1607493600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54806"
+    }
+  ],
+  "lower_court": {
+    "ID": 10,
+    "name": "United States Court of Appeals for the Fifth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/10"
+  },
+  "facts_of_the_case": "<p>Fannie Mae and Freddie Mac are government-sponsored enterprises (GSEs) that purchase mortgages, buy and sell mortgage-backed securities, and guarantee many of the mortgages in the United States. In 2005 and 2006, as the housing market was reaching its peak, Fannie and Freddie over-invested in risky mortgages in an attempt to compete with large investment banks and mortgage lenders. In the aftermath of the 2008 housing crisis, during which Fannie and Freddie required billions of dollars in federal bailouts, Congress created the Federal Housing Finance Agency (FHFA), an independent agency to oversee the two GSEs. FHFA was to be led by a single director who could be fired by the President \u201cfor cause.\u201d</p>\n<p>Upon its creation, FHFA placed Fannie and Freddie in a conservatorship with itself as the conservator and negotiated agreements with the Department of Treasury. Under the agreements, the Treasury would invest billions of dollars in the GSEs in return for compensation consisting in part of fixed dividends. For several years, the GSEs\u2019 dividend obligations exceeded their total earnings, requiring them to draw even more money from the Treasury. FHFA and Treasury negotiated and came up with the \u201cThird Amendment,\u201d which replaced the fixed dividend with a variable quarterly dividend equal to the GSEs\u2019 net worth minus a specified capital reserve.</p>\n<p>Collins and others are shareholders in Fannie and Freddie. They filed a lawsuit challenging the actions of FHFA, claiming the agency had destroyed the value of their ownership interests. The shareholders argued that FHFA had exceeded its authority under two federal statutes and that the structure of FHFA violated the constitutional principle of separation of powers. The district court dismissed the statutory claims and granted the government\u2019s motion for summary judgment on the constitutional claim. A panel of the U.S. Court of Appeals for the Fifth Circuit affirmed the dismissal of the statutory claims but reversed the judgment as to the constitutional claim, finding that the structure of FHFA was unconstitutional but the remedy was to invalidate the provision addressing removal of FHFA\u2019s director. In a deeply divided opinion, the Fifth Circuit, rehearing the case en banc, affirmed as to one statutory claim, reversed as to the other statutory claim, held that FHFA\u2019s structure violated the Constitution, and held that the appropriate remedy was to declare unconstitutional the removal provision, not to invalidate the Third Amendment.</p>\n",
+  "question": "<p>1. Does the Federal Housing Finance Agency\u2019s (FHFA) structure violate the separation of powers?</p>\n<p>2. If so, what is the proper remedy for a final agency action that FHFA took when it was unconstitutionally structured?</p>\n",
+  "conclusion": null,
+  "advocates": [
+    {
+      "advocate": {
+        "ID": 56093,
+        "name": "Hashim M. Mooppan",
+        "href": "https://api.oyez.org/people/hashim_m_mooppan",
+        "view_count": 0,
+        "last_name": "Mooppan",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "hashim_m_mooppan"
+      },
+      "advocate_description": "on behalf of the federal parties",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22972"
+    },
+    {
+      "advocate": {
+        "ID": 63305,
+        "name": "Aaron L. Nielson",
+        "href": "https://api.oyez.org/people/aaron_l_nielson",
+        "view_count": 0,
+        "last_name": "Nielson",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "aaron_l_nielson"
+      },
+      "advocate_description": "Court-appointed amicus curiae",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22973"
+    },
+    {
+      "advocate": {
+        "ID": 63306,
+        "name": "David H. Thompson",
+        "href": "https://api.oyez.org/people/david_h_thompson",
+        "view_count": 0,
+        "last_name": "Thompson",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "david_h_thompson"
+      },
+      "advocate_description": "on behalf of the petitioners in 19-422 and the respondents in 19-563",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/22974"
+    }
+  ],
+  "oral_argument_audio": [
+    {
+      "id": 25131,
+      "title": "Oral Argument - December 09, 2020",
+      "public_note": null,
+      "unavailable": false,
+      "display_title": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/25131"
+    }
+  ],
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27757"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "ID": 63283,
+      "name": "Roberts Court (2020-)",
+      "href": "https://api.oyez.org/courts/roberts12",
+      "view_count": 0,
+      "members": [
+        {
+          "ID": 15086,
+          "name": "John G. Roberts, Jr.",
+          "href": "https://api.oyez.org/people/john_g_roberts_jr",
+          "view_count": 0,
+          "last_name": "Roberts",
+          "roles": [
+            {
+              "id": 2730,
+              "type": "scotus_justice",
+              "date_start": 1127970000,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Chief Justice of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
+            }
+          ],
+          "thumbnail": {
+            "id": 32683,
+            "mime": "image/png",
+            "size": 52305,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
+          },
+          "length_of_service": 3842,
+          "identifier": "john_g_roberts_jr"
+        },
+        {
+          "ID": 15100,
+          "name": "Clarence Thomas",
+          "href": "https://api.oyez.org/people/clarence_thomas",
+          "view_count": 0,
+          "last_name": "Thomas",
+          "roles": [
+            {
+              "id": 2744,
+              "type": "scotus_justice",
+              "date_start": 688194000,
+              "date_end": 0,
+              "appointing_president": "George H. W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+            }
+          ],
+          "thumbnail": {
+            "id": 32680,
+            "mime": "image/png",
+            "size": 49064,
+            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+          },
+          "length_of_service": 10455,
+          "identifier": "clarence_thomas"
+        },
+        {
+          "ID": 15139,
+          "name": "Stephen G. Breyer",
+          "href": "https://api.oyez.org/people/stephen_g_breyer",
+          "view_count": 0,
+          "last_name": "Breyer",
+          "roles": [
+            {
+              "id": 2785,
+              "type": "scotus_justice",
+              "date_start": 775890000,
+              "date_end": 0,
+              "appointing_president": "Bill Clinton",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2785"
+            }
+          ],
+          "thumbnail": {
+            "id": 32682,
+            "mime": "image/png",
+            "size": 49908,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png"
+          },
+          "length_of_service": 9440,
+          "identifier": "stephen_g_breyer"
+        },
+        {
+          "ID": 15068,
+          "name": "Samuel A. Alito, Jr.",
+          "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+          "view_count": 0,
+          "last_name": "Alito",
+          "roles": [
+            {
+              "id": 2712,
+              "type": "scotus_justice",
+              "date_start": 1138687200,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+            }
+          ],
+          "thumbnail": {
+            "id": 32684,
+            "mime": "image/png",
+            "size": 44799,
+            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+          },
+          "length_of_service": 5241,
+          "identifier": "samuel_a_alito_jr"
+        },
+        {
+          "ID": 15131,
+          "name": "Sonia Sotomayor",
+          "href": "https://api.oyez.org/people/sonia_sotomayor",
+          "view_count": 0,
+          "last_name": "Sotomayor",
+          "roles": [
+            {
+              "id": 2776,
+              "type": "scotus_justice",
+              "date_start": 1249707600,
+              "date_end": 0,
+              "appointing_president": null,
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+            }
+          ],
+          "thumbnail": {
+            "id": 32685,
+            "mime": "image/png",
+            "size": 50379,
+            "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+          },
+          "length_of_service": 4008,
+          "identifier": "sonia_sotomayor"
+        },
+        {
+          "ID": 15094,
+          "name": "Elena Kagan",
+          "href": "https://api.oyez.org/people/elena_kagan",
+          "view_count": 0,
+          "last_name": "Kagan",
+          "roles": [
+            {
+              "id": 2738,
+              "type": "scotus_justice",
+              "date_start": 1281157200,
+              "date_end": 0,
+              "appointing_president": "Barack Obama",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2738"
+            }
+          ],
+          "thumbnail": {
+            "id": 32690,
+            "mime": "image/png",
+            "size": 44456,
+            "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
+          },
+          "length_of_service": 2762,
+          "identifier": "elena_kagan"
+        },
+        {
+          "ID": 62836,
+          "name": "Neil Gorsuch",
+          "href": "https://api.oyez.org/people/neil_gorsuch",
+          "view_count": 0,
+          "last_name": "Gorsuch",
+          "roles": [
+            {
+              "id": 3506,
+              "type": "scotus_justice",
+              "date_start": 1491541200,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
+            }
+          ],
+          "thumbnail": {
+            "id": 79753,
+            "mime": "image/png",
+            "size": 121461,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
+          },
+          "length_of_service": 1021,
+          "identifier": "neil_gorsuch"
+        },
+        {
+          "ID": 17766,
+          "name": "Brett M. Kavanaugh",
+          "href": "https://api.oyez.org/people/brett_m_kavanaugh",
+          "view_count": 0,
+          "last_name": "Kavanaugh",
+          "roles": [
+            {
+              "id": 3507,
+              "type": "scotus_justice",
+              "date_start": 1538802000,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3507"
+            }
+          ],
+          "thumbnail": {
+            "id": 80518,
+            "mime": "image/png",
+            "size": 91566,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/Kavanaugh-thumb.png"
+          },
+          "length_of_service": 97,
+          "identifier": "brett_m_kavanaugh"
+        },
+        {
+          "ID": 63282,
+          "name": "Amy Coney Barrett",
+          "href": "https://api.oyez.org/people/amy_coney_barrett",
+          "view_count": 0,
+          "last_name": "Barrett",
+          "roles": [
+            {
+              "id": 3511,
+              "type": "scotus_justice",
+              "date_start": 1603774800,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3511"
+            }
+          ],
+          "thumbnail": null,
+          "length_of_service": 21,
+          "identifier": "amy_coney_barrett"
+        }
+      ],
+      "court_start": 1603774800,
+      "images": null,
+      "identifier": "roberts12"
+    }
+  ],
+  "decided_by": null,
+  "term": "2020",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether the Federal Housing Finance Agency\u2019s (FHFA) structure violates the separation of powers; and (2) whether the courts must set aside a final agency action that FHFA took when it was unconstitutionally structured and strike down the statutory provisions that make FHFA independent.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2020/19-422/",
+  "argument2_url": null
+}
