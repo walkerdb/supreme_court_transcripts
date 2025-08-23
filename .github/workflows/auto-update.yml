@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v5
+      with:
+        ref: ${{ github.ref }} # explicit ref so that it can be pushed against by add-and-commit below
     - name: Set up Python 3.8
       uses: actions/setup-python@v5
       with:
@@ -28,14 +30,13 @@ jobs:
     - name: Fetch and update cases
       run: python update.py
     - name: Commit changes 
-      uses: EndBug/add-and-commit@v2.1.0 
+      uses: EndBug/add-and-commit@v9.1.4
       # Commit only if this is not a PR
       if: github.ref == 'refs/heads/master'
       with: 
         author_name: GitHub Action
         author_email: action@github.com
         message: "Add new cases!"
-        path: "."
-        pattern: "*.json"
+        add: "*.json"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
