@@ -11,7 +11,7 @@ Many thanks to [@azeemba](https://github.com/azeemba) for getting the auto-updat
 
 ## Data structure
 
-Data for each case is in a file named in the following pattern: `{year}.{docket #}.json`.
+Data for each case is in a file named in the following pattern: `{term}.{docket_number}.json`.
 Transcripts for each hearing associated with that case have the same pattern, but appending `t01`, `t02`, etc.,
 for each individual hearing.
 
@@ -21,9 +21,22 @@ these two transcripts live in `1971.70-18-t01.json` and `1971.70-18-t02.json`.
 At the end of each transcript json file is a `media_file` field, which contains an array of objects holding
 Amazon s3 links to the digitized audio for that hearing in `mp3`, `ogg`, and `m3u8` formats.
 
-Note that `docket #` normally is two numbers joined by `-`. In some cases, the actual docket number has a space
+Note that `docket_number` normally is two numbers joined by `-`. In some cases, the actual docket number has a space
 like `10 ORIG`. In those situations the filename has a `_` in place of the space. Cases before 1955 do not seem 
 to follow this pattern, and in general are less complete than cases after.
+
+In other cases, from the 2024 term, `docket_number` may have a trailing space (e.g. `"23-191 "`). This produces
+filenames that have spaces (e.g. `"2024.23-191 .json"` and `"2024.23-191 -t01.json"`), and these will foul up naïve
+scripts. This is unfortunate, but the unexpected space is specified by Oyez itself and fidelity to the API has merit, so
+it is left uncorrected. The following scripts will perform the correction:
+
+```
+# Strip trailing space from `docket_number`
+% cat oyez/case_summaries.json | jq --ascii-output --join-output '.[].docket_number |= sub(" $"; "")' > oyez/case_summaries_cleaned_up.json && mv oyez/case_summaries_cleaned_up.json oyez/case_summaries.json
+
+# Strip trailing space from case files
+% find oyez/cases -name "* *" -type f -exec bash -c 'mv "$0" "${0// /}"' {} ';'
+```
 
 ## Where does this come from?
 
