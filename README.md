@@ -25,6 +25,19 @@ Note that `docket_number` normally is two numbers joined by `-`. In some cases, 
 like `10 ORIG`. In those situations the filename has a `_` in place of the space. Cases before 1955 do not seem 
 to follow this pattern, and in general are less complete than cases after.
 
+In other cases, from the 2024 term, `docket_number` may have a trailing space (e.g. `"23-191 "`). This produces
+filenames that have spaces (e.g. `"2024.23-191 .json"` and `"2024.23-191 -t01.json"`), and these will foul up naïve
+scripts. This is unfortunate, but the unexpected space is specified by Oyez itself and fidelity to the API has merit, so
+it is left uncorrected. The following scripts will perform the correction:
+
+```
+# Strip trailing space from `docket_number`
+% cat oyez/case_summaries.json | jq --ascii-output --join-output '.[].docket_number |= sub(" $"; "")' > oyez/case_summaries_cleaned_up.json && mv oyez/case_summaries_cleaned_up.json oyez/case_summaries.json
+
+# Strip trailing space from case files
+% find oyez/cases -name "* *" -type f -exec bash -c 'mv "$0" "${0// /}"' {} ';'
+```
+
 ## Where does this come from?
 
 All data is retrieved weekly from [oyez.org](https://www.oyez.org)'s public api. Read more about the Oyez project [here](https://www.oyez.org/about).
